@@ -11,7 +11,7 @@ dependencies:
   seven_icon:
     git:
       url: https://github.com/joehenrique7/seven_icon
-      ref: v0.0.1
+      ref: v0.1.0
 ```
 
 ## Uso
@@ -24,9 +24,9 @@ Icon(SevenIcons.search, size: 24, color: Colors.black);
 
 > **Sobre cor:** num icon font cada glifo é monocromático (uma máscara). A cor que você escolhe ao exportar no Iconsax (ex.: branco) **não é gravada** no `.ttf` — a cor vem do `Icon(color: ...)` ou herda do `IconTheme` no Flutter.
 
-## Ícones disponíveis (26)
+## Ícones disponíveis (56)
 
-`addCircle` · `addSquare` · `archiveTick` · `arrowLeft` · `calendar` · `calendarSearch` · `coin` · `copySuccess` · `discover` · `documentCopy` · `gallery` · `keyboard` · `logout` · `messages` · `notification` · `profile2user` · `profileTick` · `search` · `share` · `shieldTick` · `sliderHorizontal` · `sliderVertical` · `userEdit` · `userSquare` · `verify` · `whatsapp`
+`addCircle` · `addSquare` · `archiveTick` · `arrowLeft` · `arrowRight3` · `backwardItem` · `blend` · `bubble` · `calendar` · `calendarSearch` · `call` · `christmasWreath` · `coin` · `copySuccess` · `discover` · `documentCopy` · `edit` · `edit1` · `filterSquare` · `gallery` · `gift172` · `instagram` · `keyboard` · `logout` · `medalStar` · `messages` · `microphone` · `moreCircle` · `notification` · `partyPopper` · `people` · `personalcard` · `profile2user` · `profileTick` · `recordCircle` · `search` · `securityUser` · `setting` · `setting1` · `setting2` · `share` · `shieldTick` · `sidebarLeft` · `sliderHorizontal` · `sliderVertical` · `star` · `star4` · `starSlash` · `tickSquare` · `user` · `userEdit` · `userSquare` · `verify` · `video` · `voiceCircle` · `whatsapp`
 
 ## Como adicionar/atualizar ícones
 

@@ -1,3 +1,8 @@
+## 0.1.0
+
+* Fonte `assets/fonts/iconsax.ttf` reexportada do Iconsax (todos os codepoints anteriores preservados).
+* `SevenIcons` ampliada para 56 ícones — 30 novos: arrowRight3, backwardItem, blend, bubble, call, christmasWreath, edit, edit1, filterSquare, gift172, instagram, medalStar, microphone, moreCircle, partyPopper, people, personalcard, recordCircle, securityUser, setting, setting1, setting2, sidebarLeft, star, star4, starSlash, tickSquare, user, video, voiceCircle.
+
 ## 0.0.1
 
 * Estrutura inicial do pacote de ícones (icon font baseada no Iconsax).
