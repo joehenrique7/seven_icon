@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SevenIcons — Galeria (seven_icon)</title>
+<style>
+  @font-face {
+    font-family: "SevenIcon";
+    src: url("assets/fonts/iconsax.ttf") format("truetype");
+    font-display: block;
+  }
+  :root{
+    --bg:#0f1115; --card:#171a21; --card2:#1d212b; --line:#262b36;
+    --fg:#e6e9ef; --muted:#8a93a6; --accent:#5b9dff;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg); color:var(--fg);
+  }
+  header{
+    padding:28px 24px 16px; border-bottom:1px solid var(--line);
+    position:sticky; top:0; background:linear-gradient(180deg,var(--bg),rgba(15,17,21,.92));
+    backdrop-filter:blur(6px); z-index:10;
+  }
+  h1{margin:0 0 4px; font-size:20px; letter-spacing:.2px}
+  .sub{color:var(--muted); font-size:13px; margin-bottom:16px}
+  .sub code{background:var(--card2); padding:2px 6px; border-radius:5px; color:#cdd6ea}
+  .controls{display:flex; gap:12px; align-items:center; flex-wrap:wrap}
+  input[type=search]{
+    flex:1; min-width:220px; background:var(--card); border:1px solid var(--line);
+    color:var(--fg); padding:10px 14px; border-radius:10px; font-size:14px; outline:none;
+  }
+  input[type=search]:focus{border-color:var(--accent)}
+  .count{color:var(--muted); font-size:13px; white-space:nowrap}
+  .grid{
+    display:grid; grid-template-columns:repeat(auto-fill,minmax(140px,1fr));
+    gap:14px; padding:24px;
+  }
+  .cell{
+    background:var(--card); border:1px solid var(--line); border-radius:14px;
+    padding:18px 10px 12px; text-align:center; cursor:pointer; transition:.12s;
+    display:flex; flex-direction:column; align-items:center; gap:10px;
+  }
+  .cell:hover{background:var(--card2); border-color:#3a4254; transform:translateY(-2px)}
+  .ico{
+    font-family:"SevenIcon"; font-size:40px; line-height:1; color:var(--fg);
+    -webkit-font-smoothing:antialiased;
+  }
+  .name{font-size:12px; color:var(--muted); word-break:break-word; line-height:1.3}
+  .cell.copied .name{color:#54d18c}
+  .empty{padding:60px 24px; text-align:center; color:var(--muted)}
+  footer{padding:18px 24px 40px; color:var(--muted); font-size:12px; border-top:1px solid var(--line)}
+  .toast{
+    position:fixed; bottom:24px; left:50%; transform:translateX(-50%) translateY(20px);
+    background:var(--accent); color:#08111f; font-weight:600; font-size:13px;
+    padding:10px 16px; border-radius:10px; opacity:0; pointer-events:none; transition:.2s;
+  }
+  .toast.show{opacity:1; transform:translateX(-50%) translateY(0)}
+</style>
+</head>
+<body>
+<header>
+  <h1>SevenIcons</h1>
+  <div class="sub">
+    Galeria do pacote <code>seven_icon</code>. Clique num ícone para copiar
+    <code>SevenIcons.nome</code>. Uso no Flutter:
+    <code>Icon(SevenIcons.search, size: 24)</code>.
+  </div>
+  <div class="controls">
+    <input id="q" type="search" placeholder="Buscar ícone por nome…" autocomplete="off">
+    <span class="count" id="count"></span>
+  </div>
+</header>
+
+<div class="grid" id="grid"></div>
+<div class="empty" id="empty" style="display:none">Nenhum ícone encontrado.</div>
+
+<footer>
+  Fonte: <code>assets/fonts/iconsax.ttf</code> · família <code>SevenIcon</code> ·
+  ícones baseados no <a style="color:var(--accent)" href="https://app.iconsax.io/">Iconsax</a>.
+  Os codepoints ficam na Área de Uso Privado — use sempre as constantes de <code>SevenIcons</code>.
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<script>
+  const ICONS = [
+      {n:"addCircle",c:"E001"},
+      {n:"addSquare",c:"E002"},
+      {n:"archiveTick",c:"E003"},
+      {n:"arrowDown",c:"E004"},
+      {n:"arrowLeft",c:"E005"},
+      {n:"arrowRight3",c:"E006"},
+      {n:"arrowTransfer2",c:"E007"},
+      {n:"arrowUp2",c:"E008"},
+      {n:"backwardItem",c:"E009"},
+      {n:"blend",c:"E00A"},
+      {n:"bubble",c:"E00B"},
+      {n:"building",c:"E00C"},
+      {n:"calendar",c:"E00D"},
+      {n:"calendarSearch",c:"E00E"},
+      {n:"call",c:"E00F"},
+      {n:"camera",c:"E010"},
+      {n:"card",c:"E011"},
+      {n:"christmasWreath",c:"E012"},
+      {n:"clipboard",c:"E013"},
+      {n:"clipboardText",c:"E014"},
+      {n:"clock",c:"E015"},
+      {n:"closeCircle",c:"E016"},
+      {n:"closeSquare",c:"E017"},
+      {n:"coin",c:"E018"},
+      {n:"copy",c:"E019"},
+      {n:"copySuccess",c:"E01A"},
+      {n:"danger",c:"E01B"},
+      {n:"discover",c:"E01C"},
+      {n:"documentCopy",c:"E01D"},
+      {n:"documentNormal",c:"E01E"},
+      {n:"edit",c:"E01F"},
+      {n:"edit1",c:"E020"},
+      {n:"eye",c:"E021"},
+      {n:"eyeSlash",c:"E022"},
+      {n:"filterSquare",c:"E023"},
+      {n:"forbidden",c:"E024"},
+      {n:"gallery",c:"E025"},
+      {n:"gift172",c:"E026"},
+      {n:"global",c:"E027"},
+      {n:"heart",c:"E028"},
+      {n:"heartAdd",c:"E029"},
+      {n:"heartRemove",c:"E02A"},
+      {n:"heartTick",c:"E02B"},
+      {n:"infoCircle",c:"E02C"},
+      {n:"instagram",c:"E02D"},
+      {n:"keyboard",c:"E02E"},
+      {n:"location",c:"E02F"},
+      {n:"locationAdd",c:"E030"},
+      {n:"locationCross",c:"E031"},
+      {n:"locationMinus",c:"E032"},
+      {n:"locationSlash",c:"E033"},
+      {n:"locationTick",c:"E034"},
+      {n:"lock",c:"E035"},
+      {n:"logout",c:"E036"},
+      {n:"map",c:"E037"},
+      {n:"map1",c:"E038"},
+      {n:"medalStar",c:"E039"},
+      {n:"menu",c:"E03A"},
+      {n:"messages",c:"E03B"},
+      {n:"microphone",c:"E03C"},
+      {n:"minusCircle",c:"E03D"},
+      {n:"minusSquare",c:"E03E"},
+      {n:"moreCircle",c:"E03F"},
+      {n:"notification",c:"E040"},
+      {n:"partyPopper",c:"E041"},
+      {n:"people",c:"E042"},
+      {n:"personalcard",c:"E043"},
+      {n:"profile2user",c:"E044"},
+      {n:"profileTick",c:"E045"},
+      {n:"receiptSquare",c:"E046"},
+      {n:"recordCircle",c:"E047"},
+      {n:"search",c:"E048"},
+      {n:"securitySafe",c:"E049"},
+      {n:"securityUser",c:"E04A"},
+      {n:"send",c:"E04B"},
+      {n:"setting",c:"E04C"},
+      {n:"setting1",c:"E04D"},
+      {n:"setting2",c:"E04E"},
+      {n:"share",c:"E04F"},
+      {n:"shieldTick",c:"E050"},
+      {n:"shop",c:"E051"},
+      {n:"sidebarLeft",c:"E052"},
+      {n:"sliderHorizontal",c:"E053"},
+      {n:"sliderVertical",c:"E054"},
+      {n:"star",c:"E055"},
+      {n:"star4",c:"E056"},
+      {n:"starSlash",c:"E057"},
+      {n:"tag",c:"E058"},
+      {n:"threeDotsMore",c:"E059"},
+      {n:"tickSquare",c:"E05A"},
+      {n:"trash",c:"E05B"},
+      {n:"unlock",c:"E05C"},
+      {n:"user",c:"E05D"},
+      {n:"userEdit",c:"E05E"},
+      {n:"userSquare",c:"E05F"},
+      {n:"verify",c:"E060"},
+      {n:"video",c:"E061"},
+      {n:"voiceCircle",c:"E062"},
+      {n:"warning",c:"E063"},
+      {n:"whatsapp",c:"E064"}
+  ];
+  const grid = document.getElementById("grid");
+  const empty = document.getElementById("empty");
+  const countEl = document.getElementById("count");
+  const q = document.getElementById("q");
+  const toast = document.getElementById("toast");
+
+  function render(list){
+    grid.innerHTML = "";
+    list.forEach(it => {
+      const cell = document.createElement("div");
+      cell.className = "cell";
+      cell.title = "Copiar SevenIcons." + it.n;
+      cell.innerHTML =
+        '<span class="ico">&#x' + it.c + ';</span>' +
+        '<span class="name">' + it.n + '</span>';
+      cell.addEventListener("click", () => copy(cell, it.n));
+      grid.appendChild(cell);
+    });
+    empty.style.display = list.length ? "none" : "block";
+    countEl.textContent = list.length + " / " + ICONS.length + " ícones";
+  }
+
+  function copy(cell, name){
+    const text = "SevenIcons." + name;
+    navigator.clipboard?.writeText(text);
+    cell.classList.add("copied");
+    setTimeout(() => cell.classList.remove("copied"), 700);
+    toast.textContent = "Copiado: " + text;
+    toast.classList.add("show");
+    clearTimeout(window.__t);
+    window.__t = setTimeout(() => toast.classList.remove("show"), 1300);
+  }
+
+  q.addEventListener("input", () => {
+    const term = q.value.trim().toLowerCase();
+    render(term ? ICONS.filter(i => i.n.toLowerCase().includes(term)) : ICONS);
+  });
+
+  render(ICONS);
+</script>
+</body>
+</html>
