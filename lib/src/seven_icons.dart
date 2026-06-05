@@ -93,6 +93,7 @@ abstract final class SevenIcons {
   static const IconData backward5Seconds = IconData(0xE1D7, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData backwardItem = IconData(0xE009, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData bank = IconData(0xE0BF, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData barcode = IconData(0xE1FD, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData battery2bars = IconData(0xE142, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData batteryDisable = IconData(0xE143, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData bell2 = IconData(0xE0ED, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -227,6 +228,7 @@ abstract final class SevenIcons {
   static const IconData documentSketch = IconData(0xE12F, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData dollarSquare = IconData(0xE197, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData driving = IconData(0xE102, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData drop = IconData(0xE1FE, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData edit = IconData(0xE01F, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData edit1 = IconData(0xE020, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData emojiHappy = IconData(0xE151, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -417,6 +419,8 @@ abstract final class SevenIcons {
   static const IconData saveAdd = IconData(0xE0A8, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData saveMinus = IconData(0xE0A9, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData saveRemove = IconData(0xE0AA, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData scanBarcode = IconData(0xE1FF, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData scanning = IconData(0xE200, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData scissor = IconData(0xE15E, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData search = IconData(0xE048, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData security = IconData(0xE1C8, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -436,6 +440,8 @@ abstract final class SevenIcons {
   static const IconData shield = IconData(0xE1C9, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData shieldCross = IconData(0xE1CA, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData shieldSearch = IconData(0xE1CB, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData shieldSecurity = IconData(0xE201, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData shieldSlash = IconData(0xE202, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData shieldTick = IconData(0xE050, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData shop = IconData(0xE051, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData shopAdd = IconData(0xE1CC, fontFamily: fontFamily, fontPackage: fontPackage);

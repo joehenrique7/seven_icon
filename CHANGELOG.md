@@ -1,3 +1,7 @@
+## 0.6.0
+
+* `SevenIcons` ampliada para **514 ícones** — 6 novos do export SVG do Iconsax (`barcode`, `drop`, `scanBarcode`, `scanning`, `shieldSecurity`, `shieldSlash`). Mesma pipeline: stroke SVG rasterizado + revetorizado (Skia + potrace) para fill `nonzero` e mesclado como glifo na `iconsax.ttf` existente, nos codepoints `0xE1FD`–`0xE202` — os codepoints atuais foram preservados. Novos: barcode, drop, scanBarcode, scanning, shieldSecurity, shieldSlash.
+
 ## 0.5.0
 
 * `SevenIcons` ampliada para **508 ícones** — 2 novos ícones próprios do AtletaDoVolei (`federado`, `federadoNo`), fora do conjunto Iconsax. SVGs preenchidos rasterizados + revetorizados (Skia + potrace) para fill `nonzero` e mesclados como glifos na `iconsax.ttf` existente, nos codepoints `0xE1FB`/`0xE1FC` — os codepoints atuais foram preservados. Novos: federado, federadoNo.
