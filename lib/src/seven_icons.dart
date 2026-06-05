@@ -34,6 +34,8 @@ abstract final class SevenIcons {
   static const IconData aiLandscape = IconData(0xE06E, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData aiLoveletter = IconData(0xE06F, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData aiRecordVideo = IconData(0xE070, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData airplane = IconData(0xE0EB, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData airplaneSquare = IconData(0xE0EC, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData aiSandTimer = IconData(0xE071, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData aiSendMessage = IconData(0xE072, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData aiShapeTriangle = IconData(0xE073, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -43,8 +45,6 @@ abstract final class SevenIcons {
   static const IconData aiUsers = IconData(0xE077, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData aiWaterCycle = IconData(0xE078, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData aiWeight = IconData(0xE093, fontFamily: fontFamily, fontPackage: fontPackage);
-  static const IconData airplane = IconData(0xE0EB, fontFamily: fontFamily, fontPackage: fontPackage);
-  static const IconData airplaneSquare = IconData(0xE0EC, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData alignBottom = IconData(0xE16B, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData alignLeft = IconData(0xE16C, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData alignLeft1 = IconData(0xE16D, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -147,11 +147,11 @@ abstract final class SevenIcons {
   static const IconData cardReceive = IconData(0xE170, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cardRemove = IconData(0xE171, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cardRemove1 = IconData(0xE172, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData cards = IconData(0xE177, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cardSend = IconData(0xE173, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cardSlash = IconData(0xE174, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cardTick = IconData(0xE175, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cardTick1 = IconData(0xE176, fontFamily: fontFamily, fontPackage: fontPackage);
-  static const IconData cards = IconData(0xE177, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData category = IconData(0xE1B9, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData chainlinkLink = IconData(0xE123, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData chart = IconData(0xE0C5, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -203,6 +203,8 @@ abstract final class SevenIcons {
   static const IconData devices = IconData(0xE100, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData devices1 = IconData(0xE101, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData diagram = IconData(0xE0CE, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData directboxDefault = IconData(0xE14F, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData directboxNotif = IconData(0xE150, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData directDown = IconData(0xE179, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData directInbox = IconData(0xE14C, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData directLeft = IconData(0xE17A, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -210,8 +212,6 @@ abstract final class SevenIcons {
   static const IconData directNotification = IconData(0xE14E, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData directRight = IconData(0xE17B, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData directUp = IconData(0xE17C, fontFamily: fontFamily, fontPackage: fontPackage);
-  static const IconData directboxDefault = IconData(0xE14F, fontFamily: fontFamily, fontPackage: fontPackage);
-  static const IconData directboxNotif = IconData(0xE150, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData discover = IconData(0xE01C, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData dislike = IconData(0xE1BA, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData document = IconData(0xE128, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -243,6 +243,8 @@ abstract final class SevenIcons {
   static const IconData eye = IconData(0xE021, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData eyeSlash = IconData(0xE022, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData favoriteChart = IconData(0xE0CF, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData federado = IconData(0xE1FB, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData federadoNo = IconData(0xE1FC, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData filterSquare = IconData(0xE023, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData filterTick = IconData(0xE154, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData firstline = IconData(0xE1BB, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -391,9 +393,9 @@ abstract final class SevenIcons {
   static const IconData receiptAdd = IconData(0xE1A7, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData receiptSearch = IconData(0xE1A8, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData receiptSquare = IconData(0xE046, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData received = IconData(0xE0B3, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData receiveSquare = IconData(0xE0B1, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData receiveSquare2 = IconData(0xE0B2, fontFamily: fontFamily, fontPackage: fontPackage);
-  static const IconData received = IconData(0xE0B3, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData recordCircle = IconData(0xE047, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData redoArrow = IconData(0xE0B4, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData refreshArrow = IconData(0xE0B5, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -476,14 +478,14 @@ abstract final class SevenIcons {
   static const IconData taskSquare = IconData(0xE13E, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData teacher = IconData(0xE1AE, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData threeDCubeScan = IconData(0xE13F, fontFamily: fontFamily, fontPackage: fontPackage);
-  static const IconData threeDSquare = IconData(0xE140, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData threeDotsMore = IconData(0xE059, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData threeDSquare = IconData(0xE140, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData threeSquare = IconData(0xE18D, fontFamily: fontFamily, fontPackage: fontPackage);
-  static const IconData tickSquare = IconData(0xE05A, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData ticket = IconData(0xE1AF, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData ticketDiscount = IconData(0xE1B0, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData ticketExpired = IconData(0xE1B1, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData ticketStar = IconData(0xE1B2, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData tickSquare = IconData(0xE05A, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData timer = IconData(0xE1CE, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData timerPause = IconData(0xE1CF, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData timerStart = IconData(0xE1D0, fontFamily: fontFamily, fontPackage: fontPackage);
