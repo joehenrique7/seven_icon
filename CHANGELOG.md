@@ -1,3 +1,8 @@
+## 0.7.2
+
+* **Correção da fonte:** o glifo `plus` (adicionado na 0.7.1) tinha um flag de glifo inválido com o bit reservado 7 setado (`flag 180`), gerado pela pipeline svg2ttf/FontForge. O `freetype`/Skia tolerava, mas o **OTS (OpenType Sanitizer)** usado por Chrome/Safari/Firefox rejeitava a fonte inteira — fazendo todos os ícones caírem no glifo de fallback (□) em contextos web (ex.: `gallery.html`). Os bits reservados (6 e 7) dos flags de glifo foram limpos; a fonte agora passa no OTS. Codepoints e contornos preservados (544 ícones).
+* `gallery.html` agora embute a `iconsax.ttf` como data URI base64, ficando autossuficiente (renderiza aberto direto via `file://`, sem depender do caminho do asset).
+
 ## 0.7.0
 
 * `SevenIcons` ampliada para **543 ícones** — 29 novos do Font Awesome (variante _regular_, estilo preenchido), fora do conjunto Iconsax. Os SVGs (já preenchidos, `viewBox` 640) foram importados como glifos com `fontforge`, normalizados para a grade da base (em=1000): cada ícone foi escalado para caber numa caixa de 896 e centrado em `(500, 350)`, alinhando tamanho e baseline aos ícones já existentes; mesclados na `iconsax.ttf` existente nos codepoints `0xE203`–`0xE21F` — os codepoints atuais foram preservados. O ícone `star` do Font Awesome entrou como `star1` (já havia `star`). Novos: alarmClock, bell, bellSlash, calendarCheck, circle, circleCheck, circleDot, faceAngry, faceDizzy, faceFlushed, faceFrown, faceGrinBeamSweat, faceGrinHearts, faceGrinSquintTears, faceGrinStars, faceGrinTears, faceGrinTongue, faceGrinTongueWink, faceGrinWink, faceKissWinkHeart, faceMehBlank, faceSadCry, faceSmileBeam, handshake, squareCheck, squareFull, squareMinus, squarePlus, star1.
