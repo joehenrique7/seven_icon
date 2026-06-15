@@ -398,6 +398,7 @@ abstract final class SevenIcons {
   static const IconData percentageSquare = IconData(0xE1A2, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData personalcard = IconData(0xE043, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData play = IconData(0xE1EA, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData plus = IconData(0xE220, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData presentationChart = IconData(0xE10C, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData previous = IconData(0xE1EB, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData printer = IconData(0xE10D, fontFamily: fontFamily, fontPackage: fontPackage);
