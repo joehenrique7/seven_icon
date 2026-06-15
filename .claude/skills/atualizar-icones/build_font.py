@@ -245,6 +245,42 @@ def from_font_export(work, repo, summary):
     summary.update(source='font', codepoints=cp)
 
 
+def sanitize_font(repo):
+    """Limpa flags de glifo inválidos e valida a fonte no OTS.
+
+    A pipeline svg2ttf/FontForge às vezes deixa o bit reservado 7 (e o bit 6,
+    OVERLAP_SIMPLE) setado nos flags de glifo. O freetype/Skia tolera, mas o OTS
+    (OpenType Sanitizer, usado por Chrome/Safari/Firefox) rejeita a fonte inteira
+    — todos os ícones viram tofu na web. Aqui zeramos os bits 6 e 7 e validamos.
+    """
+    from fontTools.ttLib import TTFont
+    ttf = os.path.join(repo, 'assets/fonts/iconsax.ttf')
+    f = TTFont(ttf)
+    glyf = f['glyf']
+    fixed = []
+    for gname in f.getGlyphOrder():
+        g = glyf[gname]
+        if g.isComposite() or g.numberOfContours <= 0 or not hasattr(g, 'flags'):
+            continue
+        cleaned = bytes(fl & 0x3F for fl in g.flags)
+        if cleaned != bytes(g.flags):
+            g.flags = bytearray(cleaned)
+            fixed.append(gname)
+    if fixed:
+        f.save(ttf)
+    # validação OTS (não-bloqueante se o módulo não estiver instalado)
+    try:
+        import ots
+    except ImportError:
+        print('aviso: opentype-sanitizer não instalado — pulei a validação OTS '
+              '(pip install opentype-sanitizer)', file=sys.stderr)
+        return fixed
+    with tempfile.NamedTemporaryFile(suffix='.ttf') as out:
+        if ots.sanitize(ttf, out.name).returncode != 0:
+            sys.exit('OTS rejeitou a fonte gerada — não passaria nos navegadores')
+    return fixed
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--zip', required=True)
@@ -264,12 +300,14 @@ def main():
             from_svg_export(os.path.dirname(svgs[0]), repo, summary)
         else:
             sys.exit('zip não contém .svg nem .css — export do Iconsax inesperado')
+    fixed = sanitize_font(repo)
     cp = summary['codepoints']
     old = old_names(repo)
     names = sorted(cp, key=str.lower)
     new = [n for n in names if n.lower() not in old]
     report = {"source": summary['source'], "total": len(cp),
-              "new_count": len(new), "new": new, "names": names}
+              "new_count": len(new), "new": new, "names": names,
+              "sanitized_glyphs": fixed}
     print(json.dumps(report, ensure_ascii=False, indent=2))
 
 

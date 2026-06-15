@@ -12,11 +12,15 @@ export do Iconsax e publica uma nova versão. O Iconsax hoje só exporta em
 ## Pré-requisitos (instale se faltar)
 
 - `potrace` → `brew install potrace`
-- venv Python com `skia-python` + `numpy`:
+- venv Python com `skia-python` + `numpy` + `fonttools` + `opentype-sanitizer`:
   ```bash
   python3 -m venv /tmp/seven-icon-venv
-  /tmp/seven-icon-venv/bin/pip install -q skia-python numpy
+  /tmp/seven-icon-venv/bin/pip install -q skia-python numpy fonttools opentype-sanitizer
   ```
+  `fonttools` e `opentype-sanitizer` são usados no passo de saneamento da fonte
+  (zera bits de flag de glifo reservados e valida no OTS — sem isso o Chrome/
+  Safari/Firefox podem rejeitar a fonte e mostrar tofu). Se o OTS não estiver
+  instalado o build apenas avisa e segue; com ele, falha se a fonte não passar.
 - `npx fantasticon` (baixado on-the-fly; precisa de Node) — só para export SVG.
 
 ## Passos
