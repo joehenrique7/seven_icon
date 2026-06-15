@@ -1,3 +1,7 @@
+## 0.7.0
+
+* `SevenIcons` ampliada para **543 ícones** — 29 novos do Font Awesome (variante _regular_, estilo preenchido), fora do conjunto Iconsax. Os SVGs (já preenchidos, `viewBox` 640) foram importados como glifos com `fontforge`, normalizados para a grade da base (em=1000): cada ícone foi escalado para caber numa caixa de 896 e centrado em `(500, 350)`, alinhando tamanho e baseline aos ícones já existentes; mesclados na `iconsax.ttf` existente nos codepoints `0xE203`–`0xE21F` — os codepoints atuais foram preservados. O ícone `star` do Font Awesome entrou como `star1` (já havia `star`). Novos: alarmClock, bell, bellSlash, calendarCheck, circle, circleCheck, circleDot, faceAngry, faceDizzy, faceFlushed, faceFrown, faceGrinBeamSweat, faceGrinHearts, faceGrinSquintTears, faceGrinStars, faceGrinTears, faceGrinTongue, faceGrinTongueWink, faceGrinWink, faceKissWinkHeart, faceMehBlank, faceSadCry, faceSmileBeam, handshake, squareCheck, squareFull, squareMinus, squarePlus, star1.
+
 ## 0.6.0
 
 * `SevenIcons` ampliada para **514 ícones** — 6 novos do export SVG do Iconsax (`barcode`, `drop`, `scanBarcode`, `scanning`, `shieldSecurity`, `shieldSlash`). Mesma pipeline: stroke SVG rasterizado + revetorizado (Skia + potrace) para fill `nonzero` e mesclado como glifo na `iconsax.ttf` existente, nos codepoints `0xE1FD`–`0xE202` — os codepoints atuais foram preservados. Novos: barcode, drop, scanBarcode, scanning, shieldSecurity, shieldSlash.
