@@ -1,3 +1,7 @@
+## 0.8.0
+
+* `SevenIcons` ampliada para **555 ícones** — 11 novos ícones próprios do AtletaDoVolei (estruturas/atributos de quadra), fora do conjunto Iconsax. SVGs preenchidos rasterizados + revetorizados (Skia + potrace) para fill `nonzero` e mesclados como glifos na `iconsax.ttf` existente, nos codepoints `0xE221`–`0xE22B` — os codepoints atuais foram preservados (merge incremental, sem regenerar a fonte). Novos: car1, chairLight, court, court16x8, court18x9, courtClose, drop1, lightBulb, rede, shower, toilet.
+
 ## 0.7.2
 
 * **Correção da fonte:** o glifo `plus` (adicionado na 0.7.1) tinha um flag de glifo inválido com o bit reservado 7 setado (`flag 180`), gerado pela pipeline svg2ttf/FontForge. O `freetype`/Skia tolerava, mas o **OTS (OpenType Sanitizer)** usado por Chrome/Safari/Firefox rejeitava a fonte inteira — fazendo todos os ícones caírem no glifo de fallback (□) em contextos web (ex.: `gallery.html`). Os bits reservados (6 e 7) dos flags de glifo foram limpos; a fonte agora passa no OTS. Codepoints e contornos preservados (544 ícones).

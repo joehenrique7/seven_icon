@@ -146,6 +146,7 @@ abstract final class SevenIcons {
   static const IconData call = IconData(0xE00F, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData camera = IconData(0xE010, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData car = IconData(0xE0F8, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData car1 = IconData(0xE221, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData card = IconData(0xE011, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cardAdd = IconData(0xE16E, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cardEdit = IconData(0xE16F, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -159,6 +160,7 @@ abstract final class SevenIcons {
   static const IconData cardTick1 = IconData(0xE176, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData category = IconData(0xE1B9, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData chainlinkLink = IconData(0xE123, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData chairLight = IconData(0xE222, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData chart = IconData(0xE0C5, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData chart1 = IconData(0xE0C6, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData chart2 = IconData(0xE0C7, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -199,6 +201,10 @@ abstract final class SevenIcons {
   static const IconData convertArrow = IconData(0xE08A, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData copy = IconData(0xE019, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData copySuccess = IconData(0xE01A, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData court = IconData(0xE223, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData court16x8 = IconData(0xE224, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData court18x9 = IconData(0xE225, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData courtClose = IconData(0xE226, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData courthouse = IconData(0xE0CD, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cpu = IconData(0xE0FE, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cpuSetting = IconData(0xE0FF, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -236,6 +242,7 @@ abstract final class SevenIcons {
   static const IconData dollarSquare = IconData(0xE197, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData driving = IconData(0xE102, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData drop = IconData(0xE1FE, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData drop1 = IconData(0xE227, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData edit = IconData(0xE01F, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData edit1 = IconData(0xE020, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData emojiHappy = IconData(0xE151, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -336,6 +343,7 @@ abstract final class SevenIcons {
   static const IconData lampOn = IconData(0xE19A, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData lampSlash = IconData(0xE19B, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData level = IconData(0xE180, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData lightBulb = IconData(0xE228, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData like = IconData(0xE1C0, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData likeDislike = IconData(0xE1C1, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData link = IconData(0xE1C2, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -424,6 +432,7 @@ abstract final class SevenIcons {
   static const IconData receiveSquare = IconData(0xE0B1, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData receiveSquare2 = IconData(0xE0B2, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData recordCircle = IconData(0xE047, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData rede = IconData(0xE229, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData redoArrow = IconData(0xE0B4, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData refreshArrow = IconData(0xE0B5, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData refreshArrow2 = IconData(0xE0B6, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -471,6 +480,7 @@ abstract final class SevenIcons {
   static const IconData shop = IconData(0xE051, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData shopAdd = IconData(0xE1CC, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData shopRemove = IconData(0xE1CD, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData shower = IconData(0xE22A, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData sidebarBottom = IconData(0xE1AA, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData sidebarLeft = IconData(0xE052, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData sidebarRight = IconData(0xE1AB, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -527,6 +537,7 @@ abstract final class SevenIcons {
   static const IconData timerStart = IconData(0xE1D0, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData toggleOffCircle = IconData(0xE1D1, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData toggleOnCircle = IconData(0xE1D2, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData toilet = IconData(0xE22B, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData topBottomGrid = IconData(0xE18E, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData transactionMinus = IconData(0xE1B3, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData trash = IconData(0xE05B, fontFamily: fontFamily, fontPackage: fontPackage);
