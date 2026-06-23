@@ -1,3 +1,7 @@
+## 0.9.0
+
+* `SevenIcons` ampliada para **575 ícones** — 20 novos ícones próprios do AtletaDoVolei (estruturas/atributos de quadra e instalações: acessibilidade, rede, segurança, climatização, etc.), fora do conjunto Iconsax. SVGs rasterizados + revetorizados (Skia + potrace) para fill `nonzero` e mesclados como glifos na `iconsax.ttf` existente, nos codepoints `0xE22C`–`0xE23F` — os codepoints atuais foram preservados (merge incremental, sem regenerar a fonte). O glifo `court16x8` (codepoint `0xE224`) foi **substituído** pela nova arte (rótulo "16×8"). Novos: accessibility, adjustableHeight, air1, availableNetwork, ball1, cabinet, courtClose1, fireExtinguisher, firstAid, lighting, linesCourt, networkAntenna, protectivePosts, snack, snow, socket, teacher1, vest, whistle, wifi.
+
 ## 0.8.0
 
 * `SevenIcons` ampliada para **555 ícones** — 11 novos ícones próprios do AtletaDoVolei (estruturas/atributos de quadra), fora do conjunto Iconsax. SVGs preenchidos rasterizados + revetorizados (Skia + potrace) para fill `nonzero` e mesclados como glifos na `iconsax.ttf` existente, nos codepoints `0xE221`–`0xE22B` — os codepoints atuais foram preservados (merge incremental, sem regenerar a fonte). Novos: car1, chairLight, court, court16x8, court18x9, courtClose, drop1, lightBulb, rede, shower, toilet.
