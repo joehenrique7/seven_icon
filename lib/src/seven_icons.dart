@@ -167,6 +167,7 @@ abstract final class SevenIcons {
   static const IconData category = IconData(0xE1B9, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData chainlinkLink = IconData(0xE123, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData chairLight = IconData(0xE222, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData chairLight1 = IconData(0xE241, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData chart = IconData(0xE0C5, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData chart1 = IconData(0xE0C6, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData chart2 = IconData(0xE0C7, fontFamily: fontFamily, fontPackage: fontPackage);
@@ -192,6 +193,7 @@ abstract final class SevenIcons {
   static const IconData clock1 = IconData(0xE0FB, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData closeCircle = IconData(0xE016, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData closeSquare = IconData(0xE017, fontFamily: fontFamily, fontPackage: fontPackage);
+  static const IconData clothing = IconData(0xE240, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cloud = IconData(0xE1D8, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cloudAdd = IconData(0xE0FC, fontFamily: fontFamily, fontPackage: fontPackage);
   static const IconData cloudCross = IconData(0xE1D9, fontFamily: fontFamily, fontPackage: fontPackage);
