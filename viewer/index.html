@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ícones</title>
+  <!-- O CSS gerado traz o @font-face + as classes .icon-*.
+         O viewer consome exatamente o mesmo arquivo que a sua aplicação vai
+         consumir — se funciona aqui, funciona lá. -->
+  <link rel="stylesheet" href="icons.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header>
+    <h1>Ícones <span id="count" class="count"></span></h1>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Buscar ícone..." autocomplete="off" />
+      <label class="size">
+        Tamanho
+        <input id="size" type="range" min="16" max="72" value="32" />
+        <output id="size-val">32px</output>
+      </label>
+    </div>
+  </header>
+
+  <main id="grid" class="grid" aria-live="polite"></main>
+
+  <p id="empty" class="empty" hidden>Nenhum ícone encontrado.</p>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <!-- Ordem importa: icons.js define window.__ICONS__ antes de app.js usá-lo.
+       Sem type="module" para permitir abrir via file:// (duplo-clique). -->
+  <script src="icons.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>

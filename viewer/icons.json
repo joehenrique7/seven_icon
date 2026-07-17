@@ -1,0 +1,6196 @@
+{
+  "fontFamily": "SevenIcons",
+  "count": 1238,
+  "icons": [
+    {
+      "name": "accessibility",
+      "hex": "e009",
+      "source": "Accessibility.svg"
+    },
+    {
+      "name": "antena",
+      "hex": "e00d",
+      "source": "Antena.svg"
+    },
+    {
+      "name": "cabinet-filing",
+      "hex": "e00e",
+      "source": "Cabinet-filing.svg"
+    },
+    {
+      "name": "cobertura",
+      "hex": "e000",
+      "source": "Cobertura.svg"
+    },
+    {
+      "name": "fork-knife",
+      "hex": "e00f",
+      "source": "Fork-knife.svg"
+    },
+    {
+      "name": "icons",
+      "hex": "e00a",
+      "source": "Icons.svg"
+    },
+    {
+      "name": "quadra-comprimento",
+      "hex": "e010",
+      "source": "Quadra (Comprimento).svg"
+    },
+    {
+      "name": "quadra-largura",
+      "hex": "e011",
+      "source": "Quadra (Largura).svg"
+    },
+    {
+      "name": "shower",
+      "hex": "e001",
+      "source": "Shower.svg"
+    },
+    {
+      "name": "add-2",
+      "hex": "e103",
+      "source": "add-2.svg"
+    },
+    {
+      "name": "ai-tools",
+      "hex": "e024",
+      "source": "ai-tools.svg"
+    },
+    {
+      "name": "align-left-2",
+      "hex": "e104",
+      "source": "align-left-2.svg"
+    },
+    {
+      "name": "align-top-2",
+      "hex": "e105",
+      "source": "align-top-2.svg"
+    },
+    {
+      "name": "archive-2",
+      "hex": "e028",
+      "source": "archive-2.svg"
+    },
+    {
+      "name": "archive-3",
+      "hex": "e029",
+      "source": "archive-3.svg"
+    },
+    {
+      "name": "archive-4",
+      "hex": "e106",
+      "source": "archive-4.svg"
+    },
+    {
+      "name": "archive-5",
+      "hex": "e107",
+      "source": "archive-5.svg"
+    },
+    {
+      "name": "arrow-left4-2",
+      "hex": "e02a",
+      "source": "arrow-left4-2.svg"
+    },
+    {
+      "name": "arrow-swap2-2",
+      "hex": "e02b",
+      "source": "arrow-swap2-2.svg"
+    },
+    {
+      "name": "arrow-up3-2",
+      "hex": "e02c",
+      "source": "arrow-up3-2.svg"
+    },
+    {
+      "name": "bag-2",
+      "hex": "e108",
+      "source": "bag-2.svg"
+    },
+    {
+      "name": "bag-cross-2",
+      "hex": "e109",
+      "source": "bag-cross-2.svg"
+    },
+    {
+      "name": "bag-tick-2",
+      "hex": "e10a",
+      "source": "bag-tick-2.svg"
+    },
+    {
+      "name": "battery-empty-2",
+      "hex": "e10b",
+      "source": "battery-empty-2.svg"
+    },
+    {
+      "name": "blend-2",
+      "hex": "e10c",
+      "source": "blend-2.svg"
+    },
+    {
+      "name": "bluetooth-2",
+      "hex": "e10d",
+      "source": "bluetooth-2.svg"
+    },
+    {
+      "name": "bookmark-2",
+      "hex": "e10e",
+      "source": "bookmark-2.svg"
+    },
+    {
+      "name": "box-2",
+      "hex": "e10f",
+      "source": "box-2.svg"
+    },
+    {
+      "name": "box-3",
+      "hex": "e110",
+      "source": "box-3.svg"
+    },
+    {
+      "name": "building-2",
+      "hex": "e069",
+      "source": "building-2.svg"
+    },
+    {
+      "name": "building-3",
+      "hex": "e06a",
+      "source": "building-3.svg"
+    },
+    {
+      "name": "building-4",
+      "hex": "e06b",
+      "source": "building-4.svg"
+    },
+    {
+      "name": "building-5",
+      "hex": "e111",
+      "source": "building-5.svg"
+    },
+    {
+      "name": "building-6",
+      "hex": "e112",
+      "source": "building-6.svg"
+    },
+    {
+      "name": "building-7",
+      "hex": "e113",
+      "source": "building-7.svg"
+    },
+    {
+      "name": "buildings-2",
+      "hex": "e06c",
+      "source": "buildings-2.svg"
+    },
+    {
+      "name": "buildings-3",
+      "hex": "e114",
+      "source": "buildings-3.svg"
+    },
+    {
+      "name": "cake-3",
+      "hex": "e06d",
+      "source": "cake-3.svg"
+    },
+    {
+      "name": "cake-4",
+      "hex": "e115",
+      "source": "cake-4.svg"
+    },
+    {
+      "name": "calendar-5",
+      "hex": "e06e",
+      "source": "calendar-5.svg"
+    },
+    {
+      "name": "calendar-6",
+      "hex": "e06f",
+      "source": "calendar-6.svg"
+    },
+    {
+      "name": "calendar-7",
+      "hex": "e116",
+      "source": "calendar-7.svg"
+    },
+    {
+      "name": "calendar-8",
+      "hex": "e117",
+      "source": "calendar-8.svg"
+    },
+    {
+      "name": "candle-2",
+      "hex": "e118",
+      "source": "candle-2.svg"
+    },
+    {
+      "name": "car-1",
+      "hex": "e012",
+      "source": "car 1.svg"
+    },
+    {
+      "name": "card-remove-2",
+      "hex": "e119",
+      "source": "card-remove-2.svg"
+    },
+    {
+      "name": "card-tick-2",
+      "hex": "e11a",
+      "source": "card-tick-2.svg"
+    },
+    {
+      "name": "category-2",
+      "hex": "e11b",
+      "source": "category-2.svg"
+    },
+    {
+      "name": "chart-2",
+      "hex": "e070",
+      "source": "chart-2.svg"
+    },
+    {
+      "name": "chart-3",
+      "hex": "e071",
+      "source": "chart-3.svg"
+    },
+    {
+      "name": "chart-4",
+      "hex": "e072",
+      "source": "chart-4.svg"
+    },
+    {
+      "name": "chart-5",
+      "hex": "e11c",
+      "source": "chart-5.svg"
+    },
+    {
+      "name": "chart-6",
+      "hex": "e11d",
+      "source": "chart-6.svg"
+    },
+    {
+      "name": "chart-7",
+      "hex": "e11e",
+      "source": "chart-7.svg"
+    },
+    {
+      "name": "chart-square-2",
+      "hex": "e073",
+      "source": "chart-square-2.svg"
+    },
+    {
+      "name": "chart-square-3",
+      "hex": "e11f",
+      "source": "chart-square-3.svg"
+    },
+    {
+      "name": "clock-3",
+      "hex": "e120",
+      "source": "clock-3.svg"
+    },
+    {
+      "name": "clock-4",
+      "hex": "e121",
+      "source": "clock-4.svg"
+    },
+    {
+      "name": "code-2",
+      "hex": "e122",
+      "source": "code-2.svg"
+    },
+    {
+      "name": "coin-2",
+      "hex": "e123",
+      "source": "coin-2.svg"
+    },
+    {
+      "name": "commentary-2",
+      "hex": "e02d",
+      "source": "commentary-2.svg"
+    },
+    {
+      "name": "convertshape-2",
+      "hex": "e124",
+      "source": "convertshape-2.svg"
+    },
+    {
+      "name": "crown-2",
+      "hex": "e125",
+      "source": "crown-2.svg"
+    },
+    {
+      "name": "data-2",
+      "hex": "e126",
+      "source": "data-2.svg"
+    },
+    {
+      "name": "devices-2",
+      "hex": "e127",
+      "source": "devices-2.svg"
+    },
+    {
+      "name": "discover-2",
+      "hex": "e128",
+      "source": "discover-2.svg"
+    },
+    {
+      "name": "document-2",
+      "hex": "e129",
+      "source": "document-2.svg"
+    },
+    {
+      "name": "document-code-2",
+      "hex": "e12a",
+      "source": "document-code-2.svg"
+    },
+    {
+      "name": "document-text-2",
+      "hex": "e12b",
+      "source": "document-text-2.svg"
+    },
+    {
+      "name": "driver-2",
+      "hex": "e12c",
+      "source": "driver-2.svg"
+    },
+    {
+      "name": "drop-1",
+      "hex": "e013",
+      "source": "drop 1.svg"
+    },
+    {
+      "name": "edit-2",
+      "hex": "e12d",
+      "source": "edit-2.svg"
+    },
+    {
+      "name": "electricity-1",
+      "hex": "e014",
+      "source": "electricity 1.svg"
+    },
+    {
+      "name": "eraser-2",
+      "hex": "e12e",
+      "source": "eraser-2.svg"
+    },
+    {
+      "name": "flag-2",
+      "hex": "e12f",
+      "source": "flag-2.svg"
+    },
+    {
+      "name": "flash-2",
+      "hex": "e130",
+      "source": "flash-2.svg"
+    },
+    {
+      "name": "flash-circle-2",
+      "hex": "e131",
+      "source": "flash-circle-2.svg"
+    },
+    {
+      "name": "folder-2",
+      "hex": "e132",
+      "source": "folder-2.svg"
+    },
+    {
+      "name": "forbidden-2",
+      "hex": "e133",
+      "source": "forbidden-2.svg"
+    },
+    {
+      "name": "gemini-2",
+      "hex": "e074",
+      "source": "gemini-2.svg"
+    },
+    {
+      "name": "gemini-3",
+      "hex": "e134",
+      "source": "gemini-3.svg"
+    },
+    {
+      "name": "gift-2",
+      "hex": "e135",
+      "source": "gift-2.svg"
+    },
+    {
+      "name": "glass-2",
+      "hex": "e136",
+      "source": "glass-2.svg"
+    },
+    {
+      "name": "glass-3",
+      "hex": "e137",
+      "source": "glass-3.svg"
+    },
+    {
+      "name": "grid-2",
+      "hex": "e138",
+      "source": "grid-2.svg"
+    },
+    {
+      "name": "grid-3",
+      "hex": "e139",
+      "source": "grid-3.svg"
+    },
+    {
+      "name": "grid-4",
+      "hex": "e13a",
+      "source": "grid-4.svg"
+    },
+    {
+      "name": "grid-5",
+      "hex": "e13b",
+      "source": "grid-5.svg"
+    },
+    {
+      "name": "grid-6",
+      "hex": "e13c",
+      "source": "grid-6.svg"
+    },
+    {
+      "name": "grid-7",
+      "hex": "e13d",
+      "source": "grid-7.svg"
+    },
+    {
+      "name": "grid-8",
+      "hex": "e13e",
+      "source": "grid-8.svg"
+    },
+    {
+      "name": "grid-9",
+      "hex": "e13f",
+      "source": "grid-9.svg"
+    },
+    {
+      "name": "hashtag-2",
+      "hex": "e075",
+      "source": "hashtag-2.svg"
+    },
+    {
+      "name": "hashtag-3",
+      "hex": "e140",
+      "source": "hashtag-3.svg"
+    },
+    {
+      "name": "hierarchy-2",
+      "hex": "e141",
+      "source": "hierarchy-2.svg"
+    },
+    {
+      "name": "hierarchy-3",
+      "hex": "e142",
+      "source": "hierarchy-3.svg"
+    },
+    {
+      "name": "hierarchy-square-2",
+      "hex": "e143",
+      "source": "hierarchy-square-2.svg"
+    },
+    {
+      "name": "hierarchy-square-3",
+      "hex": "e144",
+      "source": "hierarchy-square-3.svg"
+    },
+    {
+      "name": "home-2",
+      "hex": "e145",
+      "source": "home-2.svg"
+    },
+    {
+      "name": "home-3",
+      "hex": "e146",
+      "source": "home-3.svg"
+    },
+    {
+      "name": "hospital-2",
+      "hex": "e02e",
+      "source": "hospital-2.svg"
+    },
+    {
+      "name": "hospital-3",
+      "hex": "e076",
+      "source": "hospital-3.svg"
+    },
+    {
+      "name": "hospital-4",
+      "hex": "e147",
+      "source": "hospital-4.svg"
+    },
+    {
+      "name": "house-2",
+      "hex": "e077",
+      "source": "house-2.svg"
+    },
+    {
+      "name": "house-3",
+      "hex": "e148",
+      "source": "house-3.svg"
+    },
+    {
+      "name": "html-2",
+      "hex": "e149",
+      "source": "html-2.svg"
+    },
+    {
+      "name": "hugeicons-first-aid-kit",
+      "hex": "e015",
+      "source": "hugeicons_first-aid-kit.svg"
+    },
+    {
+      "name": "i-24-support",
+      "hex": "e14a",
+      "source": "iconsax-24-support-4f2df249a89f-.svg"
+    },
+    {
+      "name": "i-3-dots-more",
+      "hex": "e14b",
+      "source": "iconsax-3-dots-more-edabbc5c5e31-.svg"
+    },
+    {
+      "name": "i-3d-cube-scan",
+      "hex": "e14c",
+      "source": "iconsax-3d-cube-scan-8fb9267b1ec1-.svg"
+    },
+    {
+      "name": "i-3d-rotate",
+      "hex": "e14d",
+      "source": "iconsax-3d-rotate-0e867adca4ee-.svg"
+    },
+    {
+      "name": "i-3d-square",
+      "hex": "e14e",
+      "source": "iconsax-3d-square-0dbdbf028fc8-.svg"
+    },
+    {
+      "name": "i-3dcube",
+      "hex": "e14f",
+      "source": "iconsax-3dcube-0012202af2a4-.svg"
+    },
+    {
+      "name": "i-3square",
+      "hex": "e150",
+      "source": "iconsax-3square-a1c2444a2ba2-.svg"
+    },
+    {
+      "name": "aave-aave",
+      "hex": "e151",
+      "source": "iconsax-aave-aave-385547340c0f-.svg"
+    },
+    {
+      "name": "activity",
+      "hex": "e078",
+      "source": "iconsax-activity-1eed896e6410-.svg"
+    },
+    {
+      "name": "add-circle",
+      "hex": "e152",
+      "source": "iconsax-add-circle-949fc2b30841-.svg"
+    },
+    {
+      "name": "add-item",
+      "hex": "e153",
+      "source": "iconsax-add-item-7630cefc1228-.svg"
+    },
+    {
+      "name": "add-square",
+      "hex": "e154",
+      "source": "iconsax-add-square-42728dea1754-.svg"
+    },
+    {
+      "name": "ac",
+      "hex": "e02f",
+      "source": "iconsax-ai-ac-af78b0a19a1b-.svg"
+    },
+    {
+      "name": "add",
+      "hex": "e030",
+      "source": "iconsax-ai-add-8bb329fea39e-.svg"
+    },
+    {
+      "name": "antenna",
+      "hex": "e002",
+      "source": "iconsax-ai-antenna-689e5df9561d-.svg"
+    },
+    {
+      "name": "commentary",
+      "hex": "e031",
+      "source": "iconsax-ai-commentary-8a6014600866-.svg"
+    },
+    {
+      "name": "fuel-tank",
+      "hex": "e003",
+      "source": "iconsax-ai-fuel-tank-2440af1fa1e9-.svg"
+    },
+    {
+      "name": "heart-square",
+      "hex": "e004",
+      "source": "iconsax-ai-heart-square-3523f777a800-.svg"
+    },
+    {
+      "name": "homepage",
+      "hex": "e005",
+      "source": "iconsax-ai-homepage-13fbca2a4aa2-.svg"
+    },
+    {
+      "name": "hospital",
+      "hex": "e079",
+      "source": "iconsax-ai-hospital-8d6ba04c223b-.svg"
+    },
+    {
+      "name": "housing",
+      "hex": "e025",
+      "source": "iconsax-ai-housing-850bb6096493-.svg"
+    },
+    {
+      "name": "landscape",
+      "hex": "e032",
+      "source": "iconsax-ai-landscape-9eced9f1882d-.svg"
+    },
+    {
+      "name": "loveletter",
+      "hex": "e006",
+      "source": "iconsax-ai-loveletter-b993634350d3-.svg"
+    },
+    {
+      "name": "record-video",
+      "hex": "e023",
+      "source": "iconsax-ai-record-video-1051c4d05d2c-.svg"
+    },
+    {
+      "name": "sand-timer",
+      "hex": "e033",
+      "source": "iconsax-ai-sand-timer-e9d359a0b70e-.svg"
+    },
+    {
+      "name": "send-message",
+      "hex": "e026",
+      "source": "iconsax-ai-send-message-266a06822529-.svg"
+    },
+    {
+      "name": "shape-triangle",
+      "hex": "e034",
+      "source": "iconsax-ai-shape-triangle-3097cc67f779-.svg"
+    },
+    {
+      "name": "syringe",
+      "hex": "e007",
+      "source": "iconsax-ai-syringe-73c47389a8b7-.svg"
+    },
+    {
+      "name": "tag-price",
+      "hex": "e035",
+      "source": "iconsax-ai-tag-price-90a276786301-.svg"
+    },
+    {
+      "name": "tools",
+      "hex": "e027",
+      "source": "iconsax-ai-tools-49e63a73975d-.svg"
+    },
+    {
+      "name": "users",
+      "hex": "e036",
+      "source": "iconsax-ai-users-b5de6bee445d-.svg"
+    },
+    {
+      "name": "water-cycle",
+      "hex": "e037",
+      "source": "iconsax-ai-water-cycle-ee95fd61402a-.svg"
+    },
+    {
+      "name": "weight",
+      "hex": "e038",
+      "source": "iconsax-ai-weight-17a51672b321-.svg"
+    },
+    {
+      "name": "airdrop",
+      "hex": "e155",
+      "source": "iconsax-airdrop-ed9b5fc0cec4-.svg"
+    },
+    {
+      "name": "airplane",
+      "hex": "e07a",
+      "source": "iconsax-airplane-3d9beff5eea9-.svg"
+    },
+    {
+      "name": "airplane-square",
+      "hex": "e07b",
+      "source": "iconsax-airplane-square-d324a3cc4ea4-.svg"
+    },
+    {
+      "name": "airpod",
+      "hex": "e156",
+      "source": "iconsax-airpod-15106a9a46cf-.svg"
+    },
+    {
+      "name": "airpods",
+      "hex": "e157",
+      "source": "iconsax-airpods-6329c7bb5cb3-.svg"
+    },
+    {
+      "name": "alarm",
+      "hex": "e158",
+      "source": "iconsax-alarm-e599161319dd-.svg"
+    },
+    {
+      "name": "align-bottom",
+      "hex": "e159",
+      "source": "iconsax-align-bottom-9a20b574458b-.svg"
+    },
+    {
+      "name": "align-horizontally",
+      "hex": "e15a",
+      "source": "iconsax-align-horizontally-edb8c2da04f7-.svg"
+    },
+    {
+      "name": "align-left",
+      "hex": "e15b",
+      "source": "iconsax-align-left-1b8c1a92fda8-.svg"
+    },
+    {
+      "name": "align-right",
+      "hex": "e15c",
+      "source": "iconsax-align-right-27d69a33fcaa-.svg"
+    },
+    {
+      "name": "align-top",
+      "hex": "e15d",
+      "source": "iconsax-align-top-3c51c7a4edd5-.svg"
+    },
+    {
+      "name": "align-vertically",
+      "hex": "e15e",
+      "source": "iconsax-align-vertically-1a53bcca787c-.svg"
+    },
+    {
+      "name": "android",
+      "hex": "e15f",
+      "source": "iconsax-android-f2e1763b18ad-.svg"
+    },
+    {
+      "name": "angel",
+      "hex": "e07c",
+      "source": "iconsax-angel-f3230546ee6d-.svg"
+    },
+    {
+      "name": "angel2",
+      "hex": "e07d",
+      "source": "iconsax-angel2-fc2d8eb45108-.svg"
+    },
+    {
+      "name": "ankr-ankr",
+      "hex": "e160",
+      "source": "iconsax-ankr-ankr-9cde079c1d08-.svg"
+    },
+    {
+      "name": "apple",
+      "hex": "e161",
+      "source": "iconsax-apple-2db80f64f551-.svg"
+    },
+    {
+      "name": "aquarius",
+      "hex": "e07e",
+      "source": "iconsax-aquarius-559681eb20cb-.svg"
+    },
+    {
+      "name": "archive-add",
+      "hex": "e03a",
+      "source": "iconsax-archive-add-2df956bb6784-.svg"
+    },
+    {
+      "name": "archive",
+      "hex": "e039",
+      "source": "iconsax-archive-c5217bb650a1-.svg"
+    },
+    {
+      "name": "archive-minus",
+      "hex": "e03b",
+      "source": "iconsax-archive-minus-5890d771146e-.svg"
+    },
+    {
+      "name": "archive-slash",
+      "hex": "e07f",
+      "source": "iconsax-archive-slash-e9442ed0acb2-.svg"
+    },
+    {
+      "name": "archive-tick",
+      "hex": "e03c",
+      "source": "iconsax-archive-tick-9daf48311d29-.svg"
+    },
+    {
+      "name": "archive01",
+      "hex": "e080",
+      "source": "iconsax-archive01-3b5fd84afa7b-.svg"
+    },
+    {
+      "name": "archive02",
+      "hex": "e081",
+      "source": "iconsax-archive02-50749a63aded-.svg"
+    },
+    {
+      "name": "arrow",
+      "hex": "e162",
+      "source": "iconsax-arrow-39a01c8c056a-.svg"
+    },
+    {
+      "name": "arrow-back",
+      "hex": "e03d",
+      "source": "iconsax-arrow-back-b2009023792f-.svg"
+    },
+    {
+      "name": "arrow-circle-down",
+      "hex": "e03e",
+      "source": "iconsax-arrow-circle-down-79983e8e0ad4-.svg"
+    },
+    {
+      "name": "arrow-circle-left",
+      "hex": "e082",
+      "source": "iconsax-arrow-circle-left-1a2933325b1a-.svg"
+    },
+    {
+      "name": "arrow-circle-right",
+      "hex": "e03f",
+      "source": "iconsax-arrow-circle-right-56213a7552ea-.svg"
+    },
+    {
+      "name": "arrow-circle-up",
+      "hex": "e083",
+      "source": "iconsax-arrow-circle-up-cecbd574fa03-.svg"
+    },
+    {
+      "name": "arrow-down",
+      "hex": "e040",
+      "source": "iconsax-arrow-down-9ec09d4bb816-.svg"
+    },
+    {
+      "name": "arrow-down2",
+      "hex": "e041",
+      "source": "iconsax-arrow-down2-398a69e14309-.svg"
+    },
+    {
+      "name": "arrow-down3",
+      "hex": "e042",
+      "source": "iconsax-arrow-down3-20c0574673d4-.svg"
+    },
+    {
+      "name": "arrow-down4",
+      "hex": "e043",
+      "source": "iconsax-arrow-down4-2ae7ccb38fac-.svg"
+    },
+    {
+      "name": "arrow-forward",
+      "hex": "e044",
+      "source": "iconsax-arrow-forward-7b01b0dd4684-.svg"
+    },
+    {
+      "name": "arrow-left",
+      "hex": "e045",
+      "source": "iconsax-arrow-left-dc20f18e1f9b-.svg"
+    },
+    {
+      "name": "arrow-left2",
+      "hex": "e046",
+      "source": "iconsax-arrow-left2-28bddbba2258-.svg"
+    },
+    {
+      "name": "arrow-left3",
+      "hex": "e047",
+      "source": "iconsax-arrow-left3-5544330a6ecd-.svg"
+    },
+    {
+      "name": "arrow-right",
+      "hex": "e04a",
+      "source": "iconsax-arrow-right-8e06840ea0c0-.svg"
+    },
+    {
+      "name": "arrow-right2",
+      "hex": "e04b",
+      "source": "iconsax-arrow-right2-a37e7adc2d6f-.svg"
+    },
+    {
+      "name": "arrow-right3",
+      "hex": "e04c",
+      "source": "iconsax-arrow-right3-223086db558f-.svg"
+    },
+    {
+      "name": "arrow-right4",
+      "hex": "e04d",
+      "source": "iconsax-arrow-right4-936c10a60949-.svg"
+    },
+    {
+      "name": "arrow-square",
+      "hex": "e163",
+      "source": "iconsax-arrow-square-79758e036118-.svg"
+    },
+    {
+      "name": "arrow-square-down",
+      "hex": "e04e",
+      "source": "iconsax-arrow-square-down-0f945b7acee6-.svg"
+    },
+    {
+      "name": "arrow-square-left",
+      "hex": "e04f",
+      "source": "iconsax-arrow-square-left-fdcc85f7b1a4-.svg"
+    },
+    {
+      "name": "arrow-square-right",
+      "hex": "e050",
+      "source": "iconsax-arrow-square-right-bf248a7606b2-.svg"
+    },
+    {
+      "name": "arrow-square-up",
+      "hex": "e051",
+      "source": "iconsax-arrow-square-up-11a7a8fc5d47-.svg"
+    },
+    {
+      "name": "arrow-swap",
+      "hex": "e052",
+      "source": "iconsax-arrow-swap-434792f4dacf-.svg"
+    },
+    {
+      "name": "arrow-swap2",
+      "hex": "e053",
+      "source": "iconsax-arrow-swap2-f79501db7a2d-.svg"
+    },
+    {
+      "name": "arrow-swap3",
+      "hex": "e084",
+      "source": "iconsax-arrow-swap3-52a866457123-.svg"
+    },
+    {
+      "name": "arrow-transfer",
+      "hex": "e054",
+      "source": "iconsax-arrow-transfer-5b2a4e69d004-.svg"
+    },
+    {
+      "name": "arrow-transfer2",
+      "hex": "e055",
+      "source": "iconsax-arrow-transfer2-88e67835682d-.svg"
+    },
+    {
+      "name": "arrow-up",
+      "hex": "e056",
+      "source": "iconsax-arrow-up-4a8ab9cb7932-.svg"
+    },
+    {
+      "name": "arrow-up2",
+      "hex": "e057",
+      "source": "iconsax-arrow-up2-124f5431f158-.svg"
+    },
+    {
+      "name": "arrow-up3",
+      "hex": "e058",
+      "source": "iconsax-arrow-up3-fe34c82a0975-.svg"
+    },
+    {
+      "name": "arrow-up4",
+      "hex": "e059",
+      "source": "iconsax-arrow-up4-5cb78deb65cb-.svg"
+    },
+    {
+      "name": "attach-circle",
+      "hex": "e164",
+      "source": "iconsax-attach-circle-483dc22c0ecb-.svg"
+    },
+    {
+      "name": "attach-square",
+      "hex": "e165",
+      "source": "iconsax-attach-square-605319e38a36-.svg"
+    },
+    {
+      "name": "audio-square",
+      "hex": "e166",
+      "source": "iconsax-audio-square-d1b458568a45-.svg"
+    },
+    {
+      "name": "augur-rep",
+      "hex": "e167",
+      "source": "iconsax-augur-rep-3fc346f95d2a-.svg"
+    },
+    {
+      "name": "autobrightness",
+      "hex": "e168",
+      "source": "iconsax-autobrightness-c0f3d11887c2-.svg"
+    },
+    {
+      "name": "autonio-niox",
+      "hex": "e169",
+      "source": "iconsax-autonio-niox-713d6d1f46b3-.svg"
+    },
+    {
+      "name": "avalanche-avax",
+      "hex": "e16a",
+      "source": "iconsax-avalanche-avax-3b66149abd6f-.svg"
+    },
+    {
+      "name": "award",
+      "hex": "e16b",
+      "source": "iconsax-award-364f7c054c44-.svg"
+    },
+    {
+      "name": "backward-10-seconds",
+      "hex": "e16c",
+      "source": "iconsax-backward-10-seconds-debf94b2807c-.svg"
+    },
+    {
+      "name": "backward-15-seconds",
+      "hex": "e16d",
+      "source": "iconsax-backward-15-seconds-329919144a60-.svg"
+    },
+    {
+      "name": "backward-5-seconds",
+      "hex": "e16e",
+      "source": "iconsax-backward-5-seconds-f972ac1fd963-.svg"
+    },
+    {
+      "name": "backward",
+      "hex": "e16f",
+      "source": "iconsax-backward-b1ea54da5e38-.svg"
+    },
+    {
+      "name": "backward-item",
+      "hex": "e170",
+      "source": "iconsax-backward-item-480049f2e195-.svg"
+    },
+    {
+      "name": "bag",
+      "hex": "e171",
+      "source": "iconsax-bag-097a13372968-.svg"
+    },
+    {
+      "name": "bag-cross",
+      "hex": "e172",
+      "source": "iconsax-bag-cross-724938f0df56-.svg"
+    },
+    {
+      "name": "bag-happy",
+      "hex": "e173",
+      "source": "iconsax-bag-happy-1cbfb85edfdb-.svg"
+    },
+    {
+      "name": "bag-tick",
+      "hex": "e174",
+      "source": "iconsax-bag-tick-348c9d632cc9-.svg"
+    },
+    {
+      "name": "bag-timer",
+      "hex": "e175",
+      "source": "iconsax-bag-timer-0a02a68be6ce-.svg"
+    },
+    {
+      "name": "ball",
+      "hex": "e085",
+      "source": "iconsax-ball-4e1f6fa78244-.svg"
+    },
+    {
+      "name": "ball10",
+      "hex": "e086",
+      "source": "iconsax-ball10-ac0f4c6e85be-.svg"
+    },
+    {
+      "name": "ball11",
+      "hex": "e087",
+      "source": "iconsax-ball11-760992982892-.svg"
+    },
+    {
+      "name": "ball112",
+      "hex": "e088",
+      "source": "iconsax-ball112-00d0ea14bccb-.svg"
+    },
+    {
+      "name": "ball16",
+      "hex": "e089",
+      "source": "iconsax-ball16-f7abda9b50b2-.svg"
+    },
+    {
+      "name": "ball18",
+      "hex": "e08a",
+      "source": "iconsax-ball18-d4811f0325c7-.svg"
+    },
+    {
+      "name": "ball182",
+      "hex": "e08b",
+      "source": "iconsax-ball182-2bf8289d1a1f-.svg"
+    },
+    {
+      "name": "ball19",
+      "hex": "e08c",
+      "source": "iconsax-ball19-d37f7c25d0d9-.svg"
+    },
+    {
+      "name": "ball2",
+      "hex": "e08d",
+      "source": "iconsax-ball2-dd378f77eea2-.svg"
+    },
+    {
+      "name": "ball20",
+      "hex": "e08e",
+      "source": "iconsax-ball20-5df1b8c03287-.svg"
+    },
+    {
+      "name": "ball21",
+      "hex": "e08f",
+      "source": "iconsax-ball21-4c4151d7bf45-.svg"
+    },
+    {
+      "name": "ball22",
+      "hex": "e090",
+      "source": "iconsax-ball22-4b2a069a1dfc-.svg"
+    },
+    {
+      "name": "ball222",
+      "hex": "e091",
+      "source": "iconsax-ball222-01fd129a7c80-.svg"
+    },
+    {
+      "name": "ball23",
+      "hex": "e092",
+      "source": "iconsax-ball23-17527e6e705a-.svg"
+    },
+    {
+      "name": "ball232",
+      "hex": "e093",
+      "source": "iconsax-ball232-b91b6c900402-.svg"
+    },
+    {
+      "name": "ball24",
+      "hex": "e094",
+      "source": "iconsax-ball24-dd1e87aaf0f2-.svg"
+    },
+    {
+      "name": "ball242",
+      "hex": "e095",
+      "source": "iconsax-ball242-597a0decec06-.svg"
+    },
+    {
+      "name": "ball25",
+      "hex": "e096",
+      "source": "iconsax-ball25-de86b0e8ebce-.svg"
+    },
+    {
+      "name": "ball252",
+      "hex": "e097",
+      "source": "iconsax-ball252-c96c618ebe76-.svg"
+    },
+    {
+      "name": "ball26",
+      "hex": "e098",
+      "source": "iconsax-ball26-385822510e36-.svg"
+    },
+    {
+      "name": "ball262",
+      "hex": "e099",
+      "source": "iconsax-ball262-7a56ed5b069a-.svg"
+    },
+    {
+      "name": "ball27",
+      "hex": "e09a",
+      "source": "iconsax-ball27-8755195b0fbf-.svg"
+    },
+    {
+      "name": "ball272",
+      "hex": "e09b",
+      "source": "iconsax-ball272-7f8aebe4cda1-.svg"
+    },
+    {
+      "name": "ball28",
+      "hex": "e09c",
+      "source": "iconsax-ball28-28cd850de94c-.svg"
+    },
+    {
+      "name": "ball3",
+      "hex": "e09d",
+      "source": "iconsax-ball3-e4ea68d52cc1-.svg"
+    },
+    {
+      "name": "ball4",
+      "hex": "e09e",
+      "source": "iconsax-ball4-5baedb5fc636-.svg"
+    },
+    {
+      "name": "ball5",
+      "hex": "e09f",
+      "source": "iconsax-ball5-7d99d16f3036-.svg"
+    },
+    {
+      "name": "ball9",
+      "hex": "e0a0",
+      "source": "iconsax-ball9-903a8a88aae0-.svg"
+    },
+    {
+      "name": "balll",
+      "hex": "e0a1",
+      "source": "iconsax-balll-da66fdf9ed87-.svg"
+    },
+    {
+      "name": "baloons",
+      "hex": "e0a2",
+      "source": "iconsax-baloons-57e0da38caf8-.svg"
+    },
+    {
+      "name": "bank",
+      "hex": "e0a3",
+      "source": "iconsax-bank-c468e111f094-.svg"
+    },
+    {
+      "name": "barcode",
+      "hex": "e176",
+      "source": "iconsax-barcode-8ef9fc6181e8-.svg"
+    },
+    {
+      "name": "battery-2bars",
+      "hex": "e177",
+      "source": "iconsax-battery-2bars-6500a99b03b5-.svg"
+    },
+    {
+      "name": "battery-charging",
+      "hex": "e178",
+      "source": "iconsax-battery-charging-d7220ee7493c-.svg"
+    },
+    {
+      "name": "battery-disable",
+      "hex": "e179",
+      "source": "iconsax-battery-disable-ab4f3e81d772-.svg"
+    },
+    {
+      "name": "battery-empty",
+      "hex": "e17a",
+      "source": "iconsax-battery-empty-1f850f264065-.svg"
+    },
+    {
+      "name": "battery-full",
+      "hex": "e17b",
+      "source": "iconsax-battery-full-c78a5bd6d806-.svg"
+    },
+    {
+      "name": "behance",
+      "hex": "e17c",
+      "source": "iconsax-behance-5f5735127037-.svg"
+    },
+    {
+      "name": "bell",
+      "hex": "e0a4",
+      "source": "iconsax-bell-bab4c402a8dc-.svg"
+    },
+    {
+      "name": "bell2",
+      "hex": "e0a5",
+      "source": "iconsax-bell2-908b27e2683a-.svg"
+    },
+    {
+      "name": "bezier",
+      "hex": "e17d",
+      "source": "iconsax-bezier-b9d143ff0720-.svg"
+    },
+    {
+      "name": "binance-coin-bnb",
+      "hex": "e17e",
+      "source": "iconsax-binance-coin-bnb-67a3ddce3347-.svg"
+    },
+    {
+      "name": "binance-usd-busd",
+      "hex": "e17f",
+      "source": "iconsax-binance-usd-busd-4c25ec003ee6-.svg"
+    },
+    {
+      "name": "birds",
+      "hex": "e0a6",
+      "source": "iconsax-birds-fb51ed246118-.svg"
+    },
+    {
+      "name": "bitcoin-btc",
+      "hex": "e180",
+      "source": "iconsax-bitcoin-btc-4e9541c879f4-.svg"
+    },
+    {
+      "name": "bitcoin-card",
+      "hex": "e181",
+      "source": "iconsax-bitcoin-card-4ef37df7d62d-.svg"
+    },
+    {
+      "name": "bitcoin-convert",
+      "hex": "e182",
+      "source": "iconsax-bitcoin-convert-2523262f1b7b-.svg"
+    },
+    {
+      "name": "bitcoin-refresh",
+      "hex": "e183",
+      "source": "iconsax-bitcoin-refresh-5ad80715d491-.svg"
+    },
+    {
+      "name": "blend",
+      "hex": "e184",
+      "source": "iconsax-blend-97e1922e9c22-.svg"
+    },
+    {
+      "name": "blogger",
+      "hex": "e185",
+      "source": "iconsax-blogger-54545a5ae682-.svg"
+    },
+    {
+      "name": "bluetooth",
+      "hex": "e186",
+      "source": "iconsax-bluetooth-a23eafa8afd9-.svg"
+    },
+    {
+      "name": "bluetooth-circle",
+      "hex": "e187",
+      "source": "iconsax-bluetooth-circle-e48cb2fd676f-.svg"
+    },
+    {
+      "name": "bluetooth-rectangle",
+      "hex": "e188",
+      "source": "iconsax-bluetooth-rectangle-08f2bd8c3cc0-.svg"
+    },
+    {
+      "name": "blur",
+      "hex": "e189",
+      "source": "iconsax-blur-61bdf154dfff-.svg"
+    },
+    {
+      "name": "book",
+      "hex": "e18a",
+      "source": "iconsax-book-8f2b4599e5ff-.svg"
+    },
+    {
+      "name": "book-open",
+      "hex": "e18b",
+      "source": "iconsax-book-open-f239a1e0b291-.svg"
+    },
+    {
+      "name": "book-saved",
+      "hex": "e05a",
+      "source": "iconsax-book-saved-ab216759b736-.svg"
+    },
+    {
+      "name": "book-square",
+      "hex": "e05b",
+      "source": "iconsax-book-square-b8ed3b18be9e-.svg"
+    },
+    {
+      "name": "booking-snow",
+      "hex": "e0a7",
+      "source": "iconsax-booking-snow-ea35b5b472ef-.svg"
+    },
+    {
+      "name": "bookmark",
+      "hex": "e18c",
+      "source": "iconsax-bookmark-d916e715a658-.svg"
+    },
+    {
+      "name": "bootstrap",
+      "hex": "e18d",
+      "source": "iconsax-bootstrap-e4df6dbcbfd6-.svg"
+    },
+    {
+      "name": "box",
+      "hex": "e18e",
+      "source": "iconsax-box-17af7334a459-.svg"
+    },
+    {
+      "name": "box-add",
+      "hex": "e18f",
+      "source": "iconsax-box-add-2946d40a4b04-.svg"
+    },
+    {
+      "name": "box-remove",
+      "hex": "e190",
+      "source": "iconsax-box-remove-5e21ae8b98d6-.svg"
+    },
+    {
+      "name": "box-search",
+      "hex": "e191",
+      "source": "iconsax-box-search-b77298ba9a35-.svg"
+    },
+    {
+      "name": "box-tick",
+      "hex": "e192",
+      "source": "iconsax-box-tick-396f4b7ba335-.svg"
+    },
+    {
+      "name": "box-time",
+      "hex": "e193",
+      "source": "iconsax-box-time-cd71e10986cd-.svg"
+    },
+    {
+      "name": "briefcase",
+      "hex": "e194",
+      "source": "iconsax-briefcase-7f2c22cfd0ce-.svg"
+    },
+    {
+      "name": "brifecase-cross",
+      "hex": "e195",
+      "source": "iconsax-brifecase-cross-ae3fd97a5628-.svg"
+    },
+    {
+      "name": "brifecase-tick",
+      "hex": "e196",
+      "source": "iconsax-brifecase-tick-a9c6e28e86e5-.svg"
+    },
+    {
+      "name": "brifecase-timer",
+      "hex": "e197",
+      "source": "iconsax-brifecase-timer-bf602fa21582-.svg"
+    },
+    {
+      "name": "broom",
+      "hex": "e198",
+      "source": "iconsax-broom-37f82e25a966-.svg"
+    },
+    {
+      "name": "brush",
+      "hex": "e199",
+      "source": "iconsax-brush-cff00b515f04-.svg"
+    },
+    {
+      "name": "brush-square",
+      "hex": "e19a",
+      "source": "iconsax-brush-square-1b38a706005d-.svg"
+    },
+    {
+      "name": "bubble",
+      "hex": "e19b",
+      "source": "iconsax-bubble-2ccae201724c-.svg"
+    },
+    {
+      "name": "bucket-circle",
+      "hex": "e19c",
+      "source": "iconsax-bucket-circle-e4e35d1420df-.svg"
+    },
+    {
+      "name": "bucket",
+      "hex": "e19d",
+      "source": "iconsax-bucket-e2bf60d308d9-.svg"
+    },
+    {
+      "name": "bucket-square",
+      "hex": "e19e",
+      "source": "iconsax-bucket-square-1cd84648a60b-.svg"
+    },
+    {
+      "name": "building",
+      "hex": "e0a8",
+      "source": "iconsax-building-44906877d937-.svg"
+    },
+    {
+      "name": "buildings",
+      "hex": "e0a9",
+      "source": "iconsax-buildings-2af56dd73c76-.svg"
+    },
+    {
+      "name": "bus",
+      "hex": "e0aa",
+      "source": "iconsax-bus-fa4edd37df3a-.svg"
+    },
+    {
+      "name": "buy-crypto",
+      "hex": "e19f",
+      "source": "iconsax-buy-crypto-c6ec056cba54-.svg"
+    },
+    {
+      "name": "cake",
+      "hex": "e0ab",
+      "source": "iconsax-cake-469f2dde0adb-.svg"
+    },
+    {
+      "name": "cake2",
+      "hex": "e0ac",
+      "source": "iconsax-cake2-5ef0ea127ade-.svg"
+    },
+    {
+      "name": "calculator",
+      "hex": "e1a0",
+      "source": "iconsax-calculator-2ca4aa57291c-.svg"
+    },
+    {
+      "name": "calendar",
+      "hex": "e0ad",
+      "source": "iconsax-calendar-1f58e03055a5-.svg"
+    },
+    {
+      "name": "calendar-add",
+      "hex": "e1a1",
+      "source": "iconsax-calendar-add-c7b3dab989b2-.svg"
+    },
+    {
+      "name": "calendar-christmas",
+      "hex": "e0ae",
+      "source": "iconsax-calendar-christmas-6d21bcdcb306-.svg"
+    },
+    {
+      "name": "calendar-circle",
+      "hex": "e1a2",
+      "source": "iconsax-calendar-circle-e7b837547fad-.svg"
+    },
+    {
+      "name": "calendar-date",
+      "hex": "e1a3",
+      "source": "iconsax-calendar-date-71f4624e05af-.svg"
+    },
+    {
+      "name": "calendar-edit",
+      "hex": "e1a4",
+      "source": "iconsax-calendar-edit-be7b97091c5b-.svg"
+    },
+    {
+      "name": "calendar-remove",
+      "hex": "e1a5",
+      "source": "iconsax-calendar-remove-f933131fa0c2-.svg"
+    },
+    {
+      "name": "calendar-search",
+      "hex": "e1a6",
+      "source": "iconsax-calendar-search-47bbff60578b-.svg"
+    },
+    {
+      "name": "calendar-tick",
+      "hex": "e1a7",
+      "source": "iconsax-calendar-tick-de17e52a99e8-.svg"
+    },
+    {
+      "name": "calendar-tree",
+      "hex": "e0af",
+      "source": "iconsax-calendar-tree-e665ce378368-.svg"
+    },
+    {
+      "name": "calendar2",
+      "hex": "e0b0",
+      "source": "iconsax-calendar2-70e360f88193-.svg"
+    },
+    {
+      "name": "calendar3",
+      "hex": "e0b1",
+      "source": "iconsax-calendar3-94c4a69fdbac-.svg"
+    },
+    {
+      "name": "calendar4",
+      "hex": "e0b2",
+      "source": "iconsax-calendar4-d8148e98ece4-.svg"
+    },
+    {
+      "name": "call",
+      "hex": "e0b3",
+      "source": "iconsax-call-126d17f2f8fa-.svg"
+    },
+    {
+      "name": "call-add",
+      "hex": "e0b4",
+      "source": "iconsax-call-add-081654beef48-.svg"
+    },
+    {
+      "name": "call-calling",
+      "hex": "e0b5",
+      "source": "iconsax-call-calling-eb687eb0c9d9-.svg"
+    },
+    {
+      "name": "call-incoming",
+      "hex": "e0b6",
+      "source": "iconsax-call-incoming-7a43012d9149-.svg"
+    },
+    {
+      "name": "call-minus",
+      "hex": "e0b7",
+      "source": "iconsax-call-minus-6e8fd1f276f6-.svg"
+    },
+    {
+      "name": "call-outgoing",
+      "hex": "e0b8",
+      "source": "iconsax-call-outgoing-a2141ceacdb7-.svg"
+    },
+    {
+      "name": "call-received",
+      "hex": "e0b9",
+      "source": "iconsax-call-received-b622d4effc15-.svg"
+    },
+    {
+      "name": "call-remove",
+      "hex": "e0ba",
+      "source": "iconsax-call-remove-fa29139fe8cd-.svg"
+    },
+    {
+      "name": "call-slash",
+      "hex": "e0bb",
+      "source": "iconsax-call-slash-257d09a5ec24-.svg"
+    },
+    {
+      "name": "camera",
+      "hex": "e1a8",
+      "source": "iconsax-camera-2fad678a78e0-.svg"
+    },
+    {
+      "name": "camera-slash",
+      "hex": "e1a9",
+      "source": "iconsax-camera-slash-6ea22bbb8001-.svg"
+    },
+    {
+      "name": "candle",
+      "hex": "e1aa",
+      "source": "iconsax-candle-7e493de76602-.svg"
+    },
+    {
+      "name": "candy",
+      "hex": "e0bc",
+      "source": "iconsax-candy-6a16d5b7e30e-.svg"
+    },
+    {
+      "name": "candy-cane",
+      "hex": "e0bd",
+      "source": "iconsax-candy-cane-cc97210dd4fe-.svg"
+    },
+    {
+      "name": "candy-cane2",
+      "hex": "e0be",
+      "source": "iconsax-candy-cane2-f281f217de02-.svg"
+    },
+    {
+      "name": "candy-cane3",
+      "hex": "e0bf",
+      "source": "iconsax-candy-cane3-e1d212ec7f66-.svg"
+    },
+    {
+      "name": "candy-cane4",
+      "hex": "e0c0",
+      "source": "iconsax-candy-cane4-eb3e88711e74-.svg"
+    },
+    {
+      "name": "candy2",
+      "hex": "e0c1",
+      "source": "iconsax-candy2-9e92bb3ca304-.svg"
+    },
+    {
+      "name": "candy3",
+      "hex": "e0c2",
+      "source": "iconsax-candy3-26bcab34c6b6-.svg"
+    },
+    {
+      "name": "candy4",
+      "hex": "e1ab",
+      "source": "iconsax-candy4-14acc53b63c5-.svg"
+    },
+    {
+      "name": "car",
+      "hex": "e0c3",
+      "source": "iconsax-car-4835a616d2f2-.svg"
+    },
+    {
+      "name": "card",
+      "hex": "e1ac",
+      "source": "iconsax-card-16fa46402b75-.svg"
+    },
+    {
+      "name": "card-add",
+      "hex": "e1ad",
+      "source": "iconsax-card-add-c736898498bd-.svg"
+    },
+    {
+      "name": "card-coin",
+      "hex": "e1ae",
+      "source": "iconsax-card-coin-c06ed0e31190-.svg"
+    },
+    {
+      "name": "card-edit",
+      "hex": "e1af",
+      "source": "iconsax-card-edit-a13a412e156f-.svg"
+    },
+    {
+      "name": "card-pos",
+      "hex": "e1b0",
+      "source": "iconsax-card-pos-61e65365a5a3-.svg"
+    },
+    {
+      "name": "card-receive",
+      "hex": "e1b1",
+      "source": "iconsax-card-receive-02b2de52e890-.svg"
+    },
+    {
+      "name": "card-remove",
+      "hex": "e1b2",
+      "source": "iconsax-card-remove-4efc2fee807e-.svg"
+    },
+    {
+      "name": "card-send",
+      "hex": "e1b3",
+      "source": "iconsax-card-send-03957aefb53a-.svg"
+    },
+    {
+      "name": "card-slash",
+      "hex": "e1b4",
+      "source": "iconsax-card-slash-a791b9f285f0-.svg"
+    },
+    {
+      "name": "card-tick",
+      "hex": "e1b5",
+      "source": "iconsax-card-tick-2be98945a1a2-.svg"
+    },
+    {
+      "name": "cardano-ada",
+      "hex": "e1b6",
+      "source": "iconsax-cardano-ada-35d9bfa5a4c5-.svg"
+    },
+    {
+      "name": "cards",
+      "hex": "e1b7",
+      "source": "iconsax-cards-e55512fa7b95-.svg"
+    },
+    {
+      "name": "category",
+      "hex": "e1b8",
+      "source": "iconsax-category-6d4d7a4652f8-.svg"
+    },
+    {
+      "name": "cd",
+      "hex": "e1b9",
+      "source": "iconsax-cd-4b7b2b28edf1-.svg"
+    },
+    {
+      "name": "celo-celo",
+      "hex": "e1ba",
+      "source": "iconsax-celo-celo-90c23636fc65-.svg"
+    },
+    {
+      "name": "celsius-cel",
+      "hex": "e1bb",
+      "source": "iconsax-celsius-cel-793a66bb5fde-.svg"
+    },
+    {
+      "name": "chainlink-link",
+      "hex": "e1bc",
+      "source": "iconsax-chainlink-link-7a7b5797ada3-.svg"
+    },
+    {
+      "name": "chart",
+      "hex": "e0c4",
+      "source": "iconsax-chart-1a5fe9f75388-.svg"
+    },
+    {
+      "name": "chart-fail",
+      "hex": "e0c5",
+      "source": "iconsax-chart-fail-7081272d5a5d-.svg"
+    },
+    {
+      "name": "chart-square",
+      "hex": "e0c6",
+      "source": "iconsax-chart-square-6b2e93d90afd-.svg"
+    },
+    {
+      "name": "chart-success",
+      "hex": "e0c7",
+      "source": "iconsax-chart-success-d20ede34a468-.svg"
+    },
+    {
+      "name": "chatbox",
+      "hex": "e1bd",
+      "source": "iconsax-chatbox-831f842477d4-.svg"
+    },
+    {
+      "name": "check",
+      "hex": "e1be",
+      "source": "iconsax-check-eca0c3ebefff-.svg"
+    },
+    {
+      "name": "christmas-ball",
+      "hex": "e1bf",
+      "source": "iconsax-christmas-ball-5578cdd52da3-.svg"
+    },
+    {
+      "name": "christmas-bell",
+      "hex": "e1c0",
+      "source": "iconsax-christmas-bell-6862df3b00dd-.svg"
+    },
+    {
+      "name": "christmas-bow",
+      "hex": "e1c1",
+      "source": "iconsax-christmas-bow-a8891e0ac99c-.svg"
+    },
+    {
+      "name": "christmas-card",
+      "hex": "e1c2",
+      "source": "iconsax-christmas-card-4da7a24d4403-.svg"
+    },
+    {
+      "name": "christmas-house",
+      "hex": "e1c3",
+      "source": "iconsax-christmas-house-65e9ccd7f71e-.svg"
+    },
+    {
+      "name": "christmas-shoes",
+      "hex": "e1c4",
+      "source": "iconsax-christmas-shoes-d392626d9958-.svg"
+    },
+    {
+      "name": "christmas-tree",
+      "hex": "e1c5",
+      "source": "iconsax-christmas-tree-5f63b52961ca-.svg"
+    },
+    {
+      "name": "christmas-wreath",
+      "hex": "e1c6",
+      "source": "iconsax-christmas-wreath-e32f4b0041ff-.svg"
+    },
+    {
+      "name": "chrome",
+      "hex": "e1c7",
+      "source": "iconsax-chrome-449d16bb3ebe-.svg"
+    },
+    {
+      "name": "civic-cvc",
+      "hex": "e1c8",
+      "source": "iconsax-civic-cvc-9abad05e4563-.svg"
+    },
+    {
+      "name": "clipboard",
+      "hex": "e1c9",
+      "source": "iconsax-clipboard-9e9bd185ce69-.svg"
+    },
+    {
+      "name": "clock",
+      "hex": "e1ca",
+      "source": "iconsax-clock-29168a8446ce-.svg"
+    },
+    {
+      "name": "clock2",
+      "hex": "e1cb",
+      "source": "iconsax-clock2-bbbd1170008a-.svg"
+    },
+    {
+      "name": "close-circle",
+      "hex": "e1cc",
+      "source": "iconsax-close-circle-61b962f76ca4-.svg"
+    },
+    {
+      "name": "close-square",
+      "hex": "e1cd",
+      "source": "iconsax-close-square-2401be277f60-.svg"
+    },
+    {
+      "name": "cloud",
+      "hex": "e1ce",
+      "source": "iconsax-cloud-6ba7ded7048d-.svg"
+    },
+    {
+      "name": "cloud-add",
+      "hex": "e1cf",
+      "source": "iconsax-cloud-add-9328b3ad4aa7-.svg"
+    },
+    {
+      "name": "cloud-change",
+      "hex": "e1d0",
+      "source": "iconsax-cloud-change-ed6ac360bc8a-.svg"
+    },
+    {
+      "name": "cloud-connection",
+      "hex": "e1d1",
+      "source": "iconsax-cloud-connection-4f5bda3b1cd9-.svg"
+    },
+    {
+      "name": "cloud-cross",
+      "hex": "e1d2",
+      "source": "iconsax-cloud-cross-9abb067c1b02-.svg"
+    },
+    {
+      "name": "cloud-drizzle",
+      "hex": "e1d3",
+      "source": "iconsax-cloud-drizzle-b540f0d3bcbb-.svg"
+    },
+    {
+      "name": "cloud-fog",
+      "hex": "e1d4",
+      "source": "iconsax-cloud-fog-3e234300358c-.svg"
+    },
+    {
+      "name": "cloud-lightning",
+      "hex": "e1d5",
+      "source": "iconsax-cloud-lightning-e2c510b66252-.svg"
+    },
+    {
+      "name": "cloud-minus",
+      "hex": "e1d6",
+      "source": "iconsax-cloud-minus-fba28d5d4a9e-.svg"
+    },
+    {
+      "name": "cloud-notif",
+      "hex": "e1d7",
+      "source": "iconsax-cloud-notif-705ea6e190bf-.svg"
+    },
+    {
+      "name": "cloud-plus",
+      "hex": "e1d8",
+      "source": "iconsax-cloud-plus-e7028bd9b39e-.svg"
+    },
+    {
+      "name": "cloud-remove",
+      "hex": "e1d9",
+      "source": "iconsax-cloud-remove-77c471b92009-.svg"
+    },
+    {
+      "name": "cloud-snow",
+      "hex": "e1da",
+      "source": "iconsax-cloud-snow-688f3ac5ed6f-.svg"
+    },
+    {
+      "name": "cloud-sunny",
+      "hex": "e1db",
+      "source": "iconsax-cloud-sunny-a909c475000a-.svg"
+    },
+    {
+      "name": "code",
+      "hex": "e1dc",
+      "source": "iconsax-code-5edbf7e4973e-.svg"
+    },
+    {
+      "name": "code-circle",
+      "hex": "e1dd",
+      "source": "iconsax-code-circle-21c5b18b5949-.svg"
+    },
+    {
+      "name": "coffee",
+      "hex": "e1de",
+      "source": "iconsax-coffee-70ec43c5eda9-.svg"
+    },
+    {
+      "name": "coin",
+      "hex": "e1df",
+      "source": "iconsax-coin-5edb1d857a8f-.svg"
+    },
+    {
+      "name": "color-swatch",
+      "hex": "e1e0",
+      "source": "iconsax-color-swatch-bf071a1ac10c-.svg"
+    },
+    {
+      "name": "colorfilter",
+      "hex": "e1e1",
+      "source": "iconsax-colorfilter-b673b37e760f-.svg"
+    },
+    {
+      "name": "colors-square",
+      "hex": "e1e2",
+      "source": "iconsax-colors-square-c3939bf16bda-.svg"
+    },
+    {
+      "name": "command",
+      "hex": "e1e3",
+      "source": "iconsax-command-b319c0bd1e19-.svg"
+    },
+    {
+      "name": "command-square",
+      "hex": "e1e4",
+      "source": "iconsax-command-square-d79268c60e87-.svg"
+    },
+    {
+      "name": "component",
+      "hex": "e1e5",
+      "source": "iconsax-component-f0c151fb0f67-.svg"
+    },
+    {
+      "name": "computing",
+      "hex": "e1e6",
+      "source": "iconsax-computing-798184cf53cb-.svg"
+    },
+    {
+      "name": "conversation-box",
+      "hex": "e1e7",
+      "source": "iconsax-conversation-box-e1a185ba96c3-.svg"
+    },
+    {
+      "name": "convert-3d-cube",
+      "hex": "e1e8",
+      "source": "iconsax-convert-3d-cube-090403f428cb-.svg"
+    },
+    {
+      "name": "convert-arrow",
+      "hex": "e0c8",
+      "source": "iconsax-convert-arrow-2f962a0c8b85-.svg"
+    },
+    {
+      "name": "convert-card",
+      "hex": "e1e9",
+      "source": "iconsax-convert-card-eb724b769b0a-.svg"
+    },
+    {
+      "name": "convertshape",
+      "hex": "e1ea",
+      "source": "iconsax-convertshape-38f1624997df-.svg"
+    },
+    {
+      "name": "copy",
+      "hex": "e1eb",
+      "source": "iconsax-copy-b33ebb9cf5a8-.svg"
+    },
+    {
+      "name": "copy-success",
+      "hex": "e1ec",
+      "source": "iconsax-copy-success-7d372a847991-.svg"
+    },
+    {
+      "name": "courthouse",
+      "hex": "e0c9",
+      "source": "iconsax-courthouse-8c7cd1bb688a-.svg"
+    },
+    {
+      "name": "cpu-charge",
+      "hex": "e1ed",
+      "source": "iconsax-cpu-charge-ec1643ad5491-.svg"
+    },
+    {
+      "name": "cpu",
+      "hex": "e1ee",
+      "source": "iconsax-cpu-d58e634b78ce-.svg"
+    },
+    {
+      "name": "cpu-setting",
+      "hex": "e1ef",
+      "source": "iconsax-cpu-setting-4b22b88f3621-.svg"
+    },
+    {
+      "name": "creative-commons",
+      "hex": "e1f0",
+      "source": "iconsax-creative-commons-6034cb49eb19-.svg"
+    },
+    {
+      "name": "crop",
+      "hex": "e1f1",
+      "source": "iconsax-crop-f0b72a271935-.svg"
+    },
+    {
+      "name": "crown",
+      "hex": "e1f2",
+      "source": "iconsax-crown-d811f1fd55ed-.svg"
+    },
+    {
+      "name": "cup",
+      "hex": "e1f3",
+      "source": "iconsax-cup-94378f17f441-.svg"
+    },
+    {
+      "name": "dai-dai",
+      "hex": "e1f4",
+      "source": "iconsax-dai-dai-a2ed9b467f03-.svg"
+    },
+    {
+      "name": "danger",
+      "hex": "e1f5",
+      "source": "iconsax-danger-9621aac884fe-.svg"
+    },
+    {
+      "name": "dash-dash",
+      "hex": "e1f6",
+      "source": "iconsax-dash-dash-d339741bca5a-.svg"
+    },
+    {
+      "name": "data",
+      "hex": "e1f7",
+      "source": "iconsax-data-0292cc464d54-.svg"
+    },
+    {
+      "name": "decor",
+      "hex": "e1f8",
+      "source": "iconsax-decor-00b21e55168c-.svg"
+    },
+    {
+      "name": "decred-dcr",
+      "hex": "e1f9",
+      "source": "iconsax-decred-dcr-8ee4cf3e7d5b-.svg"
+    },
+    {
+      "name": "deer",
+      "hex": "e1fa",
+      "source": "iconsax-deer-537eda96e85c-.svg"
+    },
+    {
+      "name": "dent-dental-care-tooth-health-hygiene-checkup",
+      "hex": "e1fb",
+      "source": "iconsax-dent-dental-care-tooth-health-hygiene-checkup-972cfe478cfd-.svg"
+    },
+    {
+      "name": "designtools",
+      "hex": "e1fc",
+      "source": "iconsax-designtools-4f8303d23a2d-.svg"
+    },
+    {
+      "name": "device-message",
+      "hex": "e1fd",
+      "source": "iconsax-device-message-011bd32e40a1-.svg"
+    },
+    {
+      "name": "devices",
+      "hex": "e1fe",
+      "source": "iconsax-devices-66ab8c63df6d-.svg"
+    },
+    {
+      "name": "diagram",
+      "hex": "e0ca",
+      "source": "iconsax-diagram-03f03e4b75cf-.svg"
+    },
+    {
+      "name": "diamonds",
+      "hex": "e1ff",
+      "source": "iconsax-diamonds-acd58040b20f-.svg"
+    },
+    {
+      "name": "direct",
+      "hex": "e200",
+      "source": "iconsax-direct-0d03bb24f618-.svg"
+    },
+    {
+      "name": "direct-down",
+      "hex": "e201",
+      "source": "iconsax-direct-down-26b8f3ef5c1a-.svg"
+    },
+    {
+      "name": "direct-inbox",
+      "hex": "e202",
+      "source": "iconsax-direct-inbox-89b362425039-.svg"
+    },
+    {
+      "name": "direct-left",
+      "hex": "e203",
+      "source": "iconsax-direct-left-0755d71cf0e3-.svg"
+    },
+    {
+      "name": "direct-normal",
+      "hex": "e204",
+      "source": "iconsax-direct-normal-4bb0803b0fa5-.svg"
+    },
+    {
+      "name": "direct-notification",
+      "hex": "e205",
+      "source": "iconsax-direct-notification-a17665d377ea-.svg"
+    },
+    {
+      "name": "direct-right",
+      "hex": "e206",
+      "source": "iconsax-direct-right-4b0565dc80f1-.svg"
+    },
+    {
+      "name": "direct-send",
+      "hex": "e207",
+      "source": "iconsax-direct-send-7aedc1d01c88-.svg"
+    },
+    {
+      "name": "direct-up",
+      "hex": "e208",
+      "source": "iconsax-direct-up-77c85fa68196-.svg"
+    },
+    {
+      "name": "directbox-default",
+      "hex": "e209",
+      "source": "iconsax-directbox-default-fb47a5bab8b1-.svg"
+    },
+    {
+      "name": "directbox-notif",
+      "hex": "e20a",
+      "source": "iconsax-directbox-notif-53700771fefe-.svg"
+    },
+    {
+      "name": "directbox-receive",
+      "hex": "e20b",
+      "source": "iconsax-directbox-receive-a8485832b8fa-.svg"
+    },
+    {
+      "name": "directbox-send",
+      "hex": "e20c",
+      "source": "iconsax-directbox-send-47d5489a1bee-.svg"
+    },
+    {
+      "name": "discount-circle",
+      "hex": "e20d",
+      "source": "iconsax-discount-circle-20e633611186-.svg"
+    },
+    {
+      "name": "discount-shape",
+      "hex": "e20e",
+      "source": "iconsax-discount-shape-eb7d3fe8f8c0-.svg"
+    },
+    {
+      "name": "discover",
+      "hex": "e20f",
+      "source": "iconsax-discover-87c43cca917e-.svg"
+    },
+    {
+      "name": "dislike",
+      "hex": "e210",
+      "source": "iconsax-dislike-61483f30a8d1-.svg"
+    },
+    {
+      "name": "document",
+      "hex": "e211",
+      "source": "iconsax-document-7731668f0de3-.svg"
+    },
+    {
+      "name": "document-cloud",
+      "hex": "e212",
+      "source": "iconsax-document-cloud-6af00638e4f2-.svg"
+    },
+    {
+      "name": "document-code",
+      "hex": "e213",
+      "source": "iconsax-document-code-02b0e89cdddd-.svg"
+    },
+    {
+      "name": "document-copy",
+      "hex": "e214",
+      "source": "iconsax-document-copy-f49812e99df5-.svg"
+    },
+    {
+      "name": "document-download",
+      "hex": "e215",
+      "source": "iconsax-document-download-6ad9b1ddde4b-.svg"
+    },
+    {
+      "name": "document-favorite",
+      "hex": "e216",
+      "source": "iconsax-document-favorite-17e70cda59bc-.svg"
+    },
+    {
+      "name": "document-filter",
+      "hex": "e217",
+      "source": "iconsax-document-filter-df0ca3970814-.svg"
+    },
+    {
+      "name": "document-forward",
+      "hex": "e218",
+      "source": "iconsax-document-forward-de88f017510e-.svg"
+    },
+    {
+      "name": "document-like",
+      "hex": "e219",
+      "source": "iconsax-document-like-e68b57560875-.svg"
+    },
+    {
+      "name": "document-normal",
+      "hex": "e21a",
+      "source": "iconsax-document-normal-54d469c563a5-.svg"
+    },
+    {
+      "name": "document-previous",
+      "hex": "e21b",
+      "source": "iconsax-document-previous-56d76b6328f1-.svg"
+    },
+    {
+      "name": "document-sketch",
+      "hex": "e21c",
+      "source": "iconsax-document-sketch-1f4f9b8888f7-.svg"
+    },
+    {
+      "name": "document-text",
+      "hex": "e21d",
+      "source": "iconsax-document-text-325f536f095d-.svg"
+    },
+    {
+      "name": "document-upload",
+      "hex": "e21e",
+      "source": "iconsax-document-upload-9750833a057e-.svg"
+    },
+    {
+      "name": "dollar-circle",
+      "hex": "e21f",
+      "source": "iconsax-dollar-circle-762c5a82dff0-.svg"
+    },
+    {
+      "name": "dollar-square",
+      "hex": "e220",
+      "source": "iconsax-dollar-square-299dcbb44c76-.svg"
+    },
+    {
+      "name": "dribbble",
+      "hex": "e221",
+      "source": "iconsax-dribbble-e4459f04d681-.svg"
+    },
+    {
+      "name": "driver",
+      "hex": "e222",
+      "source": "iconsax-driver-59a5e5eeac8d-.svg"
+    },
+    {
+      "name": "driver-refresh",
+      "hex": "e223",
+      "source": "iconsax-driver-refresh-70881c882c04-.svg"
+    },
+    {
+      "name": "driving",
+      "hex": "e0cb",
+      "source": "iconsax-driving-b1dd3125ec45-.svg"
+    },
+    {
+      "name": "drop",
+      "hex": "e224",
+      "source": "iconsax-drop-5e3963c96316-.svg"
+    },
+    {
+      "name": "dropbox",
+      "hex": "e225",
+      "source": "iconsax-dropbox-47073292303c-.svg"
+    },
+    {
+      "name": "edit",
+      "hex": "e226",
+      "source": "iconsax-edit-6f601e8197aa-.svg"
+    },
+    {
+      "name": "educare-ekt",
+      "hex": "e227",
+      "source": "iconsax-educare-ekt-5532f620af21-.svg"
+    },
+    {
+      "name": "electricity",
+      "hex": "e228",
+      "source": "iconsax-electricity-4c425c49da1f-.svg"
+    },
+    {
+      "name": "email-snow",
+      "hex": "e229",
+      "source": "iconsax-email-snow-e2a2c75a4973-.svg"
+    },
+    {
+      "name": "emercoin-emc",
+      "hex": "e22a",
+      "source": "iconsax-emercoin-emc-459882d0a181-.svg"
+    },
+    {
+      "name": "emoji-happy",
+      "hex": "e22b",
+      "source": "iconsax-emoji-happy-32dc2025bcf8-.svg"
+    },
+    {
+      "name": "emoji-normal",
+      "hex": "e22c",
+      "source": "iconsax-emoji-normal-8bfcbe5a533c-.svg"
+    },
+    {
+      "name": "emoji-sad",
+      "hex": "e22d",
+      "source": "iconsax-emoji-sad-032b01ad0408-.svg"
+    },
+    {
+      "name": "empty-wallet",
+      "hex": "e22e",
+      "source": "iconsax-empty-wallet-023098123ba7-.svg"
+    },
+    {
+      "name": "empty-wallet-add",
+      "hex": "e22f",
+      "source": "iconsax-empty-wallet-add-9b468b9f052a-.svg"
+    },
+    {
+      "name": "empty-wallet-change",
+      "hex": "e230",
+      "source": "iconsax-empty-wallet-change-a85a730264ea-.svg"
+    },
+    {
+      "name": "empty-wallet-remove",
+      "hex": "e231",
+      "source": "iconsax-empty-wallet-remove-6d937a11b703-.svg"
+    },
+    {
+      "name": "empty-wallet-tick",
+      "hex": "e232",
+      "source": "iconsax-empty-wallet-tick-26bef915c566-.svg"
+    },
+    {
+      "name": "empty-wallet-time",
+      "hex": "e233",
+      "source": "iconsax-empty-wallet-time-475c349c0d75-.svg"
+    },
+    {
+      "name": "enhance-prize",
+      "hex": "e05c",
+      "source": "iconsax-enhance-prize-04f1f3d36a90-.svg"
+    },
+    {
+      "name": "enhance-user-ai",
+      "hex": "e05d",
+      "source": "iconsax-enhance-user-ai-73939dc49d7c-.svg"
+    },
+    {
+      "name": "enjin-coin-enj",
+      "hex": "e234",
+      "source": "iconsax-enjin-coin-enj-0b162945fa70-.svg"
+    },
+    {
+      "name": "eos-eos",
+      "hex": "e235",
+      "source": "iconsax-eos-eos-e057a4b932ed-.svg"
+    },
+    {
+      "name": "eraser",
+      "hex": "e236",
+      "source": "iconsax-eraser-51500fbc7133-.svg"
+    },
+    {
+      "name": "ethereum-classic-etc",
+      "hex": "e237",
+      "source": "iconsax-ethereum-classic-etc-4cab3f01cf54-.svg"
+    },
+    {
+      "name": "ethereum-eth",
+      "hex": "e238",
+      "source": "iconsax-ethereum-eth-f8ceb2665cb3-.svg"
+    },
+    {
+      "name": "export-arrow",
+      "hex": "e05e",
+      "source": "iconsax-export-arrow-c945087ec3db-.svg"
+    },
+    {
+      "name": "export-arrow2",
+      "hex": "e05f",
+      "source": "iconsax-export-arrow2-6c2f53b2bd65-.svg"
+    },
+    {
+      "name": "export-circle",
+      "hex": "e060",
+      "source": "iconsax-export-circle-fcf166c9ea15-.svg"
+    },
+    {
+      "name": "export-circle2",
+      "hex": "e0cc",
+      "source": "iconsax-export-circle2-b885e210932e-.svg"
+    },
+    {
+      "name": "external-drive",
+      "hex": "e239",
+      "source": "iconsax-external-drive-b0ced03af2d5-.svg"
+    },
+    {
+      "name": "eye",
+      "hex": "e23a",
+      "source": "iconsax-eye-74dec7268e8e-.svg"
+    },
+    {
+      "name": "eye-slash",
+      "hex": "e23b",
+      "source": "iconsax-eye-slash-bcde9ca6529e-.svg"
+    },
+    {
+      "name": "facebook",
+      "hex": "e23c",
+      "source": "iconsax-facebook-d36fa08a9533-.svg"
+    },
+    {
+      "name": "favorite-chart",
+      "hex": "e0cd",
+      "source": "iconsax-favorite-chart-83fb66f4474d-.svg"
+    },
+    {
+      "name": "figma-circle",
+      "hex": "e23d",
+      "source": "iconsax-figma-circle-246017ef5665-.svg"
+    },
+    {
+      "name": "figma",
+      "hex": "e23e",
+      "source": "iconsax-figma-e47ee7fa1200-.svg"
+    },
+    {
+      "name": "filter-add",
+      "hex": "e23f",
+      "source": "iconsax-filter-add-e748a29ab03b-.svg"
+    },
+    {
+      "name": "filter",
+      "hex": "e240",
+      "source": "iconsax-filter-cfb849b5676a-.svg"
+    },
+    {
+      "name": "filter-edit",
+      "hex": "e241",
+      "source": "iconsax-filter-edit-fa34baefe419-.svg"
+    },
+    {
+      "name": "filter-remove",
+      "hex": "e242",
+      "source": "iconsax-filter-remove-751e026459c4-.svg"
+    },
+    {
+      "name": "filter-search",
+      "hex": "e243",
+      "source": "iconsax-filter-search-108a08b91be1-.svg"
+    },
+    {
+      "name": "filter-square",
+      "hex": "e244",
+      "source": "iconsax-filter-square-cd6193faba4b-.svg"
+    },
+    {
+      "name": "filter-tick",
+      "hex": "e245",
+      "source": "iconsax-filter-tick-8b8a37a1bac4-.svg"
+    },
+    {
+      "name": "finger-circle",
+      "hex": "e246",
+      "source": "iconsax-finger-circle-1f460be77068-.svg"
+    },
+    {
+      "name": "finger-scan",
+      "hex": "e247",
+      "source": "iconsax-finger-scan-3d1a60ef7e08-.svg"
+    },
+    {
+      "name": "fire",
+      "hex": "e248",
+      "source": "iconsax-fire-21986a4449be-.svg"
+    },
+    {
+      "name": "fire2",
+      "hex": "e249",
+      "source": "iconsax-fire2-1e337b17b2f0-.svg"
+    },
+    {
+      "name": "fire3",
+      "hex": "e24a",
+      "source": "iconsax-fire3-017a145eb794-.svg"
+    },
+    {
+      "name": "fireworks",
+      "hex": "e24b",
+      "source": "iconsax-fireworks-3ac99acd3673-.svg"
+    },
+    {
+      "name": "fireworks2",
+      "hex": "e24c",
+      "source": "iconsax-fireworks2-ae8a0e8a3de9-.svg"
+    },
+    {
+      "name": "fireworks3",
+      "hex": "e24d",
+      "source": "iconsax-fireworks3-6be0f6652e81-.svg"
+    },
+    {
+      "name": "fireworks4",
+      "hex": "e24e",
+      "source": "iconsax-fireworks4-f140c87b7e0b-.svg"
+    },
+    {
+      "name": "firstline",
+      "hex": "e24f",
+      "source": "iconsax-firstline-5ffceba781e4-.svg"
+    },
+    {
+      "name": "flag",
+      "hex": "e250",
+      "source": "iconsax-flag-6dc33f2bfe26-.svg"
+    },
+    {
+      "name": "flash",
+      "hex": "e251",
+      "source": "iconsax-flash-18bd39f43d95-.svg"
+    },
+    {
+      "name": "flash-circle",
+      "hex": "e252",
+      "source": "iconsax-flash-circle-005167470ad6-.svg"
+    },
+    {
+      "name": "flash-slash",
+      "hex": "e253",
+      "source": "iconsax-flash-slash-7ddbaec67128-.svg"
+    },
+    {
+      "name": "folder",
+      "hex": "e254",
+      "source": "iconsax-folder-8732d38d80f9-.svg"
+    },
+    {
+      "name": "folder-add",
+      "hex": "e255",
+      "source": "iconsax-folder-add-7011b0a4a9e7-.svg"
+    },
+    {
+      "name": "folder-cloud",
+      "hex": "e256",
+      "source": "iconsax-folder-cloud-971a98332d70-.svg"
+    },
+    {
+      "name": "folder-connection",
+      "hex": "e257",
+      "source": "iconsax-folder-connection-8406d04e43fa-.svg"
+    },
+    {
+      "name": "folder-cross",
+      "hex": "e258",
+      "source": "iconsax-folder-cross-822f48a86a0f-.svg"
+    },
+    {
+      "name": "folder-favorite",
+      "hex": "e259",
+      "source": "iconsax-folder-favorite-99400ebe52ed-.svg"
+    },
+    {
+      "name": "folder-minus",
+      "hex": "e25a",
+      "source": "iconsax-folder-minus-866acca3f8ac-.svg"
+    },
+    {
+      "name": "folder-open",
+      "hex": "e25b",
+      "source": "iconsax-folder-open-fae6d17fd215-.svg"
+    },
+    {
+      "name": "forbidden",
+      "hex": "e25c",
+      "source": "iconsax-forbidden-1d0056f4ecf6-.svg"
+    },
+    {
+      "name": "format-circle",
+      "hex": "e25d",
+      "source": "iconsax-format-circle-e9cda050fb8e-.svg"
+    },
+    {
+      "name": "format-square",
+      "hex": "e25e",
+      "source": "iconsax-format-square-33bba5aed8d8-.svg"
+    },
+    {
+      "name": "forward-10-seconds",
+      "hex": "e25f",
+      "source": "iconsax-forward-10-seconds-8247ff36a61f-.svg"
+    },
+    {
+      "name": "forward-15-seconds",
+      "hex": "e260",
+      "source": "iconsax-forward-15-seconds-442f4663d45b-.svg"
+    },
+    {
+      "name": "forward-5-seconds",
+      "hex": "e261",
+      "source": "iconsax-forward-5-seconds-49ee4db5c832-.svg"
+    },
+    {
+      "name": "forward",
+      "hex": "e262",
+      "source": "iconsax-forward-6c7bebf88a65-.svg"
+    },
+    {
+      "name": "forward-item",
+      "hex": "e263",
+      "source": "iconsax-forward-item-44b7dc0f772f-.svg"
+    },
+    {
+      "name": "framer",
+      "hex": "e264",
+      "source": "iconsax-framer-2e9fb4a4bae7-.svg"
+    },
+    {
+      "name": "ftx-token-ftt",
+      "hex": "e265",
+      "source": "iconsax-ftx-token-ftt-bbd9ebabb454-.svg"
+    },
+    {
+      "name": "gallery-add",
+      "hex": "e266",
+      "source": "iconsax-gallery-add-85a210694c91-.svg"
+    },
+    {
+      "name": "gallery",
+      "hex": "e267",
+      "source": "iconsax-gallery-d155f509fdc4-.svg"
+    },
+    {
+      "name": "gallery-edit",
+      "hex": "e268",
+      "source": "iconsax-gallery-edit-a03bddd21b8a-.svg"
+    },
+    {
+      "name": "gallery-export",
+      "hex": "e269",
+      "source": "iconsax-gallery-export-1dafd0b6b642-.svg"
+    },
+    {
+      "name": "gallery-favorite",
+      "hex": "e26a",
+      "source": "iconsax-gallery-favorite-b432f3b256ff-.svg"
+    },
+    {
+      "name": "gallery-import",
+      "hex": "e26b",
+      "source": "iconsax-gallery-import-756e11df3c55-.svg"
+    },
+    {
+      "name": "gallery-remove",
+      "hex": "e26c",
+      "source": "iconsax-gallery-remove-bf05f1c5e821-.svg"
+    },
+    {
+      "name": "gallery-slash",
+      "hex": "e26d",
+      "source": "iconsax-gallery-slash-6ead5c0bcb4e-.svg"
+    },
+    {
+      "name": "gallery-tick",
+      "hex": "e26e",
+      "source": "iconsax-gallery-tick-0491a23f689a-.svg"
+    },
+    {
+      "name": "game",
+      "hex": "e26f",
+      "source": "iconsax-game-e7a6ffc6d312-.svg"
+    },
+    {
+      "name": "gameboy",
+      "hex": "e270",
+      "source": "iconsax-gameboy-51580a457f93-.svg"
+    },
+    {
+      "name": "gas-station",
+      "hex": "e0ce",
+      "source": "iconsax-gas-station-c64afb3d7d44-.svg"
+    },
+    {
+      "name": "gemini",
+      "hex": "e0cf",
+      "source": "iconsax-gemini-6ab87f46f125-.svg"
+    },
+    {
+      "name": "ghost",
+      "hex": "e271",
+      "source": "iconsax-ghost-5714abb1239d-.svg"
+    },
+    {
+      "name": "gift-bag",
+      "hex": "e272",
+      "source": "iconsax-gift-bag-fab9d9815d4c-.svg"
+    },
+    {
+      "name": "gift",
+      "hex": "e273",
+      "source": "iconsax-gift-cc8c01212107-.svg"
+    },
+    {
+      "name": "gift-cupcake",
+      "hex": "e274",
+      "source": "iconsax-gift-cupcake-8906fa392f63-.svg"
+    },
+    {
+      "name": "gift10",
+      "hex": "e275",
+      "source": "iconsax-gift10-d444f1bfc5ca-.svg"
+    },
+    {
+      "name": "gift11",
+      "hex": "e276",
+      "source": "iconsax-gift11-aa8b5e25a0ab-.svg"
+    },
+    {
+      "name": "gift12",
+      "hex": "e277",
+      "source": "iconsax-gift12-a552767f9f4f-.svg"
+    },
+    {
+      "name": "gift13",
+      "hex": "e278",
+      "source": "iconsax-gift13-5e63945e3843-.svg"
+    },
+    {
+      "name": "gift14",
+      "hex": "e279",
+      "source": "iconsax-gift14-fca5e8f3b8aa-.svg"
+    },
+    {
+      "name": "gift15",
+      "hex": "e27a",
+      "source": "iconsax-gift15-e68d0435d1e2-.svg"
+    },
+    {
+      "name": "gift152",
+      "hex": "e27b",
+      "source": "iconsax-gift152-f5da21e6122f-.svg"
+    },
+    {
+      "name": "gift16",
+      "hex": "e27c",
+      "source": "iconsax-gift16-71f74b28f0f0-.svg"
+    },
+    {
+      "name": "gift17",
+      "hex": "e27d",
+      "source": "iconsax-gift17-b9731a0f5e5c-.svg"
+    },
+    {
+      "name": "gift172",
+      "hex": "e27e",
+      "source": "iconsax-gift172-3b6f260eddd4-.svg"
+    },
+    {
+      "name": "gift4",
+      "hex": "e27f",
+      "source": "iconsax-gift4-d4884d9b02b2-.svg"
+    },
+    {
+      "name": "gift5",
+      "hex": "e280",
+      "source": "iconsax-gift5-6a6ed459a397-.svg"
+    },
+    {
+      "name": "gift6",
+      "hex": "e281",
+      "source": "iconsax-gift6-a10543893b5e-.svg"
+    },
+    {
+      "name": "gift7",
+      "hex": "e282",
+      "source": "iconsax-gift7-9b9d362e030a-.svg"
+    },
+    {
+      "name": "gift8",
+      "hex": "e283",
+      "source": "iconsax-gift8-fd8d553ce43d-.svg"
+    },
+    {
+      "name": "gift9",
+      "hex": "e284",
+      "source": "iconsax-gift9-89af11fd3043-.svg"
+    },
+    {
+      "name": "glass",
+      "hex": "e285",
+      "source": "iconsax-glass-59c2d6877dee-.svg"
+    },
+    {
+      "name": "global",
+      "hex": "e286",
+      "source": "iconsax-global-b704efed5310-.svg"
+    },
+    {
+      "name": "global-edit",
+      "hex": "e287",
+      "source": "iconsax-global-edit-697548ec5ca3-.svg"
+    },
+    {
+      "name": "global-refresh",
+      "hex": "e288",
+      "source": "iconsax-global-refresh-db9e7d57bf74-.svg"
+    },
+    {
+      "name": "global-search",
+      "hex": "e289",
+      "source": "iconsax-global-search-6fdd37789f52-.svg"
+    },
+    {
+      "name": "google",
+      "hex": "e28a",
+      "source": "iconsax-google-281fda47c4da-.svg"
+    },
+    {
+      "name": "google-drive",
+      "hex": "e28b",
+      "source": "iconsax-google-drive-900d80f4df12-.svg"
+    },
+    {
+      "name": "google-play",
+      "hex": "e28c",
+      "source": "iconsax-google-play-4fea5e612a35-.svg"
+    },
+    {
+      "name": "gps",
+      "hex": "e28d",
+      "source": "iconsax-gps-7f1d59b326f8-.svg"
+    },
+    {
+      "name": "gps-slash",
+      "hex": "e28e",
+      "source": "iconsax-gps-slash-b6ac3e8188d6-.svg"
+    },
+    {
+      "name": "graph",
+      "hex": "e0d0",
+      "source": "iconsax-graph-584d66277f6a-.svg"
+    },
+    {
+      "name": "grid",
+      "hex": "e28f",
+      "source": "iconsax-grid-6c202ca737ed-.svg"
+    },
+    {
+      "name": "grid-add",
+      "hex": "e290",
+      "source": "iconsax-grid-add-4aa3e2a135a8-.svg"
+    },
+    {
+      "name": "grid-edit",
+      "hex": "e291",
+      "source": "iconsax-grid-edit-aca1687abb9f-.svg"
+    },
+    {
+      "name": "grid-equal",
+      "hex": "e292",
+      "source": "iconsax-grid-equal-da720948fe3c-.svg"
+    },
+    {
+      "name": "grid-eraser",
+      "hex": "e293",
+      "source": "iconsax-grid-eraser-c6d96ddf8815-.svg"
+    },
+    {
+      "name": "grid-lock",
+      "hex": "e294",
+      "source": "iconsax-grid-lock-a3f53fb7cb3c-.svg"
+    },
+    {
+      "name": "grids",
+      "hex": "e295",
+      "source": "iconsax-grids-0f83761cf7cc-.svg"
+    },
+    {
+      "name": "hanging-ornament",
+      "hex": "e296",
+      "source": "iconsax-hanging-ornament-832f7d707a58-.svg"
+    },
+    {
+      "name": "happy",
+      "hex": "e297",
+      "source": "iconsax-happy-6727747d8229-.svg"
+    },
+    {
+      "name": "happyemoji",
+      "hex": "e298",
+      "source": "iconsax-happyemoji-5cca3b392694-.svg"
+    },
+    {
+      "name": "harmony-one",
+      "hex": "e299",
+      "source": "iconsax-harmony-one-eb02259935a1-.svg"
+    },
+    {
+      "name": "hashtag",
+      "hex": "e0d1",
+      "source": "iconsax-hashtag-37e112f18634-.svg"
+    },
+    {
+      "name": "hashtag-down",
+      "hex": "e29a",
+      "source": "iconsax-hashtag-down-46e3de2835a8-.svg"
+    },
+    {
+      "name": "hashtag-up",
+      "hex": "e29b",
+      "source": "iconsax-hashtag-up-f4efa2cf1ddc-.svg"
+    },
+    {
+      "name": "hat",
+      "hex": "e29c",
+      "source": "iconsax-hat-44a93e1878f5-.svg"
+    },
+    {
+      "name": "hat2",
+      "hex": "e29d",
+      "source": "iconsax-hat2-560dcfe0fe1c-.svg"
+    },
+    {
+      "name": "hat3",
+      "hex": "e29e",
+      "source": "iconsax-hat3-3e8b9b7ef83e-.svg"
+    },
+    {
+      "name": "headphone",
+      "hex": "e29f",
+      "source": "iconsax-headphone-9f9e813ab09d-.svg"
+    },
+    {
+      "name": "headphones",
+      "hex": "e2a0",
+      "source": "iconsax-headphones-7f30a3f6b4b6-.svg"
+    },
+    {
+      "name": "health",
+      "hex": "e0d2",
+      "source": "iconsax-health-2d92e0c4dab0-.svg"
+    },
+    {
+      "name": "heart",
+      "hex": "e2a1",
+      "source": "iconsax-heart-0c1e9c079299-.svg"
+    },
+    {
+      "name": "heart-add",
+      "hex": "e2a2",
+      "source": "iconsax-heart-add-d02ae0ef3413-.svg"
+    },
+    {
+      "name": "heart-circle",
+      "hex": "e2a3",
+      "source": "iconsax-heart-circle-f4eae5ee8b5e-.svg"
+    },
+    {
+      "name": "heart-edit",
+      "hex": "e2a4",
+      "source": "iconsax-heart-edit-5119bfee202e-.svg"
+    },
+    {
+      "name": "heart-remove",
+      "hex": "e2a5",
+      "source": "iconsax-heart-remove-3ff6fedf9f59-.svg"
+    },
+    {
+      "name": "heart-search",
+      "hex": "e2a6",
+      "source": "iconsax-heart-search-a05d8111ba5a-.svg"
+    },
+    {
+      "name": "heart-slash",
+      "hex": "e2a7",
+      "source": "iconsax-heart-slash-9c49c1ba0a2a-.svg"
+    },
+    {
+      "name": "heart-tick",
+      "hex": "e2a8",
+      "source": "iconsax-heart-tick-0fbb2efdabd3-.svg"
+    },
+    {
+      "name": "hedera-hashgraph-hbar",
+      "hex": "e2a9",
+      "source": "iconsax-hedera-hashgraph-hbar-95e423ffb54e-.svg"
+    },
+    {
+      "name": "hex-hex",
+      "hex": "e2aa",
+      "source": "iconsax-hex-hex-2bb1b44fc26c-.svg"
+    },
+    {
+      "name": "hierarchy",
+      "hex": "e2ab",
+      "source": "iconsax-hierarchy-21b833ee9565-.svg"
+    },
+    {
+      "name": "hierarchy-square",
+      "hex": "e2ac",
+      "source": "iconsax-hierarchy-square-4aa9e717a76b-.svg"
+    },
+    {
+      "name": "ho-ho-ho",
+      "hex": "e2ad",
+      "source": "iconsax-ho-ho-ho-d20b41135281-.svg"
+    },
+    {
+      "name": "holiday-icons",
+      "hex": "e2ae",
+      "source": "iconsax-holiday-icons-f0eb5871c892-.svg"
+    },
+    {
+      "name": "home",
+      "hex": "e2af",
+      "source": "iconsax-home-34a33631c042-.svg"
+    },
+    {
+      "name": "home-hashtag",
+      "hex": "e0d3",
+      "source": "iconsax-home-hashtag-9af38acc1ede-.svg"
+    },
+    {
+      "name": "home-trend-down",
+      "hex": "e0d4",
+      "source": "iconsax-home-trend-down-0896573f1b9c-.svg"
+    },
+    {
+      "name": "home-trend-up",
+      "hex": "e0d5",
+      "source": "iconsax-home-trend-up-47d22ca3f822-.svg"
+    },
+    {
+      "name": "home-wifi",
+      "hex": "e2b0",
+      "source": "iconsax-home-wifi-cfc4f28d84f2-.svg"
+    },
+    {
+      "name": "horseshoe",
+      "hex": "e2b1",
+      "source": "iconsax-horseshoe-54fb6adb1545-.svg"
+    },
+    {
+      "name": "hourglass",
+      "hex": "e2b2",
+      "source": "iconsax-hourglass-3892859b9f94-.svg"
+    },
+    {
+      "name": "house",
+      "hex": "e0d6",
+      "source": "iconsax-house-b51ec5497b11-.svg"
+    },
+    {
+      "name": "html",
+      "hex": "e2b3",
+      "source": "iconsax-html-dbab244be754-.svg"
+    },
+    {
+      "name": "huobi-token-ht",
+      "hex": "e2b4",
+      "source": "iconsax-huobi-token-ht-e85a78b668db-.svg"
+    },
+    {
+      "name": "icon-icx",
+      "hex": "e2b5",
+      "source": "iconsax-icon-icx-203def722179-.svg"
+    },
+    {
+      "name": "illustrator",
+      "hex": "e2b6",
+      "source": "iconsax-illustrator-d0cd28f15764-.svg"
+    },
+    {
+      "name": "image",
+      "hex": "e2b7",
+      "source": "iconsax-image-8271b1b373f9-.svg"
+    },
+    {
+      "name": "import-arrow",
+      "hex": "e0d7",
+      "source": "iconsax-import-arrow-ce19097dc5c9-.svg"
+    },
+    {
+      "name": "import-arrow2",
+      "hex": "e0d8",
+      "source": "iconsax-import-arrow2-5891a61573e0-.svg"
+    },
+    {
+      "name": "import-circle",
+      "hex": "e0d9",
+      "source": "iconsax-import-circle-28af361936a9-.svg"
+    },
+    {
+      "name": "import-circle2",
+      "hex": "e0da",
+      "source": "iconsax-import-circle2-eba37feda13e-.svg"
+    },
+    {
+      "name": "info-circle",
+      "hex": "e2b8",
+      "source": "iconsax-info-circle-396e9bf668e9-.svg"
+    },
+    {
+      "name": "information",
+      "hex": "e2b9",
+      "source": "iconsax-information-a75ac069a34f-.svg"
+    },
+    {
+      "name": "instagram",
+      "hex": "e2ba",
+      "source": "iconsax-instagram-e65cff8199cd-.svg"
+    },
+    {
+      "name": "iost-iost",
+      "hex": "e2bb",
+      "source": "iconsax-iost-iost-c579ec78c153-.svg"
+    },
+    {
+      "name": "javascript",
+      "hex": "e2bc",
+      "source": "iconsax-javascript-661a72c76870-.svg"
+    },
+    {
+      "name": "js",
+      "hex": "e2bd",
+      "source": "iconsax-js-272da45baa5a-.svg"
+    },
+    {
+      "name": "judge",
+      "hex": "e2be",
+      "source": "iconsax-judge-927356920be7-.svg"
+    },
+    {
+      "name": "key",
+      "hex": "e2bf",
+      "source": "iconsax-key-9f9fc97eeb1c-.svg"
+    },
+    {
+      "name": "key-square",
+      "hex": "e2c0",
+      "source": "iconsax-key-square-b2b6a4b0fe79-.svg"
+    },
+    {
+      "name": "keyboard",
+      "hex": "e2c1",
+      "source": "iconsax-keyboard-bb7cbccafd28-.svg"
+    },
+    {
+      "name": "keyboard-open",
+      "hex": "e2c2",
+      "source": "iconsax-keyboard-open-0012ba7e6112-.svg"
+    },
+    {
+      "name": "kyber-network-knc",
+      "hex": "e2c3",
+      "source": "iconsax-kyber-network-knc-8a51e4511784-.svg"
+    },
+    {
+      "name": "lamp",
+      "hex": "e2c4",
+      "source": "iconsax-lamp-6b31d620e29d-.svg"
+    },
+    {
+      "name": "lamp-charge",
+      "hex": "e2c5",
+      "source": "iconsax-lamp-charge-87df2ec6855e-.svg"
+    },
+    {
+      "name": "lamp-christmas",
+      "hex": "e2c6",
+      "source": "iconsax-lamp-christmas-e1cc54c0aab3-.svg"
+    },
+    {
+      "name": "lamp-on",
+      "hex": "e2c7",
+      "source": "iconsax-lamp-on-8030cecfd6fb-.svg"
+    },
+    {
+      "name": "lamp-slash",
+      "hex": "e2c8",
+      "source": "iconsax-lamp-slash-bf143c851dcc-.svg"
+    },
+    {
+      "name": "language-circle",
+      "hex": "e2c9",
+      "source": "iconsax-language-circle-cc66847ad3b9-.svg"
+    },
+    {
+      "name": "language-square",
+      "hex": "e2ca",
+      "source": "iconsax-language-square-003a8dd5383e-.svg"
+    },
+    {
+      "name": "lantern-star",
+      "hex": "e2cb",
+      "source": "iconsax-lantern-star-2330949a398c-.svg"
+    },
+    {
+      "name": "layer",
+      "hex": "e2cc",
+      "source": "iconsax-layer-453e85225c61-.svg"
+    },
+    {
+      "name": "layout-adjust",
+      "hex": "e2cd",
+      "source": "iconsax-layout-adjust-0d0b9701db4c-.svg"
+    },
+    {
+      "name": "left-bar-grid",
+      "hex": "e2ce",
+      "source": "iconsax-left-bar-grid-3656f993a7a8-.svg"
+    },
+    {
+      "name": "left-sidebar-grid",
+      "hex": "e2cf",
+      "source": "iconsax-left-sidebar-grid-485b0fe50b10-.svg"
+    },
+    {
+      "name": "level",
+      "hex": "e2d0",
+      "source": "iconsax-level-7c1c9e78eeaa-.svg"
+    },
+    {
+      "name": "lifebuoy",
+      "hex": "e2d1",
+      "source": "iconsax-lifebuoy-88d15d4cc517-.svg"
+    },
+    {
+      "name": "like",
+      "hex": "e2d2",
+      "source": "iconsax-like-14d9a9ad22d3-.svg"
+    },
+    {
+      "name": "like-dislike",
+      "hex": "e2d3",
+      "source": "iconsax-like-dislike-071c7c374579-.svg"
+    },
+    {
+      "name": "like-shapes",
+      "hex": "e2d4",
+      "source": "iconsax-like-shapes-845fea2f4065-.svg"
+    },
+    {
+      "name": "like-tag",
+      "hex": "e2d5",
+      "source": "iconsax-like-tag-f5598c680132-.svg"
+    },
+    {
+      "name": "link",
+      "hex": "e2d6",
+      "source": "iconsax-link-0be4016ce16e-.svg"
+    },
+    {
+      "name": "link-circle",
+      "hex": "e2d7",
+      "source": "iconsax-link-circle-50febdf08e0d-.svg"
+    },
+    {
+      "name": "link-square",
+      "hex": "e2d8",
+      "source": "iconsax-link-square-089b1617f862-.svg"
+    },
+    {
+      "name": "litecoin",
+      "hex": "e2d9",
+      "source": "iconsax-litecoin-9374537cb77b-.svg"
+    },
+    {
+      "name": "location-add",
+      "hex": "e2da",
+      "source": "iconsax-location-add-6a921a7e331a-.svg"
+    },
+    {
+      "name": "location",
+      "hex": "e2db",
+      "source": "iconsax-location-c3d9f7333533-.svg"
+    },
+    {
+      "name": "location-cross",
+      "hex": "e2dc",
+      "source": "iconsax-location-cross-fbeb98ccb36e-.svg"
+    },
+    {
+      "name": "location-minus",
+      "hex": "e2dd",
+      "source": "iconsax-location-minus-b50f6d86b55d-.svg"
+    },
+    {
+      "name": "location-slash",
+      "hex": "e2de",
+      "source": "iconsax-location-slash-b57076c3b7bd-.svg"
+    },
+    {
+      "name": "location-tick",
+      "hex": "e2df",
+      "source": "iconsax-location-tick-b6aca805c791-.svg"
+    },
+    {
+      "name": "lock-circle",
+      "hex": "e2e0",
+      "source": "iconsax-lock-circle-9fefe0a5d423-.svg"
+    },
+    {
+      "name": "lock",
+      "hex": "e2e1",
+      "source": "iconsax-lock-dfd7f3e22210-.svg"
+    },
+    {
+      "name": "lock-slash",
+      "hex": "e2e2",
+      "source": "iconsax-lock-slash-65cfb18eabe2-.svg"
+    },
+    {
+      "name": "login",
+      "hex": "e0db",
+      "source": "iconsax-login-33a4a900453d-.svg"
+    },
+    {
+      "name": "login2",
+      "hex": "e0dc",
+      "source": "iconsax-login2-ae45ba515a85-.svg"
+    },
+    {
+      "name": "logout",
+      "hex": "e0dd",
+      "source": "iconsax-logout-b6645a05249a-.svg"
+    },
+    {
+      "name": "logout2",
+      "hex": "e0de",
+      "source": "iconsax-logout2-8e464bf3bd29-.svg"
+    },
+    {
+      "name": "lollipop",
+      "hex": "e2e3",
+      "source": "iconsax-lollipop-f43f4b0efd20-.svg"
+    },
+    {
+      "name": "lovely",
+      "hex": "e2e4",
+      "source": "iconsax-lovely-53bbf0e94d05-.svg"
+    },
+    {
+      "name": "magic",
+      "hex": "e2e5",
+      "source": "iconsax-magic-9b45de450995-.svg"
+    },
+    {
+      "name": "magic-star",
+      "hex": "e2e6",
+      "source": "iconsax-magic-star-5de3e55233a7-.svg"
+    },
+    {
+      "name": "magicpen",
+      "hex": "e2e7",
+      "source": "iconsax-magicpen-cd1c926ff74f-.svg"
+    },
+    {
+      "name": "main-component",
+      "hex": "e2e8",
+      "source": "iconsax-main-component-13dde925431f-.svg"
+    },
+    {
+      "name": "maker-mkr",
+      "hex": "e2e9",
+      "source": "iconsax-maker-mkr-96d2e788fa7b-.svg"
+    },
+    {
+      "name": "man",
+      "hex": "e0df",
+      "source": "iconsax-man-1dd6c1a32c43-.svg"
+    },
+    {
+      "name": "map",
+      "hex": "e2ea",
+      "source": "iconsax-map-4a813111101b-.svg"
+    },
+    {
+      "name": "mask",
+      "hex": "e2eb",
+      "source": "iconsax-mask-052c779bdf36-.svg"
+    },
+    {
+      "name": "math",
+      "hex": "e2ec",
+      "source": "iconsax-math-27f1c4fa09fd-.svg"
+    },
+    {
+      "name": "maximize",
+      "hex": "e2ed",
+      "source": "iconsax-maximize-07136fe6b31c-.svg"
+    },
+    {
+      "name": "maximize-circle",
+      "hex": "e2ee",
+      "source": "iconsax-maximize-circle-ab899446cbf2-.svg"
+    },
+    {
+      "name": "medal",
+      "hex": "e2ef",
+      "source": "iconsax-medal-c0ba0262befb-.svg"
+    },
+    {
+      "name": "medal-star",
+      "hex": "e2f0",
+      "source": "iconsax-medal-star-9bacdbe727ca-.svg"
+    },
+    {
+      "name": "menu",
+      "hex": "e2f1",
+      "source": "iconsax-menu-8075c86eed79-.svg"
+    },
+    {
+      "name": "menu-board",
+      "hex": "e2f2",
+      "source": "iconsax-menu-board-ae32f3e58eaf-.svg"
+    },
+    {
+      "name": "message-add",
+      "hex": "e2f3",
+      "source": "iconsax-message-add-4723168c7bbe-.svg"
+    },
+    {
+      "name": "message-bubble",
+      "hex": "e2f4",
+      "source": "iconsax-message-bubble-aec66b12818c-.svg"
+    },
+    {
+      "name": "message-circle",
+      "hex": "e2f5",
+      "source": "iconsax-message-circle-3a43f3da005e-.svg"
+    },
+    {
+      "name": "message-edit",
+      "hex": "e2f6",
+      "source": "iconsax-message-edit-684fbd83898d-.svg"
+    },
+    {
+      "name": "message-favorite",
+      "hex": "e2f7",
+      "source": "iconsax-message-favorite-97489932bc3a-.svg"
+    },
+    {
+      "name": "message-minus",
+      "hex": "e2f8",
+      "source": "iconsax-message-minus-70b0d24cebc0-.svg"
+    },
+    {
+      "name": "message-notif",
+      "hex": "e2f9",
+      "source": "iconsax-message-notif-1bcebc51cad8-.svg"
+    },
+    {
+      "name": "message-programming",
+      "hex": "e2fa",
+      "source": "iconsax-message-programming-2b0b75d93e08-.svg"
+    },
+    {
+      "name": "message-question",
+      "hex": "e2fb",
+      "source": "iconsax-message-question-4d136bd556ef-.svg"
+    },
+    {
+      "name": "message-remove",
+      "hex": "e2fc",
+      "source": "iconsax-message-remove-d4a78f5832a0-.svg"
+    },
+    {
+      "name": "message-search",
+      "hex": "e2fd",
+      "source": "iconsax-message-search-6c861f89ef04-.svg"
+    },
+    {
+      "name": "message-square",
+      "hex": "e2fe",
+      "source": "iconsax-message-square-e439f861c008-.svg"
+    },
+    {
+      "name": "message-text",
+      "hex": "e2ff",
+      "source": "iconsax-message-text-5753bde77db6-.svg"
+    },
+    {
+      "name": "message-tick",
+      "hex": "e300",
+      "source": "iconsax-message-tick-151300bc8dea-.svg"
+    },
+    {
+      "name": "message-time",
+      "hex": "e301",
+      "source": "iconsax-message-time-8869d9d92d99-.svg"
+    },
+    {
+      "name": "messages",
+      "hex": "e302",
+      "source": "iconsax-messages-6ba11e76a074-.svg"
+    },
+    {
+      "name": "messages-bubbles",
+      "hex": "e303",
+      "source": "iconsax-messages-bubbles-838c3098b7ff-.svg"
+    },
+    {
+      "name": "messenger",
+      "hex": "e304",
+      "source": "iconsax-messenger-b3d85b6e5031-.svg"
+    },
+    {
+      "name": "microphone",
+      "hex": "e305",
+      "source": "iconsax-microphone-21b1c4f4c95f-.svg"
+    },
+    {
+      "name": "microphone-slash",
+      "hex": "e306",
+      "source": "iconsax-microphone-slash-c4d7b5c59434-.svg"
+    },
+    {
+      "name": "milk",
+      "hex": "e307",
+      "source": "iconsax-milk-d0f2151e4a44-.svg"
+    },
+    {
+      "name": "mini-music-square",
+      "hex": "e308",
+      "source": "iconsax-mini-music-square-a4eb4a04ca86-.svg"
+    },
+    {
+      "name": "minus-circle",
+      "hex": "e309",
+      "source": "iconsax-minus-circle-5d1ab5548e64-.svg"
+    },
+    {
+      "name": "minus",
+      "hex": "e30a",
+      "source": "iconsax-minus-f8f89a213666-.svg"
+    },
+    {
+      "name": "minus-square",
+      "hex": "e30b",
+      "source": "iconsax-minus-square-d27aa13fc380-.svg"
+    },
+    {
+      "name": "mirror",
+      "hex": "e30c",
+      "source": "iconsax-mirror-2ffb66d37003-.svg"
+    },
+    {
+      "name": "mirroring-screen",
+      "hex": "e30d",
+      "source": "iconsax-mirroring-screen-61d67224a5b4-.svg"
+    },
+    {
+      "name": "mistletoe",
+      "hex": "e30e",
+      "source": "iconsax-mistletoe-8ebb6a4c8076-.svg"
+    },
+    {
+      "name": "mitten",
+      "hex": "e30f",
+      "source": "iconsax-mitten-fb662ee6ec3d-.svg"
+    },
+    {
+      "name": "mobile",
+      "hex": "e310",
+      "source": "iconsax-mobile-1911042c0bb0-.svg"
+    },
+    {
+      "name": "mobile-programming",
+      "hex": "e311",
+      "source": "iconsax-mobile-programming-96db5b9d4d1c-.svg"
+    },
+    {
+      "name": "monero-xmr",
+      "hex": "e312",
+      "source": "iconsax-monero-xmr-0c40628bdff1-.svg"
+    },
+    {
+      "name": "money",
+      "hex": "e313",
+      "source": "iconsax-money-8e1f321086ee-.svg"
+    },
+    {
+      "name": "money-add",
+      "hex": "e314",
+      "source": "iconsax-money-add-6cadd38cd267-.svg"
+    },
+    {
+      "name": "money-change",
+      "hex": "e315",
+      "source": "iconsax-money-change-a76531136924-.svg"
+    },
+    {
+      "name": "money-forbidden",
+      "hex": "e316",
+      "source": "iconsax-money-forbidden-e600d8eb3d20-.svg"
+    },
+    {
+      "name": "money-recive",
+      "hex": "e317",
+      "source": "iconsax-money-recive-e7ba621dc67c-.svg"
+    },
+    {
+      "name": "money-remove",
+      "hex": "e318",
+      "source": "iconsax-money-remove-dcd7a866600e-.svg"
+    },
+    {
+      "name": "money-send",
+      "hex": "e319",
+      "source": "iconsax-money-send-06c617cce39c-.svg"
+    },
+    {
+      "name": "money-tick",
+      "hex": "e31a",
+      "source": "iconsax-money-tick-e95c0c74586e-.svg"
+    },
+    {
+      "name": "money-time",
+      "hex": "e31b",
+      "source": "iconsax-money-time-fd33a4c9c5a1-.svg"
+    },
+    {
+      "name": "moneys",
+      "hex": "e31c",
+      "source": "iconsax-moneys-95bdcaafed5b-.svg"
+    },
+    {
+      "name": "monitor",
+      "hex": "e31d",
+      "source": "iconsax-monitor-c3c81ca37221-.svg"
+    },
+    {
+      "name": "monitor-mobile",
+      "hex": "e31e",
+      "source": "iconsax-monitor-mobile-36f3d2018352-.svg"
+    },
+    {
+      "name": "monitor-recorder",
+      "hex": "e31f",
+      "source": "iconsax-monitor-recorder-527e63b0dddc-.svg"
+    },
+    {
+      "name": "moon",
+      "hex": "e320",
+      "source": "iconsax-moon-ad23989e202e-.svg"
+    },
+    {
+      "name": "more",
+      "hex": "e321",
+      "source": "iconsax-more-03cac787e80a-.svg"
+    },
+    {
+      "name": "more-circle",
+      "hex": "e322",
+      "source": "iconsax-more-circle-d9f3003a9198-.svg"
+    },
+    {
+      "name": "more-square",
+      "hex": "e323",
+      "source": "iconsax-more-square-1dc96cc224d1-.svg"
+    },
+    {
+      "name": "mouse",
+      "hex": "e324",
+      "source": "iconsax-mouse-345e534f8a29-.svg"
+    },
+    {
+      "name": "mouse-circle",
+      "hex": "e325",
+      "source": "iconsax-mouse-circle-ce052b924665-.svg"
+    },
+    {
+      "name": "mouse-square",
+      "hex": "e326",
+      "source": "iconsax-mouse-square-567b3dee4e56-.svg"
+    },
+    {
+      "name": "music",
+      "hex": "e327",
+      "source": "iconsax-music-38c86266397e-.svg"
+    },
+    {
+      "name": "music-circle",
+      "hex": "e328",
+      "source": "iconsax-music-circle-592c9deb7260-.svg"
+    },
+    {
+      "name": "music-dashboard",
+      "hex": "e329",
+      "source": "iconsax-music-dashboard-4a96be4ba797-.svg"
+    },
+    {
+      "name": "music-filter",
+      "hex": "e32a",
+      "source": "iconsax-music-filter-4ef99c7cfc5f-.svg"
+    },
+    {
+      "name": "music-library",
+      "hex": "e32b",
+      "source": "iconsax-music-library-4a499a98df4f-.svg"
+    },
+    {
+      "name": "music-play",
+      "hex": "e32c",
+      "source": "iconsax-music-play-08206c40961b-.svg"
+    },
+    {
+      "name": "music-playlist",
+      "hex": "e32d",
+      "source": "iconsax-music-playlist-077ee263b903-.svg"
+    },
+    {
+      "name": "music-square",
+      "hex": "e32e",
+      "source": "iconsax-music-square-09c8b425a1fc-.svg"
+    },
+    {
+      "name": "music-square-add",
+      "hex": "e32f",
+      "source": "iconsax-music-square-add-fdaa9a7d0a9e-.svg"
+    },
+    {
+      "name": "music-square-remove",
+      "hex": "e330",
+      "source": "iconsax-music-square-remove-cee703cd090f-.svg"
+    },
+    {
+      "name": "music-square-search",
+      "hex": "e331",
+      "source": "iconsax-music-square-search-a44870424c60-.svg"
+    },
+    {
+      "name": "musical-note-ai",
+      "hex": "e061",
+      "source": "iconsax-musical-note-ai-8c6d54a87362-.svg"
+    },
+    {
+      "name": "musicnote",
+      "hex": "e332",
+      "source": "iconsax-musicnote-4cbf91b7e07a-.svg"
+    },
+    {
+      "name": "nebulas-nas",
+      "hex": "e333",
+      "source": "iconsax-nebulas-nas-6e43e58572cc-.svg"
+    },
+    {
+      "name": "nem-xem",
+      "hex": "e334",
+      "source": "iconsax-nem-xem-184203218f9c-.svg"
+    },
+    {
+      "name": "nexo-nexo",
+      "hex": "e335",
+      "source": "iconsax-nexo-nexo-5ea9d59c4824-.svg"
+    },
+    {
+      "name": "next",
+      "hex": "e336",
+      "source": "iconsax-next-f22ef4aed96e-.svg"
+    },
+    {
+      "name": "note",
+      "hex": "e337",
+      "source": "iconsax-note-000f5c7731b0-.svg"
+    },
+    {
+      "name": "note-add",
+      "hex": "e338",
+      "source": "iconsax-note-add-b16789208724-.svg"
+    },
+    {
+      "name": "note-favorite",
+      "hex": "e339",
+      "source": "iconsax-note-favorite-b407db170357-.svg"
+    },
+    {
+      "name": "note-remove",
+      "hex": "e33a",
+      "source": "iconsax-note-remove-065520599def-.svg"
+    },
+    {
+      "name": "note-square",
+      "hex": "e33b",
+      "source": "iconsax-note-square-07d3316a0708-.svg"
+    },
+    {
+      "name": "note-text",
+      "hex": "e33c",
+      "source": "iconsax-note-text-5b3c1a7c5dca-.svg"
+    },
+    {
+      "name": "notification",
+      "hex": "e33d",
+      "source": "iconsax-notification-9224b710aae1-.svg"
+    },
+    {
+      "name": "notification-bing",
+      "hex": "e33e",
+      "source": "iconsax-notification-bing-420e61ba029f-.svg"
+    },
+    {
+      "name": "notification-circle",
+      "hex": "e33f",
+      "source": "iconsax-notification-circle-43e6b81521ca-.svg"
+    },
+    {
+      "name": "notification-favorite",
+      "hex": "e340",
+      "source": "iconsax-notification-favorite-be239ceba55d-.svg"
+    },
+    {
+      "name": "notification-status",
+      "hex": "e341",
+      "source": "iconsax-notification-status-94151d98270b-.svg"
+    },
+    {
+      "name": "ocean-protocol-ocean",
+      "hex": "e342",
+      "source": "iconsax-ocean-protocol-ocean-e909de9490b2-.svg"
+    },
+    {
+      "name": "ok-app",
+      "hex": "e343",
+      "source": "iconsax-ok-app-bce91183b3de-.svg"
+    },
+    {
+      "name": "okb-okb",
+      "hex": "e344",
+      "source": "iconsax-okb-okb-8866329b643a-.svg"
+    },
+    {
+      "name": "omega-circle",
+      "hex": "e345",
+      "source": "iconsax-omega-circle-d82a299ec24c-.svg"
+    },
+    {
+      "name": "omega-square",
+      "hex": "e346",
+      "source": "iconsax-omega-square-978cf7a55f6d-.svg"
+    },
+    {
+      "name": "ontology-ont",
+      "hex": "e347",
+      "source": "iconsax-ontology-ont-762187f599bd-.svg"
+    },
+    {
+      "name": "padlock",
+      "hex": "e348",
+      "source": "iconsax-padlock-e5cf69d19980-.svg"
+    },
+    {
+      "name": "paint-brush",
+      "hex": "e349",
+      "source": "iconsax-paint-brush-3280072e10f7-.svg"
+    },
+    {
+      "name": "paint-roller",
+      "hex": "e34a",
+      "source": "iconsax-paint-roller-e276e8c62bb8-.svg"
+    },
+    {
+      "name": "paintbucket",
+      "hex": "e34b",
+      "source": "iconsax-paintbucket-32d522ebf9f9-.svg"
+    },
+    {
+      "name": "paper",
+      "hex": "e34c",
+      "source": "iconsax-paper-3946fd6ef3ad-.svg"
+    },
+    {
+      "name": "paper2",
+      "hex": "e34d",
+      "source": "iconsax-paper2-0c5e48584a8e-.svg"
+    },
+    {
+      "name": "paperclip",
+      "hex": "e34e",
+      "source": "iconsax-paperclip-7ae95e74b380-.svg"
+    },
+    {
+      "name": "paragraphspacing",
+      "hex": "e34f",
+      "source": "iconsax-paragraphspacing-f5e1ff010038-.svg"
+    },
+    {
+      "name": "party-hat",
+      "hex": "e350",
+      "source": "iconsax-party-hat-5d0b1711e54e-.svg"
+    },
+    {
+      "name": "party-popper",
+      "hex": "e351",
+      "source": "iconsax-party-popper-e2f73e196969-.svg"
+    },
+    {
+      "name": "password-check",
+      "hex": "e352",
+      "source": "iconsax-password-check-7dde86eb4496-.svg"
+    },
+    {
+      "name": "path",
+      "hex": "e353",
+      "source": "iconsax-path-79d9f3ad3caf-.svg"
+    },
+    {
+      "name": "path-square",
+      "hex": "e354",
+      "source": "iconsax-path-square-3842af16760d-.svg"
+    },
+    {
+      "name": "pause",
+      "hex": "e355",
+      "source": "iconsax-pause-5e00b5e0ee00-.svg"
+    },
+    {
+      "name": "pause-circle",
+      "hex": "e356",
+      "source": "iconsax-pause-circle-2725bce7f822-.svg"
+    },
+    {
+      "name": "paypal",
+      "hex": "e357",
+      "source": "iconsax-paypal-10bffa68b2b1-.svg"
+    },
+    {
+      "name": "pen-add",
+      "hex": "e358",
+      "source": "iconsax-pen-add-96e9924d7381-.svg"
+    },
+    {
+      "name": "pen-close",
+      "hex": "e359",
+      "source": "iconsax-pen-close-da549966a5d3-.svg"
+    },
+    {
+      "name": "pen-remove",
+      "hex": "e35a",
+      "source": "iconsax-pen-remove-7386bbe44a0b-.svg"
+    },
+    {
+      "name": "pen-tool",
+      "hex": "e35b",
+      "source": "iconsax-pen-tool-7245b061775e-.svg"
+    },
+    {
+      "name": "people",
+      "hex": "e35c",
+      "source": "iconsax-people-6562d3c2a912-.svg"
+    },
+    {
+      "name": "percentage-circle",
+      "hex": "e35d",
+      "source": "iconsax-percentage-circle-fa39ce2925fc-.svg"
+    },
+    {
+      "name": "percentage-square",
+      "hex": "e35e",
+      "source": "iconsax-percentage-square-87aeba6aa32d-.svg"
+    },
+    {
+      "name": "personalcard",
+      "hex": "e0e0",
+      "source": "iconsax-personalcard-baf826dc4b4e-.svg"
+    },
+    {
+      "name": "pet",
+      "hex": "e35f",
+      "source": "iconsax-pet-72cb1d35ec8a-.svg"
+    },
+    {
+      "name": "photoshop",
+      "hex": "e360",
+      "source": "iconsax-photoshop-d6f8ab85a4f4-.svg"
+    },
+    {
+      "name": "picture-frame",
+      "hex": "e361",
+      "source": "iconsax-picture-frame-4631514dfb90-.svg"
+    },
+    {
+      "name": "play",
+      "hex": "e362",
+      "source": "iconsax-play-9804d8b3cde5-.svg"
+    },
+    {
+      "name": "play-add",
+      "hex": "e363",
+      "source": "iconsax-play-add-71ce26f701c6-.svg"
+    },
+    {
+      "name": "play-circle",
+      "hex": "e364",
+      "source": "iconsax-play-circle-041ddcf066cb-.svg"
+    },
+    {
+      "name": "play-remove",
+      "hex": "e365",
+      "source": "iconsax-play-remove-993c0f5e5b71-.svg"
+    },
+    {
+      "name": "polkadot-dot",
+      "hex": "e366",
+      "source": "iconsax-polkadot-dot-b9473e431c69-.svg"
+    },
+    {
+      "name": "polygon-matic",
+      "hex": "e367",
+      "source": "iconsax-polygon-matic-7d9d0566dccb-.svg"
+    },
+    {
+      "name": "polyswarm-nct",
+      "hex": "e368",
+      "source": "iconsax-polyswarm-nct-35f1d1fc9a7b-.svg"
+    },
+    {
+      "name": "presentation-chart",
+      "hex": "e0e1",
+      "source": "iconsax-presentation-chart-63f9d1dd8af9-.svg"
+    },
+    {
+      "name": "previous",
+      "hex": "e369",
+      "source": "iconsax-previous-b249fbb5ec59-.svg"
+    },
+    {
+      "name": "printer",
+      "hex": "e36a",
+      "source": "iconsax-printer-7a7584f1cc8f-.svg"
+    },
+    {
+      "name": "printer-slash",
+      "hex": "e36b",
+      "source": "iconsax-printer-slash-fe20fb474580-.svg"
+    },
+    {
+      "name": "profile-2user",
+      "hex": "e36c",
+      "source": "iconsax-profile-2user-b3a4b2213bc4-.svg"
+    },
+    {
+      "name": "profile-add",
+      "hex": "e36d",
+      "source": "iconsax-profile-add-c474f252b3f6-.svg"
+    },
+    {
+      "name": "profile",
+      "hex": "e36e",
+      "source": "iconsax-profile-cf394c2c284b-.svg"
+    },
+    {
+      "name": "profile-circle",
+      "hex": "e36f",
+      "source": "iconsax-profile-circle-254a21a5b7e4-.svg"
+    },
+    {
+      "name": "profile-delete",
+      "hex": "e370",
+      "source": "iconsax-profile-delete-dad5b764d570-.svg"
+    },
+    {
+      "name": "profile-remove",
+      "hex": "e371",
+      "source": "iconsax-profile-remove-670a4e9256ae-.svg"
+    },
+    {
+      "name": "profile-tick",
+      "hex": "e372",
+      "source": "iconsax-profile-tick-a50ef5993de1-.svg"
+    },
+    {
+      "name": "programming-arrow",
+      "hex": "e373",
+      "source": "iconsax-programming-arrow-e20537eb1435-.svg"
+    },
+    {
+      "name": "programming-arrows",
+      "hex": "e374",
+      "source": "iconsax-programming-arrows-b7aea6ce379e-.svg"
+    },
+    {
+      "name": "python",
+      "hex": "e375",
+      "source": "iconsax-python-ca3abf155962-.svg"
+    },
+    {
+      "name": "quant-qnt",
+      "hex": "e376",
+      "source": "iconsax-quant-qnt-9e6096551b71-.svg"
+    },
+    {
+      "name": "quote-down",
+      "hex": "e377",
+      "source": "iconsax-quote-down-b80f8d9ec798-.svg"
+    },
+    {
+      "name": "quote-down-circle",
+      "hex": "e378",
+      "source": "iconsax-quote-down-circle-fe7eb3bd97b6-.svg"
+    },
+    {
+      "name": "quote-down-square",
+      "hex": "e379",
+      "source": "iconsax-quote-down-square-b6903f47070f-.svg"
+    },
+    {
+      "name": "quote-up-circle",
+      "hex": "e37a",
+      "source": "iconsax-quote-up-circle-41d555a54458-.svg"
+    },
+    {
+      "name": "quote-up",
+      "hex": "e37b",
+      "source": "iconsax-quote-up-ff14555d41ad-.svg"
+    },
+    {
+      "name": "quote-up-square",
+      "hex": "e37c",
+      "source": "iconsax-quote-up-square-ea02ae9cb777-.svg"
+    },
+    {
+      "name": "radar",
+      "hex": "e37d",
+      "source": "iconsax-radar-1c037dfefb42-.svg"
+    },
+    {
+      "name": "radio",
+      "hex": "e37e",
+      "source": "iconsax-radio-e996e580e03f-.svg"
+    },
+    {
+      "name": "ram",
+      "hex": "e37f",
+      "source": "iconsax-ram-a5c0d25aa91d-.svg"
+    },
+    {
+      "name": "ranking",
+      "hex": "e380",
+      "source": "iconsax-ranking-15d21d410e97-.svg"
+    },
+    {
+      "name": "receipt",
+      "hex": "e381",
+      "source": "iconsax-receipt-4b4cdd190dab-.svg"
+    },
+    {
+      "name": "receipt-add",
+      "hex": "e382",
+      "source": "iconsax-receipt-add-f96fdb347244-.svg"
+    },
+    {
+      "name": "receipt-discount",
+      "hex": "e383",
+      "source": "iconsax-receipt-discount-79e066f27695-.svg"
+    },
+    {
+      "name": "receipt-disscount",
+      "hex": "e384",
+      "source": "iconsax-receipt-disscount-03ba27214abf-.svg"
+    },
+    {
+      "name": "receipt-edit",
+      "hex": "e385",
+      "source": "iconsax-receipt-edit-18fe8a40e5ed-.svg"
+    },
+    {
+      "name": "receipt-item",
+      "hex": "e386",
+      "source": "iconsax-receipt-item-bf6a1b3403b0-.svg"
+    },
+    {
+      "name": "receipt-minus",
+      "hex": "e387",
+      "source": "iconsax-receipt-minus-0a6b76bd20a9-.svg"
+    },
+    {
+      "name": "receipt-search",
+      "hex": "e388",
+      "source": "iconsax-receipt-search-95405d4aa0c4-.svg"
+    },
+    {
+      "name": "receipt-square",
+      "hex": "e062",
+      "source": "iconsax-receipt-square-3877165f6a63-.svg"
+    },
+    {
+      "name": "receipt-text",
+      "hex": "e389",
+      "source": "iconsax-receipt-text-1b9d4610d6af-.svg"
+    },
+    {
+      "name": "receive-square",
+      "hex": "e0e2",
+      "source": "iconsax-receive-square-44697ade9bf7-.svg"
+    },
+    {
+      "name": "receive-square2",
+      "hex": "e0e3",
+      "source": "iconsax-receive-square2-a864f361ac2d-.svg"
+    },
+    {
+      "name": "received",
+      "hex": "e0e4",
+      "source": "iconsax-received-44c9f20cd61d-.svg"
+    },
+    {
+      "name": "record-circle",
+      "hex": "e38a",
+      "source": "iconsax-record-circle-736b6df73036-.svg"
+    },
+    {
+      "name": "record",
+      "hex": "e38b",
+      "source": "iconsax-record-e2ca06999884-.svg"
+    },
+    {
+      "name": "recovery-convert",
+      "hex": "e38c",
+      "source": "iconsax-recovery-convert-480cc97d4725-.svg"
+    },
+    {
+      "name": "redo-arrow",
+      "hex": "e0e5",
+      "source": "iconsax-redo-arrow-8cdaf100f75c-.svg"
+    },
+    {
+      "name": "refresh-arrow",
+      "hex": "e0e6",
+      "source": "iconsax-refresh-arrow-5bb8bd3d21c7-.svg"
+    },
+    {
+      "name": "refresh-arrow2",
+      "hex": "e0e7",
+      "source": "iconsax-refresh-arrow2-ea2104e9922b-.svg"
+    },
+    {
+      "name": "refresh-circle",
+      "hex": "e0e8",
+      "source": "iconsax-refresh-circle-bf15676c5d73-.svg"
+    },
+    {
+      "name": "refresh-left",
+      "hex": "e0e9",
+      "source": "iconsax-refresh-left-e29904f6dcb2-.svg"
+    },
+    {
+      "name": "refresh-right",
+      "hex": "e0ea",
+      "source": "iconsax-refresh-right-3beb89ed8340-.svg"
+    },
+    {
+      "name": "refresh-square",
+      "hex": "e0eb",
+      "source": "iconsax-refresh-square-2459fbbffa12-.svg"
+    },
+    {
+      "name": "reindeer-antlers",
+      "hex": "e38d",
+      "source": "iconsax-reindeer-antlers-d97ebe112c40-.svg"
+    },
+    {
+      "name": "reindeer-arch",
+      "hex": "e38e",
+      "source": "iconsax-reindeer-arch-59896b0c923e-.svg"
+    },
+    {
+      "name": "reindeer-face",
+      "hex": "e38f",
+      "source": "iconsax-reindeer-face-9c82c1ff9c61-.svg"
+    },
+    {
+      "name": "repeat-arrow",
+      "hex": "e0ec",
+      "source": "iconsax-repeat-arrow-4765d30cc2dd-.svg"
+    },
+    {
+      "name": "repeat-circle",
+      "hex": "e0ed",
+      "source": "iconsax-repeat-circle-0853fd4e6af1-.svg"
+    },
+    {
+      "name": "repeat-music",
+      "hex": "e390",
+      "source": "iconsax-repeat-music-74d4f59801b6-.svg"
+    },
+    {
+      "name": "repeate-one",
+      "hex": "e391",
+      "source": "iconsax-repeate-one-36d410b5c936-.svg"
+    },
+    {
+      "name": "reserve",
+      "hex": "e392",
+      "source": "iconsax-reserve-b15b43fc3c04-.svg"
+    },
+    {
+      "name": "rotate-left",
+      "hex": "e0ee",
+      "source": "iconsax-rotate-left-ceebcf3295d6-.svg"
+    },
+    {
+      "name": "rotate-right",
+      "hex": "e0ef",
+      "source": "iconsax-rotate-right-346f292b0a62-.svg"
+    },
+    {
+      "name": "route-square",
+      "hex": "e393",
+      "source": "iconsax-route-square-197923653845-.svg"
+    },
+    {
+      "name": "routing",
+      "hex": "e394",
+      "source": "iconsax-routing-43fdd3020b3d-.svg"
+    },
+    {
+      "name": "row-horizontal",
+      "hex": "e395",
+      "source": "iconsax-row-horizontal-9b1971c13f12-.svg"
+    },
+    {
+      "name": "row-vertical",
+      "hex": "e396",
+      "source": "iconsax-row-vertical-7af662fdc173-.svg"
+    },
+    {
+      "name": "ruler",
+      "hex": "e397",
+      "source": "iconsax-ruler-8ada634deaec-.svg"
+    },
+    {
+      "name": "ruler-pen",
+      "hex": "e398",
+      "source": "iconsax-ruler-pen-cdcfe47c320e-.svg"
+    },
+    {
+      "name": "safe-home",
+      "hex": "e399",
+      "source": "iconsax-safe-home-b3a25b598aad-.svg"
+    },
+    {
+      "name": "sagittarius",
+      "hex": "e0f0",
+      "source": "iconsax-sagittarius-193f2e05b13d-.svg"
+    },
+    {
+      "name": "santa",
+      "hex": "e39a",
+      "source": "iconsax-santa-f85ab6b68eaf-.svg"
+    },
+    {
+      "name": "santa-face",
+      "hex": "e39b",
+      "source": "iconsax-santa-face-d90a674050d9-.svg"
+    },
+    {
+      "name": "santa-hat",
+      "hex": "e39c",
+      "source": "iconsax-santa-hat-979ab2d188e3-.svg"
+    },
+    {
+      "name": "santa-mouth",
+      "hex": "e39d",
+      "source": "iconsax-santa-mouth-1fd5df91c0fb-.svg"
+    },
+    {
+      "name": "santa2",
+      "hex": "e39e",
+      "source": "iconsax-santa2-76abda714b84-.svg"
+    },
+    {
+      "name": "save",
+      "hex": "e063",
+      "source": "iconsax-save-9d2ee6bc52e8-.svg"
+    },
+    {
+      "name": "save-add",
+      "hex": "e064",
+      "source": "iconsax-save-add-5bd556b0ebba-.svg"
+    },
+    {
+      "name": "save-minus",
+      "hex": "e065",
+      "source": "iconsax-save-minus-5ce99cf3f550-.svg"
+    },
+    {
+      "name": "save-remove",
+      "hex": "e0f1",
+      "source": "iconsax-save-remove-6646b59f75e6-.svg"
+    },
+    {
+      "name": "scan-barcode",
+      "hex": "e39f",
+      "source": "iconsax-scan-barcode-d0bccbb694f1-.svg"
+    },
+    {
+      "name": "scan",
+      "hex": "e3a0",
+      "source": "iconsax-scan-ff938c3575a8-.svg"
+    },
+    {
+      "name": "scanner",
+      "hex": "e3a1",
+      "source": "iconsax-scanner-88d385a6febc-.svg"
+    },
+    {
+      "name": "scanning",
+      "hex": "e3a2",
+      "source": "iconsax-scanning-20d85b46734b-.svg"
+    },
+    {
+      "name": "scissor",
+      "hex": "e3a3",
+      "source": "iconsax-scissor-0ffa0bd50eea-.svg"
+    },
+    {
+      "name": "screenmirroring",
+      "hex": "e3a4",
+      "source": "iconsax-screenmirroring-c8efcc637fb6-.svg"
+    },
+    {
+      "name": "scroll",
+      "hex": "e3a5",
+      "source": "iconsax-scroll-ae98d11cbcb1-.svg"
+    },
+    {
+      "name": "search",
+      "hex": "e3a6",
+      "source": "iconsax-search-81aa50cc524a-.svg"
+    },
+    {
+      "name": "search-favorite",
+      "hex": "e3a7",
+      "source": "iconsax-search-favorite-0cb1c00e57db-.svg"
+    },
+    {
+      "name": "search-normal",
+      "hex": "e3a8",
+      "source": "iconsax-search-normal-57aee632c8f8-.svg"
+    },
+    {
+      "name": "search-status",
+      "hex": "e3a9",
+      "source": "iconsax-search-status-65adecdf07d8-.svg"
+    },
+    {
+      "name": "search-zoom-in",
+      "hex": "e3aa",
+      "source": "iconsax-search-zoom-in-59bf895c1238-.svg"
+    },
+    {
+      "name": "search-zoom-out",
+      "hex": "e3ab",
+      "source": "iconsax-search-zoom-out-6e79b4b000ab-.svg"
+    },
+    {
+      "name": "security",
+      "hex": "e3ac",
+      "source": "iconsax-security-80ecccc28ec2-.svg"
+    },
+    {
+      "name": "security-card",
+      "hex": "e3ad",
+      "source": "iconsax-security-card-d34e9abdd37f-.svg"
+    },
+    {
+      "name": "security-safe",
+      "hex": "e3ae",
+      "source": "iconsax-security-safe-10a1d803e679-.svg"
+    },
+    {
+      "name": "security-time",
+      "hex": "e3af",
+      "source": "iconsax-security-time-07026cc9a0ff-.svg"
+    },
+    {
+      "name": "security-user",
+      "hex": "e3b0",
+      "source": "iconsax-security-user-4776222a67f1-.svg"
+    },
+    {
+      "name": "send",
+      "hex": "e0f2",
+      "source": "iconsax-send-37de39718f68-.svg"
+    },
+    {
+      "name": "send-square",
+      "hex": "e0f3",
+      "source": "iconsax-send-square-d43abf00e763-.svg"
+    },
+    {
+      "name": "send-square2",
+      "hex": "e0f4",
+      "source": "iconsax-send-square2-af830785ac3a-.svg"
+    },
+    {
+      "name": "serving-dome",
+      "hex": "e3b1",
+      "source": "iconsax-serving-dome-6b5475111454-.svg"
+    },
+    {
+      "name": "setting",
+      "hex": "e3b2",
+      "source": "iconsax-setting-4d50f9aeff8e-.svg"
+    },
+    {
+      "name": "settings",
+      "hex": "e3b3",
+      "source": "iconsax-settings-927b28d48326-.svg"
+    },
+    {
+      "name": "shapes",
+      "hex": "e3b4",
+      "source": "iconsax-shapes-82d3f25da9ab-.svg"
+    },
+    {
+      "name": "share",
+      "hex": "e3b5",
+      "source": "iconsax-share-3665922f2a23-.svg"
+    },
+    {
+      "name": "shield",
+      "hex": "e3b6",
+      "source": "iconsax-shield-8eb206f32eb6-.svg"
+    },
+    {
+      "name": "shield-cross",
+      "hex": "e3b7",
+      "source": "iconsax-shield-cross-1ac4c8460ee9-.svg"
+    },
+    {
+      "name": "shield-search",
+      "hex": "e3b8",
+      "source": "iconsax-shield-search-c4513d89159f-.svg"
+    },
+    {
+      "name": "shield-security",
+      "hex": "e3b9",
+      "source": "iconsax-shield-security-69234b13fb51-.svg"
+    },
+    {
+      "name": "shield-slash",
+      "hex": "e3ba",
+      "source": "iconsax-shield-slash-85e73f747221-.svg"
+    },
+    {
+      "name": "shield-tick",
+      "hex": "e3bb",
+      "source": "iconsax-shield-tick-d90a4728503d-.svg"
+    },
+    {
+      "name": "ship",
+      "hex": "e0f5",
+      "source": "iconsax-ship-9b23635d77db-.svg"
+    },
+    {
+      "name": "shop-add",
+      "hex": "e3bc",
+      "source": "iconsax-shop-add-c68a4b61d64e-.svg"
+    },
+    {
+      "name": "shop",
+      "hex": "e3bd",
+      "source": "iconsax-shop-dc0fb679b51c-.svg"
+    },
+    {
+      "name": "shop-gift",
+      "hex": "e3be",
+      "source": "iconsax-shop-gift-2c71ee1d679a-.svg"
+    },
+    {
+      "name": "shop-remove",
+      "hex": "e3bf",
+      "source": "iconsax-shop-remove-75c8e009bce5-.svg"
+    },
+    {
+      "name": "shop-snow",
+      "hex": "e3c0",
+      "source": "iconsax-shop-snow-5bcf14fc2df9-.svg"
+    },
+    {
+      "name": "shopping-bag",
+      "hex": "e3c1",
+      "source": "iconsax-shopping-bag-a39062a77b0d-.svg"
+    },
+    {
+      "name": "shopping-cart",
+      "hex": "e3c2",
+      "source": "iconsax-shopping-cart-420ba42d49a9-.svg"
+    },
+    {
+      "name": "shuffle",
+      "hex": "e3c3",
+      "source": "iconsax-shuffle-04312ac7eeb0-.svg"
+    },
+    {
+      "name": "shutterstock",
+      "hex": "e3c4",
+      "source": "iconsax-shutterstock-e38c50d6d8ac-.svg"
+    },
+    {
+      "name": "siacoin-sc",
+      "hex": "e3c5",
+      "source": "iconsax-siacoin-sc-e618baacce5a-.svg"
+    },
+    {
+      "name": "sidebar-bottom",
+      "hex": "e3c6",
+      "source": "iconsax-sidebar-bottom-81687fc54f2d-.svg"
+    },
+    {
+      "name": "sidebar-left",
+      "hex": "e3c7",
+      "source": "iconsax-sidebar-left-8133ff687ddc-.svg"
+    },
+    {
+      "name": "sidebar-right",
+      "hex": "e3c8",
+      "source": "iconsax-sidebar-right-d5c721dde064-.svg"
+    },
+    {
+      "name": "sidebar-top",
+      "hex": "e3c9",
+      "source": "iconsax-sidebar-top-ab82b33487ac-.svg"
+    },
+    {
+      "name": "signpost",
+      "hex": "e3ca",
+      "source": "iconsax-signpost-9f3673a385d8-.svg"
+    },
+    {
+      "name": "simcard",
+      "hex": "e3cb",
+      "source": "iconsax-simcard-082b58c66579-.svg"
+    },
+    {
+      "name": "size",
+      "hex": "e3cc",
+      "source": "iconsax-size-ae80cebcee0c-.svg"
+    },
+    {
+      "name": "ski",
+      "hex": "e3cd",
+      "source": "iconsax-ski-b18b1cc329b7-.svg"
+    },
+    {
+      "name": "slack",
+      "hex": "e3ce",
+      "source": "iconsax-slack-149748f0dc6c-.svg"
+    },
+    {
+      "name": "slash",
+      "hex": "e3cf",
+      "source": "iconsax-slash-980ac6cf4630-.svg"
+    },
+    {
+      "name": "sleigh",
+      "hex": "e3d0",
+      "source": "iconsax-sleigh-b83bf7fd9dfc-.svg"
+    },
+    {
+      "name": "sleigh2",
+      "hex": "e3d1",
+      "source": "iconsax-sleigh2-105d19cba86a-.svg"
+    },
+    {
+      "name": "slider",
+      "hex": "e3d2",
+      "source": "iconsax-slider-cad450c7a0c8-.svg"
+    },
+    {
+      "name": "slider-horizontal",
+      "hex": "e3d3",
+      "source": "iconsax-slider-horizontal-19b5d43bcfdd-.svg"
+    },
+    {
+      "name": "slider-vertical",
+      "hex": "e3d4",
+      "source": "iconsax-slider-vertical-57fa0080b3f0-.svg"
+    },
+    {
+      "name": "smallcaps",
+      "hex": "e3d5",
+      "source": "iconsax-smallcaps-591f8589b0ab-.svg"
+    },
+    {
+      "name": "smart-bag",
+      "hex": "e066",
+      "source": "iconsax-smart-bag-b7867ff76788-.svg"
+    },
+    {
+      "name": "smart-car",
+      "hex": "e0f6",
+      "source": "iconsax-smart-car-fb39b74dd0ff-.svg"
+    },
+    {
+      "name": "smart-cursor",
+      "hex": "e067",
+      "source": "iconsax-smart-cursor-898da6052bc2-.svg"
+    },
+    {
+      "name": "smart-home",
+      "hex": "e3d6",
+      "source": "iconsax-smart-home-1fb6dc26fc88-.svg"
+    },
+    {
+      "name": "smart-lock-ai",
+      "hex": "e068",
+      "source": "iconsax-smart-lock-ai-77428f45c74d-.svg"
+    },
+    {
+      "name": "smileys",
+      "hex": "e3d7",
+      "source": "iconsax-smileys-b14109a224dd-.svg"
+    },
+    {
+      "name": "sms",
+      "hex": "e3d8",
+      "source": "iconsax-sms-4367839757e5-.svg"
+    },
+    {
+      "name": "sms-edit",
+      "hex": "e3d9",
+      "source": "iconsax-sms-edit-7b91b86d9b27-.svg"
+    },
+    {
+      "name": "sms-notification",
+      "hex": "e3da",
+      "source": "iconsax-sms-notification-c181331ddae0-.svg"
+    },
+    {
+      "name": "sms-search",
+      "hex": "e3db",
+      "source": "iconsax-sms-search-65a754df1648-.svg"
+    },
+    {
+      "name": "sms-star",
+      "hex": "e3dc",
+      "source": "iconsax-sms-star-b9d41752bb8a-.svg"
+    },
+    {
+      "name": "sms-tracking",
+      "hex": "e3dd",
+      "source": "iconsax-sms-tracking-47055c05d615-.svg"
+    },
+    {
+      "name": "snapchat",
+      "hex": "e3de",
+      "source": "iconsax-snapchat-3b7043ff0761-.svg"
+    },
+    {
+      "name": "snow",
+      "hex": "e3df",
+      "source": "iconsax-snow-a3796630ad1d-.svg"
+    },
+    {
+      "name": "snow10",
+      "hex": "e3e0",
+      "source": "iconsax-snow10-1d1449340015-.svg"
+    },
+    {
+      "name": "snow11",
+      "hex": "e3e1",
+      "source": "iconsax-snow11-a0ef8631f293-.svg"
+    },
+    {
+      "name": "snow112",
+      "hex": "e3e2",
+      "source": "iconsax-snow112-da3090fb33af-.svg"
+    },
+    {
+      "name": "snow12",
+      "hex": "e3e3",
+      "source": "iconsax-snow12-a830f3aa9fe9-.svg"
+    },
+    {
+      "name": "snow13",
+      "hex": "e3e4",
+      "source": "iconsax-snow13-43454fc52905-.svg"
+    },
+    {
+      "name": "snow14",
+      "hex": "e3e5",
+      "source": "iconsax-snow14-246279488c6a-.svg"
+    },
+    {
+      "name": "snow2",
+      "hex": "e3e6",
+      "source": "iconsax-snow2-fa7c4e604b29-.svg"
+    },
+    {
+      "name": "snow22",
+      "hex": "e3e7",
+      "source": "iconsax-snow22-dddc8fe7ba9f-.svg"
+    },
+    {
+      "name": "snow3",
+      "hex": "e3e8",
+      "source": "iconsax-snow3-0403cf0cf770-.svg"
+    },
+    {
+      "name": "snow4",
+      "hex": "e3e9",
+      "source": "iconsax-snow4-cacceb19afe9-.svg"
+    },
+    {
+      "name": "snow5",
+      "hex": "e3ea",
+      "source": "iconsax-snow5-9110cee3e2d7-.svg"
+    },
+    {
+      "name": "snow6",
+      "hex": "e3eb",
+      "source": "iconsax-snow6-204584eb1222-.svg"
+    },
+    {
+      "name": "snow7",
+      "hex": "e3ec",
+      "source": "iconsax-snow7-73e0fb9cb04d-.svg"
+    },
+    {
+      "name": "snow8",
+      "hex": "e3ed",
+      "source": "iconsax-snow8-3f5326a43bb1-.svg"
+    },
+    {
+      "name": "snow9",
+      "hex": "e3ee",
+      "source": "iconsax-snow9-f62eff751913-.svg"
+    },
+    {
+      "name": "snowflake",
+      "hex": "e3ef",
+      "source": "iconsax-snowflake-d75156c9f9dd-.svg"
+    },
+    {
+      "name": "snowman",
+      "hex": "e3f0",
+      "source": "iconsax-snowman-f84fb3fbb40e-.svg"
+    },
+    {
+      "name": "snowman2",
+      "hex": "e3f1",
+      "source": "iconsax-snowman2-a0d444101aec-.svg"
+    },
+    {
+      "name": "snowman3",
+      "hex": "e3f2",
+      "source": "iconsax-snowman3-e822ecf9e6aa-.svg"
+    },
+    {
+      "name": "snowman4",
+      "hex": "e3f3",
+      "source": "iconsax-snowman4-3cf330b825da-.svg"
+    },
+    {
+      "name": "snowman5",
+      "hex": "e3f4",
+      "source": "iconsax-snowman5-71324807c21c-.svg"
+    },
+    {
+      "name": "snowman6",
+      "hex": "e3f5",
+      "source": "iconsax-snowman6-d92fe7e03401-.svg"
+    },
+    {
+      "name": "snowman7",
+      "hex": "e3f6",
+      "source": "iconsax-snowman7-b97685d35911-.svg"
+    },
+    {
+      "name": "socks",
+      "hex": "e3f7",
+      "source": "iconsax-socks-eb20440fc42d-.svg"
+    },
+    {
+      "name": "socks2",
+      "hex": "e3f8",
+      "source": "iconsax-socks2-71300069034a-.svg"
+    },
+    {
+      "name": "solana-sol",
+      "hex": "e3f9",
+      "source": "iconsax-solana-sol-20905f436e75-.svg"
+    },
+    {
+      "name": "sort",
+      "hex": "e3fa",
+      "source": "iconsax-sort-029592b72c4a-.svg"
+    },
+    {
+      "name": "sound",
+      "hex": "e3fb",
+      "source": "iconsax-sound-600ddfb31f30-.svg"
+    },
+    {
+      "name": "sparkler",
+      "hex": "e3fc",
+      "source": "iconsax-sparkler-838a7dbd8a8f-.svg"
+    },
+    {
+      "name": "speaker",
+      "hex": "e3fd",
+      "source": "iconsax-speaker-e8014f85eac0-.svg"
+    },
+    {
+      "name": "speedometer",
+      "hex": "e3fe",
+      "source": "iconsax-speedometer-0877dbf6a78d-.svg"
+    },
+    {
+      "name": "spotify",
+      "hex": "e3ff",
+      "source": "iconsax-spotify-edaeaf0971ea-.svg"
+    },
+    {
+      "name": "stacks-stx",
+      "hex": "e400",
+      "source": "iconsax-stacks-stx-ddadbad2d553-.svg"
+    },
+    {
+      "name": "star",
+      "hex": "e401",
+      "source": "iconsax-star-1a3fbeaf61dc-.svg"
+    },
+    {
+      "name": "star-garland",
+      "hex": "e402",
+      "source": "iconsax-star-garland-272c781d29af-.svg"
+    },
+    {
+      "name": "star-slash",
+      "hex": "e403",
+      "source": "iconsax-star-slash-545b7f8d2930-.svg"
+    },
+    {
+      "name": "star2",
+      "hex": "e404",
+      "source": "iconsax-star2-027d9b12a093-.svg"
+    },
+    {
+      "name": "star3",
+      "hex": "e405",
+      "source": "iconsax-star3-d0770831cb55-.svg"
+    },
+    {
+      "name": "star4",
+      "hex": "e406",
+      "source": "iconsax-star4-2567ae9cbc38-.svg"
+    },
+    {
+      "name": "star5",
+      "hex": "e407",
+      "source": "iconsax-star5-e8261b1463eb-.svg"
+    },
+    {
+      "name": "stars",
+      "hex": "e408",
+      "source": "iconsax-stars-c233efa72686-.svg"
+    },
+    {
+      "name": "status",
+      "hex": "e409",
+      "source": "iconsax-status-f2d7c84d68e2-.svg"
+    },
+    {
+      "name": "status-up",
+      "hex": "e0f7",
+      "source": "iconsax-status-up-b78176fdc92b-.svg"
+    },
+    {
+      "name": "stellar-xlm",
+      "hex": "e40a",
+      "source": "iconsax-stellar-xlm-a10a17e52a54-.svg"
+    },
+    {
+      "name": "stick",
+      "hex": "e40b",
+      "source": "iconsax-stick-cd1ce365955e-.svg"
+    },
+    {
+      "name": "stick2",
+      "hex": "e40c",
+      "source": "iconsax-stick2-0cc8f7e0ba35-.svg"
+    },
+    {
+      "name": "stick3",
+      "hex": "e40d",
+      "source": "iconsax-stick3-9145cebd4de4-.svg"
+    },
+    {
+      "name": "sticker",
+      "hex": "e40e",
+      "source": "iconsax-sticker-55aba6646fb7-.svg"
+    },
+    {
+      "name": "stickynote",
+      "hex": "e40f",
+      "source": "iconsax-stickynote-73f7388344ab-.svg"
+    },
+    {
+      "name": "stop",
+      "hex": "e410",
+      "source": "iconsax-stop-a7c784323f01-.svg"
+    },
+    {
+      "name": "stop-circle",
+      "hex": "e411",
+      "source": "iconsax-stop-circle-6efe3b93124b-.svg"
+    },
+    {
+      "name": "story",
+      "hex": "e412",
+      "source": "iconsax-story-7dc67b5f8dc6-.svg"
+    },
+    {
+      "name": "strongbox",
+      "hex": "e413",
+      "source": "iconsax-strongbox-6e0c44ab4232-.svg"
+    },
+    {
+      "name": "subtitle",
+      "hex": "e414",
+      "source": "iconsax-subtitle-c2633e730026-.svg"
+    },
+    {
+      "name": "sun",
+      "hex": "e415",
+      "source": "iconsax-sun-ff6cf34969c1-.svg"
+    },
+    {
+      "name": "sun-fog",
+      "hex": "e416",
+      "source": "iconsax-sun-fog-08d1b1f21a62-.svg"
+    },
+    {
+      "name": "swap-horizontal",
+      "hex": "e0f8",
+      "source": "iconsax-swap-horizontal-4a522223c090-.svg"
+    },
+    {
+      "name": "swap-horizontal2",
+      "hex": "e0f9",
+      "source": "iconsax-swap-horizontal2-04a4791b234e-.svg"
+    },
+    {
+      "name": "swap-horizontal3",
+      "hex": "e0fa",
+      "source": "iconsax-swap-horizontal3-ee4202a9c208-.svg"
+    },
+    {
+      "name": "tag",
+      "hex": "e417",
+      "source": "iconsax-tag-7e3a45aae62f-.svg"
+    },
+    {
+      "name": "tag-cross",
+      "hex": "e418",
+      "source": "iconsax-tag-cross-d1aea9f5555d-.svg"
+    },
+    {
+      "name": "tag-right",
+      "hex": "e419",
+      "source": "iconsax-tag-right-1b1073c2024f-.svg"
+    },
+    {
+      "name": "tag-user",
+      "hex": "e41a",
+      "source": "iconsax-tag-user-694666263fdc-.svg"
+    },
+    {
+      "name": "task",
+      "hex": "e41b",
+      "source": "iconsax-task-418a34cc7223-.svg"
+    },
+    {
+      "name": "task-square",
+      "hex": "e41c",
+      "source": "iconsax-task-square-50a50d21924d-.svg"
+    },
+    {
+      "name": "teacher",
+      "hex": "e41d",
+      "source": "iconsax-teacher-437581f76fe6-.svg"
+    },
+    {
+      "name": "telescope",
+      "hex": "e41e",
+      "source": "iconsax-telescope-78c0be2c5317-.svg"
+    },
+    {
+      "name": "tenx-pay",
+      "hex": "e41f",
+      "source": "iconsax-tenx-pay-e03c8c71cfca-.svg"
+    },
+    {
+      "name": "tether-usdt",
+      "hex": "e420",
+      "source": "iconsax-tether-usdt-581683ddf9b9-.svg"
+    },
+    {
+      "name": "text",
+      "hex": "e421",
+      "source": "iconsax-text-be39319bd2dd-.svg"
+    },
+    {
+      "name": "text-block",
+      "hex": "e422",
+      "source": "iconsax-text-block-f1748b93d257-.svg"
+    },
+    {
+      "name": "text-bold",
+      "hex": "e423",
+      "source": "iconsax-text-bold-e372e2ab3b0b-.svg"
+    },
+    {
+      "name": "text-italic",
+      "hex": "e424",
+      "source": "iconsax-text-italic-480e4994fcab-.svg"
+    },
+    {
+      "name": "text-underline",
+      "hex": "e425",
+      "source": "iconsax-text-underline-fd07531ee109-.svg"
+    },
+    {
+      "name": "textalign-center",
+      "hex": "e426",
+      "source": "iconsax-textalign-center-da94791d45e2-.svg"
+    },
+    {
+      "name": "textalign-justifycenter",
+      "hex": "e427",
+      "source": "iconsax-textalign-justifycenter-75b7324185fa-.svg"
+    },
+    {
+      "name": "textalign-justifyleft",
+      "hex": "e428",
+      "source": "iconsax-textalign-justifyleft-9259ac3fcedc-.svg"
+    },
+    {
+      "name": "textalign-justifyright",
+      "hex": "e429",
+      "source": "iconsax-textalign-justifyright-fc419bc7ec67-.svg"
+    },
+    {
+      "name": "textalign-left",
+      "hex": "e42a",
+      "source": "iconsax-textalign-left-92d7b8e2c103-.svg"
+    },
+    {
+      "name": "textalign-right",
+      "hex": "e42b",
+      "source": "iconsax-textalign-right-cf87e8270a3d-.svg"
+    },
+    {
+      "name": "the-graph-grt",
+      "hex": "e42c",
+      "source": "iconsax-the-graph-grt-9dbdbd81ef76-.svg"
+    },
+    {
+      "name": "theta-theta",
+      "hex": "e42d",
+      "source": "iconsax-theta-theta-2653c6d5c61c-.svg"
+    },
+    {
+      "name": "thorchain-rune",
+      "hex": "e42e",
+      "source": "iconsax-thorchain-rune-8f729996dc1f-.svg"
+    },
+    {
+      "name": "tick-circle",
+      "hex": "e42f",
+      "source": "iconsax-tick-circle-1cdfea8a2abb-.svg"
+    },
+    {
+      "name": "tick-square",
+      "hex": "e430",
+      "source": "iconsax-tick-square-80a69404d3ab-.svg"
+    },
+    {
+      "name": "ticket",
+      "hex": "e431",
+      "source": "iconsax-ticket-5f40d0992023-.svg"
+    },
+    {
+      "name": "ticket-discount",
+      "hex": "e432",
+      "source": "iconsax-ticket-discount-658d67da5989-.svg"
+    },
+    {
+      "name": "ticket-expired",
+      "hex": "e433",
+      "source": "iconsax-ticket-expired-2b9548717794-.svg"
+    },
+    {
+      "name": "ticket-star",
+      "hex": "e434",
+      "source": "iconsax-ticket-star-36c3cd568474-.svg"
+    },
+    {
+      "name": "timer",
+      "hex": "e435",
+      "source": "iconsax-timer-09d8a2af5648-.svg"
+    },
+    {
+      "name": "timer-pause",
+      "hex": "e436",
+      "source": "iconsax-timer-pause-eb08cf4f0ea5-.svg"
+    },
+    {
+      "name": "timer-start",
+      "hex": "e437",
+      "source": "iconsax-timer-start-fd6059ae2a78-.svg"
+    },
+    {
+      "name": "toggle-off-circle",
+      "hex": "e438",
+      "source": "iconsax-toggle-off-circle-7e1907daa896-.svg"
+    },
+    {
+      "name": "toggle-off",
+      "hex": "e439",
+      "source": "iconsax-toggle-off-f497cc17a3b2-.svg"
+    },
+    {
+      "name": "toggle-on",
+      "hex": "e43a",
+      "source": "iconsax-toggle-on-3b8fe0638ca7-.svg"
+    },
+    {
+      "name": "toggle-on-circle",
+      "hex": "e43b",
+      "source": "iconsax-toggle-on-circle-bd34278e0758-.svg"
+    },
+    {
+      "name": "top-bottom-grid",
+      "hex": "e43c",
+      "source": "iconsax-top-bottom-grid-af29183ad679-.svg"
+    },
+    {
+      "name": "toy",
+      "hex": "e43d",
+      "source": "iconsax-toy-081cbe6f8ec4-.svg"
+    },
+    {
+      "name": "toy2",
+      "hex": "e43e",
+      "source": "iconsax-toy2-ae71a483d739-.svg"
+    },
+    {
+      "name": "toy3",
+      "hex": "e43f",
+      "source": "iconsax-toy3-a90cb0536715-.svg"
+    },
+    {
+      "name": "toy4",
+      "hex": "e440",
+      "source": "iconsax-toy4-1238a33e8683-.svg"
+    },
+    {
+      "name": "toy5",
+      "hex": "e441",
+      "source": "iconsax-toy5-10d9e36648d3-.svg"
+    },
+    {
+      "name": "trade",
+      "hex": "e442",
+      "source": "iconsax-trade-bb85a761126a-.svg"
+    },
+    {
+      "name": "transaction-minus",
+      "hex": "e443",
+      "source": "iconsax-transaction-minus-45929d6ea15f-.svg"
+    },
+    {
+      "name": "translate",
+      "hex": "e444",
+      "source": "iconsax-translate-56a886d8cc78-.svg"
+    },
+    {
+      "name": "trash",
+      "hex": "e445",
+      "source": "iconsax-trash-0d73d8c05c3f-.svg"
+    },
+    {
+      "name": "trash-square",
+      "hex": "e446",
+      "source": "iconsax-trash-square-2061b80337bd-.svg"
+    },
+    {
+      "name": "tree",
+      "hex": "e447",
+      "source": "iconsax-tree-d65874d70793-.svg"
+    },
+    {
+      "name": "tree2",
+      "hex": "e448",
+      "source": "iconsax-tree2-d5a29711fcec-.svg"
+    },
+    {
+      "name": "tree3",
+      "hex": "e449",
+      "source": "iconsax-tree3-389d16c34e0e-.svg"
+    },
+    {
+      "name": "trello",
+      "hex": "e44a",
+      "source": "iconsax-trello-27325eea5a9b-.svg"
+    },
+    {
+      "name": "trend-down",
+      "hex": "e0fb",
+      "source": "iconsax-trend-down-a383486aa2b9-.svg"
+    },
+    {
+      "name": "trend-up",
+      "hex": "e0fc",
+      "source": "iconsax-trend-up-2d63fc0cabc5-.svg"
+    },
+    {
+      "name": "triangle",
+      "hex": "e44b",
+      "source": "iconsax-triangle-564379519851-.svg"
+    },
+    {
+      "name": "trontron-trx",
+      "hex": "e44c",
+      "source": "iconsax-trontron-trx-6386a3a339b2-.svg"
+    },
+    {
+      "name": "truck",
+      "hex": "e44d",
+      "source": "iconsax-truck-2f3f19679483-.svg"
+    },
+    {
+      "name": "truck-fast",
+      "hex": "e44e",
+      "source": "iconsax-truck-fast-8f9eb5bd11af-.svg"
+    },
+    {
+      "name": "truck-remove",
+      "hex": "e44f",
+      "source": "iconsax-truck-remove-e56b5b4b3e72-.svg"
+    },
+    {
+      "name": "truck-tick",
+      "hex": "e450",
+      "source": "iconsax-truck-tick-30b12fbedf1e-.svg"
+    },
+    {
+      "name": "truck-time",
+      "hex": "e451",
+      "source": "iconsax-truck-time-7858fde3bc41-.svg"
+    },
+    {
+      "name": "twitch",
+      "hex": "e452",
+      "source": "iconsax-twitch-f15d7bdc8c22-.svg"
+    },
+    {
+      "name": "ui8",
+      "hex": "e453",
+      "source": "iconsax-ui8-d3a0bde6cefa-.svg"
+    },
+    {
+      "name": "undo-arrow",
+      "hex": "e0fd",
+      "source": "iconsax-undo-arrow-740b1287ce3f-.svg"
+    },
+    {
+      "name": "unlimited",
+      "hex": "e454",
+      "source": "iconsax-unlimited-b35888e36319-.svg"
+    },
+    {
+      "name": "unlock",
+      "hex": "e455",
+      "source": "iconsax-unlock-21034518716d-.svg"
+    },
+    {
+      "name": "usd-coin-usdc",
+      "hex": "e456",
+      "source": "iconsax-usd-coin-usdc-020d8b3e90ec-.svg"
+    },
+    {
+      "name": "user",
+      "hex": "e457",
+      "source": "iconsax-user-43aeb955d20c-.svg"
+    },
+    {
+      "name": "user-add",
+      "hex": "e458",
+      "source": "iconsax-user-add-4c86d2e5f90c-.svg"
+    },
+    {
+      "name": "user-circle-add",
+      "hex": "e459",
+      "source": "iconsax-user-circle-add-c6fed254aa7c-.svg"
+    },
+    {
+      "name": "user-edit",
+      "hex": "e45a",
+      "source": "iconsax-user-edit-d2e61b265df7-.svg"
+    },
+    {
+      "name": "user-hexagon",
+      "hex": "e45b",
+      "source": "iconsax-user-hexagon-caec61e29de1-.svg"
+    },
+    {
+      "name": "user-minus",
+      "hex": "e45c",
+      "source": "iconsax-user-minus-4ccf20a0d8fd-.svg"
+    },
+    {
+      "name": "user-remove",
+      "hex": "e45d",
+      "source": "iconsax-user-remove-13df2547aba6-.svg"
+    },
+    {
+      "name": "user-search",
+      "hex": "e45e",
+      "source": "iconsax-user-search-44d1e115f8b3-.svg"
+    },
+    {
+      "name": "user-square",
+      "hex": "e45f",
+      "source": "iconsax-user-square-881b58ef1a8a-.svg"
+    },
+    {
+      "name": "user-tag",
+      "hex": "e460",
+      "source": "iconsax-user-tag-99f57277ddc9-.svg"
+    },
+    {
+      "name": "user-tick",
+      "hex": "e461",
+      "source": "iconsax-user-tick-73b933ef6164-.svg"
+    },
+    {
+      "name": "velas-vlx",
+      "hex": "e462",
+      "source": "iconsax-velas-vlx-2eaf94746987-.svg"
+    },
+    {
+      "name": "verify",
+      "hex": "e463",
+      "source": "iconsax-verify-619b2de95f15-.svg"
+    },
+    {
+      "name": "vibe-vibe",
+      "hex": "e464",
+      "source": "iconsax-vibe-vibe-951fbe489cb5-.svg"
+    },
+    {
+      "name": "video",
+      "hex": "e465",
+      "source": "iconsax-video-18da4c24b2ea-.svg"
+    },
+    {
+      "name": "video-add",
+      "hex": "e466",
+      "source": "iconsax-video-add-cfbced54ac41-.svg"
+    },
+    {
+      "name": "video-circle",
+      "hex": "e467",
+      "source": "iconsax-video-circle-06d5d48ebe2e-.svg"
+    },
+    {
+      "name": "video-horizontal",
+      "hex": "e468",
+      "source": "iconsax-video-horizontal-0c78fb7dcaf1-.svg"
+    },
+    {
+      "name": "video-octagon",
+      "hex": "e469",
+      "source": "iconsax-video-octagon-f94910bb2b72-.svg"
+    },
+    {
+      "name": "video-play",
+      "hex": "e46a",
+      "source": "iconsax-video-play-37792136e4eb-.svg"
+    },
+    {
+      "name": "video-remove",
+      "hex": "e46b",
+      "source": "iconsax-video-remove-713a6d3e96a9-.svg"
+    },
+    {
+      "name": "video-slash",
+      "hex": "e46c",
+      "source": "iconsax-video-slash-3f0c637ae40e-.svg"
+    },
+    {
+      "name": "video-square",
+      "hex": "e46d",
+      "source": "iconsax-video-square-e83aab5b72e0-.svg"
+    },
+    {
+      "name": "video-tick",
+      "hex": "e46e",
+      "source": "iconsax-video-tick-cdda7f7bc3fa-.svg"
+    },
+    {
+      "name": "video-time",
+      "hex": "e46f",
+      "source": "iconsax-video-time-ae507fdada98-.svg"
+    },
+    {
+      "name": "video-vertical",
+      "hex": "e470",
+      "source": "iconsax-video-vertical-fde7ed3300c7-.svg"
+    },
+    {
+      "name": "voice-circle",
+      "hex": "e471",
+      "source": "iconsax-voice-circle-53db384dca2d-.svg"
+    },
+    {
+      "name": "voice-square",
+      "hex": "e472",
+      "source": "iconsax-voice-square-dea437212e93-.svg"
+    },
+    {
+      "name": "volume-cross",
+      "hex": "e473",
+      "source": "iconsax-volume-cross-5ed3cd04ac20-.svg"
+    },
+    {
+      "name": "volume-high",
+      "hex": "e474",
+      "source": "iconsax-volume-high-ca32c2dd2e7f-.svg"
+    },
+    {
+      "name": "volume-low",
+      "hex": "e475",
+      "source": "iconsax-volume-low-0464efc1231a-.svg"
+    },
+    {
+      "name": "volume-mute",
+      "hex": "e476",
+      "source": "iconsax-volume-mute-1171a328eff1-.svg"
+    },
+    {
+      "name": "volume-slash",
+      "hex": "e477",
+      "source": "iconsax-volume-slash-d9c801fb0f98-.svg"
+    },
+    {
+      "name": "volume-up",
+      "hex": "e478",
+      "source": "iconsax-volume-up-a846091dc729-.svg"
+    },
+    {
+      "name": "vuesax",
+      "hex": "e479",
+      "source": "iconsax-vuesax-9b77fea93ce3-.svg"
+    },
+    {
+      "name": "wallet",
+      "hex": "e47a",
+      "source": "iconsax-wallet-929f2a9ff6cc-.svg"
+    },
+    {
+      "name": "wallet-add",
+      "hex": "e47b",
+      "source": "iconsax-wallet-add-103a4a6fb82a-.svg"
+    },
+    {
+      "name": "wallet-check",
+      "hex": "e47c",
+      "source": "iconsax-wallet-check-bae2d4390ff6-.svg"
+    },
+    {
+      "name": "wallet-minus",
+      "hex": "e47d",
+      "source": "iconsax-wallet-minus-50eeb7d6cd92-.svg"
+    },
+    {
+      "name": "wallet-money",
+      "hex": "e47e",
+      "source": "iconsax-wallet-money-b847a47a0bed-.svg"
+    },
+    {
+      "name": "wallet-remove",
+      "hex": "e47f",
+      "source": "iconsax-wallet-remove-327da6d04016-.svg"
+    },
+    {
+      "name": "wallet-search",
+      "hex": "e480",
+      "source": "iconsax-wallet-search-6e985d803b1b-.svg"
+    },
+    {
+      "name": "wanchain-wan",
+      "hex": "e481",
+      "source": "iconsax-wanchain-wan-01d51cda7681-.svg"
+    },
+    {
+      "name": "warning",
+      "hex": "e482",
+      "source": "iconsax-warning-9e1ba1836569-.svg"
+    },
+    {
+      "name": "watch",
+      "hex": "e483",
+      "source": "iconsax-watch-79533ae6b0bd-.svg"
+    },
+    {
+      "name": "whatsapp",
+      "hex": "e484",
+      "source": "iconsax-whatsapp-358420a7000c-.svg"
+    },
+    {
+      "name": "wifi",
+      "hex": "e485",
+      "source": "iconsax-wifi-56e7f980370d-.svg"
+    },
+    {
+      "name": "wifi-square",
+      "hex": "e486",
+      "source": "iconsax-wifi-square-dc3b7cc01754-.svg"
+    },
+    {
+      "name": "wind",
+      "hex": "e4d8",
+      "source": "iconsax-wind-e3c4ee4eeeb3-.svg"
+    },
+    {
+      "name": "windows",
+      "hex": "e487",
+      "source": "iconsax-windows-eebd082d1ed1-.svg"
+    },
+    {
+      "name": "wing-wing",
+      "hex": "e488",
+      "source": "iconsax-wing-wing-4e6103123bd1-.svg"
+    },
+    {
+      "name": "winter-boots",
+      "hex": "e489",
+      "source": "iconsax-winter-boots-95cd42693eeb-.svg"
+    },
+    {
+      "name": "winter-mitten",
+      "hex": "e48a",
+      "source": "iconsax-winter-mitten-b1dc9d46f304-.svg"
+    },
+    {
+      "name": "winter-pattern",
+      "hex": "e48b",
+      "source": "iconsax-winter-pattern-835119af00e6-.svg"
+    },
+    {
+      "name": "woman",
+      "hex": "e0fe",
+      "source": "iconsax-woman-0f904a969aaf-.svg"
+    },
+    {
+      "name": "xd",
+      "hex": "e48c",
+      "source": "iconsax-xd-da5ed42b0f5e-.svg"
+    },
+    {
+      "name": "xiaomi",
+      "hex": "e48d",
+      "source": "iconsax-xiaomi-d27efae5e04c-.svg"
+    },
+    {
+      "name": "xrp-xrp",
+      "hex": "e48e",
+      "source": "iconsax-xrp-xrp-3f12720ee411-.svg"
+    },
+    {
+      "name": "youtube",
+      "hex": "e48f",
+      "source": "iconsax-youtube-b8e9773f5b20-.svg"
+    },
+    {
+      "name": "zel-zel",
+      "hex": "e490",
+      "source": "iconsax-zel-zel-0dbd8eb840e5-.svg"
+    },
+    {
+      "name": "zipline",
+      "hex": "e491",
+      "source": "iconsax-zipline-a14dc23efc57-.svg"
+    },
+    {
+      "name": "zoom",
+      "hex": "e492",
+      "source": "iconsax-zoom-d5ffe60c0416-.svg"
+    },
+    {
+      "name": "lamp-2",
+      "hex": "e493",
+      "source": "lamp-2.svg"
+    },
+    {
+      "name": "lamp-charge-1",
+      "hex": "e016",
+      "source": "lamp-charge 1.svg"
+    },
+    {
+      "name": "like-2",
+      "hex": "e494",
+      "source": "like-2.svg"
+    },
+    {
+      "name": "line",
+      "hex": "e017",
+      "source": "line.svg"
+    },
+    {
+      "name": "link-2",
+      "hex": "e495",
+      "source": "link-2.svg"
+    },
+    {
+      "name": "link-3",
+      "hex": "e496",
+      "source": "link-3.svg"
+    },
+    {
+      "name": "link-4",
+      "hex": "e497",
+      "source": "link-4.svg"
+    },
+    {
+      "name": "lucide-toilet",
+      "hex": "e018",
+      "source": "lucide_toilet.svg"
+    },
+    {
+      "name": "map-2",
+      "hex": "e498",
+      "source": "map-2.svg"
+    },
+    {
+      "name": "mask-2",
+      "hex": "e499",
+      "source": "mask-2.svg"
+    },
+    {
+      "name": "mask-3",
+      "hex": "e49a",
+      "source": "mask-3.svg"
+    },
+    {
+      "name": "maximize-2",
+      "hex": "e49b",
+      "source": "maximize-2.svg"
+    },
+    {
+      "name": "maximize-3",
+      "hex": "e49c",
+      "source": "maximize-3.svg"
+    },
+    {
+      "name": "maximize-4",
+      "hex": "e49d",
+      "source": "maximize-4.svg"
+    },
+    {
+      "name": "maximize-5",
+      "hex": "e49e",
+      "source": "maximize-5.svg"
+    },
+    {
+      "name": "menu-2",
+      "hex": "e49f",
+      "source": "menu-2.svg"
+    },
+    {
+      "name": "message-add-2",
+      "hex": "e4a0",
+      "source": "message-add-2.svg"
+    },
+    {
+      "name": "message-text-2",
+      "hex": "e4a1",
+      "source": "message-text-2.svg"
+    },
+    {
+      "name": "messages-2",
+      "hex": "e4a2",
+      "source": "messages-2.svg"
+    },
+    {
+      "name": "microphone-2",
+      "hex": "e4a3",
+      "source": "microphone-2.svg"
+    },
+    {
+      "name": "microphone-slash-2",
+      "hex": "e4a4",
+      "source": "microphone-slash-2.svg"
+    },
+    {
+      "name": "money-2",
+      "hex": "e4a5",
+      "source": "money-2.svg"
+    },
+    {
+      "name": "money-3",
+      "hex": "e4a6",
+      "source": "money-3.svg"
+    },
+    {
+      "name": "money-4",
+      "hex": "e4a7",
+      "source": "money-4.svg"
+    },
+    {
+      "name": "monitor-1",
+      "hex": "e019",
+      "source": "monitor 1.svg"
+    },
+    {
+      "name": "mouse-2",
+      "hex": "e4a8",
+      "source": "mouse-2.svg"
+    },
+    {
+      "name": "mynaui-fire-extinguisher",
+      "hex": "e00b",
+      "source": "mynaui_fire-extinguisher.svg"
+    },
+    {
+      "name": "note-2",
+      "hex": "e4a9",
+      "source": "note-2.svg"
+    },
+    {
+      "name": "note-3",
+      "hex": "e4aa",
+      "source": "note-3.svg"
+    },
+    {
+      "name": "note-4",
+      "hex": "e4ab",
+      "source": "note-4.svg"
+    },
+    {
+      "name": "notification-2",
+      "hex": "e4ac",
+      "source": "notification-2.svg"
+    },
+    {
+      "name": "paint-brush-2",
+      "hex": "e4ad",
+      "source": "paint-brush-2.svg"
+    },
+    {
+      "name": "paperclip-2",
+      "hex": "e4ae",
+      "source": "paperclip-2.svg"
+    },
+    {
+      "name": "path-2",
+      "hex": "e4af",
+      "source": "path-2.svg"
+    },
+    {
+      "name": "pen-tool-2",
+      "hex": "e4b0",
+      "source": "pen-tool-2.svg"
+    },
+    {
+      "name": "ph-chair-light",
+      "hex": "e01b",
+      "source": "ph_chair-light.svg"
+    },
+    {
+      "name": "play-circle-2",
+      "hex": "e4b1",
+      "source": "play-circle-2.svg"
+    },
+    {
+      "name": "radar-2",
+      "hex": "e4b2",
+      "source": "radar-2.svg"
+    },
+    {
+      "name": "radar-3",
+      "hex": "e4b3",
+      "source": "radar-3.svg"
+    },
+    {
+      "name": "ram-2",
+      "hex": "e4b4",
+      "source": "ram-2.svg"
+    },
+    {
+      "name": "ranking-2",
+      "hex": "e4b5",
+      "source": "ranking-2.svg"
+    },
+    {
+      "name": "ranking-3",
+      "hex": "e4b6",
+      "source": "ranking-3.svg"
+    },
+    {
+      "name": "receipt-2",
+      "hex": "e4b7",
+      "source": "receipt-2.svg"
+    },
+    {
+      "name": "receipt-3",
+      "hex": "e4b8",
+      "source": "receipt-3.svg"
+    },
+    {
+      "name": "receipt-4",
+      "hex": "e4b9",
+      "source": "receipt-4.svg"
+    },
+    {
+      "name": "rotate-left-2",
+      "hex": "e0ff",
+      "source": "rotate-left-2.svg"
+    },
+    {
+      "name": "rotate-left-3",
+      "hex": "e4ba",
+      "source": "rotate-left-3.svg"
+    },
+    {
+      "name": "rotate-right-2",
+      "hex": "e100",
+      "source": "rotate-right-2.svg"
+    },
+    {
+      "name": "rotate-right-3",
+      "hex": "e4bb",
+      "source": "rotate-right-3.svg"
+    },
+    {
+      "name": "routing-2",
+      "hex": "e4bc",
+      "source": "routing-2.svg"
+    },
+    {
+      "name": "scissor-2",
+      "hex": "e4bd",
+      "source": "scissor-2.svg"
+    },
+    {
+      "name": "search-favorite-2",
+      "hex": "e4be",
+      "source": "search-favorite-2.svg"
+    },
+    {
+      "name": "search-status-2",
+      "hex": "e4bf",
+      "source": "search-status-2.svg"
+    },
+    {
+      "name": "search-zoom-in-2",
+      "hex": "e4c0",
+      "source": "search-zoom-in-2.svg"
+    },
+    {
+      "name": "search-zoom-out-2",
+      "hex": "e4c1",
+      "source": "search-zoom-out-2.svg"
+    },
+    {
+      "name": "security-user-1",
+      "hex": "e01c",
+      "source": "security-user 1.svg"
+    },
+    {
+      "name": "send-2",
+      "hex": "e101",
+      "source": "send-2.svg"
+    },
+    {
+      "name": "send-3",
+      "hex": "e102",
+      "source": "send-3.svg"
+    },
+    {
+      "name": "send-4",
+      "hex": "e4c2",
+      "source": "send-4.svg"
+    },
+    {
+      "name": "send-5",
+      "hex": "e4c3",
+      "source": "send-5.svg"
+    },
+    {
+      "name": "setting-2",
+      "hex": "e4c4",
+      "source": "setting-2.svg"
+    },
+    {
+      "name": "setting-3",
+      "hex": "e4c5",
+      "source": "setting-3.svg"
+    },
+    {
+      "name": "setting-4",
+      "hex": "e4c6",
+      "source": "setting-4.svg"
+    },
+    {
+      "name": "shapes-2",
+      "hex": "e4c7",
+      "source": "shapes-2.svg"
+    },
+    {
+      "name": "simcard-2",
+      "hex": "e4c8",
+      "source": "simcard-2.svg"
+    },
+    {
+      "name": "simcard-3",
+      "hex": "e4c9",
+      "source": "simcard-3.svg"
+    },
+    {
+      "name": "ski-1",
+      "hex": "e01d",
+      "source": "ski 1.svg"
+    },
+    {
+      "name": "slider-horizontal-2",
+      "hex": "e4ca",
+      "source": "slider-horizontal-2.svg"
+    },
+    {
+      "name": "slider-vertical-2",
+      "hex": "e4cb",
+      "source": "slider-vertical-2.svg"
+    },
+    {
+      "name": "snow-1",
+      "hex": "e01e",
+      "source": "snow 1.svg"
+    },
+    {
+      "name": "star-6",
+      "hex": "e4cc",
+      "source": "star-6.svg"
+    },
+    {
+      "name": "volleyball-net",
+      "hex": "e008",
+      "source": "streamline-ultimate_volleyball-net.svg"
+    },
+    {
+      "name": "strongbox-2",
+      "hex": "e4cd",
+      "source": "strongbox-2.svg"
+    },
+    {
+      "name": "tag-2",
+      "hex": "e4ce",
+      "source": "tag-2.svg"
+    },
+    {
+      "name": "ticket-2",
+      "hex": "e4cf",
+      "source": "ticket-2.svg"
+    },
+    {
+      "name": "tree-4",
+      "hex": "e4d0",
+      "source": "tree-4.svg"
+    },
+    {
+      "name": "triangle-2",
+      "hex": "e4d1",
+      "source": "triangle-2.svg"
+    },
+    {
+      "name": "video-1",
+      "hex": "e01f",
+      "source": "video 1.svg"
+    },
+    {
+      "name": "volume-high-1",
+      "hex": "e020",
+      "source": "volume-high 1.svg"
+    },
+    {
+      "name": "volume-low-2",
+      "hex": "e4d2",
+      "source": "volume-low-2.svg"
+    },
+    {
+      "name": "wallet-2",
+      "hex": "e4d3",
+      "source": "wallet-2.svg"
+    },
+    {
+      "name": "wallet-3",
+      "hex": "e4d4",
+      "source": "wallet-3.svg"
+    },
+    {
+      "name": "wallet-4",
+      "hex": "e4d5",
+      "source": "wallet-4.svg"
+    },
+    {
+      "name": "wallet-add-2",
+      "hex": "e4d6",
+      "source": "wallet-add-2.svg"
+    },
+    {
+      "name": "wanchain-wan-2",
+      "hex": "e4d7",
+      "source": "wanchain-wan-2.svg"
+    },
+    {
+      "name": "wifi-linear",
+      "hex": "e021",
+      "source": "wifi-linear.svg"
+    },
+    {
+      "name": "wind-1",
+      "hex": "e022",
+      "source": "wind 1.svg"
+    },
+    {
+      "name": "wind-2",
+      "hex": "e4d9",
+      "source": "wind-2.svg"
+    }
+  ]
+}
