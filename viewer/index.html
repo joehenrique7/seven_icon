@@ -29,6 +29,24 @@
 
   <p id="empty" class="empty" hidden>Nenhum ícone encontrado.</p>
 
+  <!-- <dialog> nativo: dá backdrop, foco preso e Esc de graça, sem lib. -->
+  <dialog id="confirm" class="confirm">
+    <h2>Apagar ícone?</h2>
+    <p class="confirm-target">
+      <span id="confirm-glyph" class="icon" aria-hidden="true"></span>
+      <code id="confirm-file"></code>
+    </p>
+    <p class="confirm-warn">
+      O arquivo vai para <code>svg/_deleted/</code> — dá para restaurar com um
+      <code>mv</code>. A fonte só reflete isso depois de
+      <code>npm run build</code>.
+    </p>
+    <div class="confirm-actions">
+      <button id="confirm-cancel" type="button" class="btn">Cancelar</button>
+      <button id="confirm-ok" type="button" class="btn btn-danger">Apagar</button>
+    </div>
+  </dialog>
+
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
   <!-- Ordem importa: icons.js define window.__ICONS__ antes de app.js usá-lo.

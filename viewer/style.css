@@ -148,6 +148,82 @@ h1 {
   padding: 40px;
 }
 
+/* Modal de confirmação. <dialog> nativo — o ::backdrop só existe com
+   showModal(), não com show(). */
+.confirm {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--bg);
+  color: var(--fg);
+  padding: 24px;
+  max-width: 380px;
+  font: inherit;
+}
+
+.confirm::backdrop {
+  background: rgb(0 0 0 / 0.5);
+}
+
+.confirm h2 {
+  margin: 0 0 16px;
+  font-size: 16px;
+}
+
+.confirm-target {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 12px;
+}
+
+.confirm-target .icon {
+  font-size: 32px;
+  line-height: 1;
+}
+
+.confirm code {
+  font-family: ui-monospace, monospace;
+  font-size: 12px;
+  word-break: break-all;
+}
+
+.confirm-warn {
+  margin: 0 0 20px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.confirm-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.btn {
+  padding: 8px 16px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: var(--hover);
+}
+
+.btn-danger {
+  border-color: #dc2626;
+  background: #dc2626;
+  color: #fff;
+}
+
+.btn-danger:hover {
+  background: #b91c1c;
+}
+
 .toast {
   position: fixed;
   bottom: 24px;

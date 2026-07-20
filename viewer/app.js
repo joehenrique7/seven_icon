@@ -1,7 +1,7 @@
 /**
  * app.js — viewer dos ícones.
  *
- * Lê dist/icons.json (gerado pelo build) e monta o grid.
+ * Lê viewer/icons.js (gerado pelo build) e monta o grid.
  * Nada de framework, nada de build step: é <script type="module"> puro.
  *
  * Ponto importante: o viewer NÃO sabe nada sobre a fonte. Ele só aplica as
@@ -16,6 +16,11 @@ const emptyEl = document.getElementById('empty');
 const sizeInput = document.getElementById('size');
 const sizeVal = document.getElementById('size-val');
 const toast = document.getElementById('toast');
+const dialog = document.getElementById('confirm');
+const dlgGlyph = document.getElementById('confirm-glyph');
+const dlgFile = document.getElementById('confirm-file');
+const dlgOk = document.getElementById('confirm-ok');
+const dlgCancel = document.getElementById('confirm-cancel');
 
 let icons = [];
 
@@ -23,7 +28,8 @@ function load() {
   try {
     // Dados vêm de icons.js (window.__ICONS__), carregado por um <script> antes
     // deste. Assim o viewer abre com file:// puro — sem fetch, sem servidor.
-    // O icons.js é gerado do icons.json (veja "npm run build" / scripts do build).
+    // O icons.js é escrito por emitViewer() no build, junto com icons.css e
+    // icons.ttf. Nome de ícone errado/velho aqui = build não rodou.
     const data = window.__ICONS__;
     if (!data || !Array.isArray(data.icons)) {
       throw new Error('window.__ICONS__ ausente ou inválido');
@@ -60,11 +66,81 @@ function render(list) {
       hex.textContent = `U+${icon.hex.toUpperCase()}`;
 
       cell.append(glyph, name, hex);
-      cell.addEventListener('click', () => copy(`icon-${icon.name}`));
+
+      // Clique simples copia, duplo apaga. Como o navegador dispara os dois
+      // 'click' ANTES do 'dblclick', a cópia espera um instante: se o segundo
+      // clique chegar nesse intervalo, o timer é cancelado e só o modal abre.
+      // Sem isso, todo duplo-clique copiaria (e mostraria toast) duas vezes.
+      let clickTimer;
+      cell.addEventListener('click', () => {
+        clearTimeout(clickTimer);
+        clickTimer = setTimeout(() => copy(`icon-${icon.name}`), DOUBLE_CLICK_MS);
+      });
+      cell.addEventListener('dblclick', () => {
+        clearTimeout(clickTimer);
+        askDelete(icon);
+      });
+
       return cell;
     })
   );
 }
+
+/** Re-renderiza respeitando o filtro de busca atual. */
+function rerender() {
+  const q = search.value.trim().toLowerCase();
+  render(q ? icons.filter((i) => i.name.includes(q)) : icons);
+}
+
+/**
+ * Fluxo de exclusão.
+ *
+ * O viewer não apaga nada sozinho: ele chama DELETE /api/svg/<arquivo>, que só
+ * existe no build/serve.js. Abrir o index.html direto (file://) não tem
+ * servidor, então a exclusão é bloqueada com uma mensagem em vez de falhar com
+ * um erro de rede críptico.
+ */
+const DOUBLE_CLICK_MS = 220;
+let pending = null; // ícone aguardando confirmação no modal
+
+function askDelete(icon) {
+  if (location.protocol === 'file:') {
+    showToast('Exclusão só funciona via "npm run viewer" (precisa do servidor)');
+    return;
+  }
+  pending = icon;
+  dlgGlyph.className = `icon icon-${icon.name}`;
+  dlgFile.textContent = icon.source;
+  dialog.showModal();
+}
+
+async function confirmDelete() {
+  const icon = pending;
+  if (!icon) return;
+  dialog.close();
+  pending = null;
+
+  try {
+    const res = await fetch(`/api/svg/${encodeURIComponent(icon.source)}`, { method: 'DELETE' });
+    const body = await res.json().catch(() => ({}));
+    if (!res.ok) throw new Error(body.error || `HTTP ${res.status}`);
+
+    // Some da lista em memória na hora. O icons.js em disco continua com ele
+    // até o próximo build — por isso o aviso no toast.
+    icons = icons.filter((i) => i !== icon);
+    countEl.textContent = `(${icons.length})`;
+    rerender();
+    showToast(`Movido para _deleted/: ${icon.source} — rode "npm run build"`);
+  } catch (e) {
+    showToast(`Não consegui apagar: ${e.message}`);
+  }
+}
+
+dlgOk.addEventListener('click', confirmDelete);
+dlgCancel.addEventListener('click', () => dialog.close());
+dialog.addEventListener('close', () => {
+  pending = null;
+});
 
 async function copy(text) {
   try {
@@ -83,10 +159,7 @@ function showToast(msg) {
   toastTimer = setTimeout(() => toast.classList.remove('show'), 1600);
 }
 
-search.addEventListener('input', () => {
-  const q = search.value.trim().toLowerCase();
-  render(q ? icons.filter((i) => i.name.includes(q)) : icons);
-});
+search.addEventListener('input', rerender);
 
 sizeInput.addEventListener('input', () => {
   const px = sizeInput.value;
