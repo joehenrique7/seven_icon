@@ -7,8 +7,13 @@
   <title>Ícones</title>
   <!-- O CSS gerado traz o @font-face + as classes .icon-*.
          O viewer consome exatamente o mesmo arquivo que a sua aplicação vai
-         consumir — se funciona aqui, funciona lá. -->
-  <link rel="stylesheet" href="icons.css" />
+         consumir — se funciona aqui, funciona lá.
+
+         O NOME PRECISA BATER com FONT_NAME de build/lib/paths.js. Já apontou
+         para "icons.css" depois que o build passou a gerar "seven_icons.css":
+         o icons.js (índice) era o novo e a fonte era a velha, então todo ícone
+         adicionado depois do último build antigo aparecia como célula VAZIA. -->
+  <link rel="stylesheet" href="seven_icons.css" />
   <link rel="stylesheet" href="style.css" />
 </head>
 

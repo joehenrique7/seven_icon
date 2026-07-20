@@ -18,4 +18,4 @@ flutter:
   fonts:
     - family: SevenIcon
       fonts:
-        - asset: assets/fonts/icons.ttf
+        - asset: assets/fonts/seven_icons.ttf

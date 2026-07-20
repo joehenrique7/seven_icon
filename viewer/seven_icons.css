@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "SevenIcons";
-  src: url("./icons.ttf") format("truetype");
+  src: url("./seven_icons.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,14 +24,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-i-24-support::before { content: "\e14a"; }
-.icon-i-3-dots-more::before { content: "\e14b"; }
 .icon-i-3d-cube-scan::before { content: "\e14c"; }
 .icon-i-3d-rotate::before { content: "\e14d"; }
 .icon-i-3d-square::before { content: "\e14e"; }
 .icon-i-3dcube::before { content: "\e14f"; }
 .icon-i-3square::before { content: "\e150"; }
-.icon-aave-aave::before { content: "\e151"; }
 .icon-accessibility::before { content: "\e009"; }
 .icon-activity::before { content: "\e078"; }
 .icon-add-circle::before { content: "\e152"; }
@@ -48,7 +45,6 @@
 .icon-ai-hospital::before { content: "\e4ea"; }
 .icon-ai-housing::before { content: "\e4eb"; }
 .icon-ai-landscape::before { content: "\e4ec"; }
-.icon-ai-loveletter::before { content: "\e4ed"; }
 .icon-ai-record-video::before { content: "\e4ee"; }
 .icon-ai-sand-timer::before { content: "\e4ef"; }
 .icon-ai-send-message::before { content: "\e4f0"; }
@@ -72,8 +68,6 @@
 .icon-align-top::before { content: "\e15d"; }
 .icon-align-vertically::before { content: "\e15e"; }
 .icon-android::before { content: "\e15f"; }
-.icon-angel::before { content: "\e07c"; }
-.icon-angel2::before { content: "\e07d"; }
 .icon-ankr-ankr::before { content: "\e160"; }
 .icon-antenna::before { content: "\e002"; }
 .icon-apple::before { content: "\e161"; }
@@ -139,6 +133,7 @@
 .icon-bag-timer::before { content: "\e175"; }
 .icon-bag::before { content: "\e171"; }
 .icon-balance::before { content: "\e4db"; }
+.icon-ball::before { content: "\e085"; }
 .icon-ball2::before { content: "\e08d"; }
 .icon-ball20::before { content: "\e08e"; }
 .icon-ball21::before { content: "\e08f"; }
@@ -217,7 +212,6 @@
 .icon-calculator::before { content: "\e1a0"; }
 .icon-calendar-5::before { content: "\e06e"; }
 .icon-calendar-6::before { content: "\e06f"; }
-.icon-calendar-8::before { content: "\e117"; }
 .icon-calendar-add::before { content: "\e1a1"; }
 .icon-calendar-circle::before { content: "\e1a2"; }
 .icon-calendar-date::before { content: "\e1a3"; }
@@ -390,7 +384,7 @@
 .icon-driver-refresh::before { content: "\e223"; }
 .icon-driver::before { content: "\e222"; }
 .icon-drop::before { content: "\e224"; }
-.icon-edit-2::before { content: "\e12d"; }
+.icon-edit-1::before { content: "\e4fd"; }
 .icon-edit::before { content: "\e226"; }
 .icon-electricity::before { content: "\e228"; }
 .icon-email-snow::before { content: "\e229"; }
@@ -407,7 +401,6 @@
 .icon-enhance-user-ai::before { content: "\e05d"; }
 .icon-eraser-2::before { content: "\e12e"; }
 .icon-eraser::before { content: "\e236"; }
-.icon-ethereum-classic-etc::before { content: "\e237"; }
 .icon-ethereum-eth::before { content: "\e238"; }
 .icon-export-arrow::before { content: "\e05e"; }
 .icon-export-arrow2::before { content: "\e05f"; }
@@ -418,6 +411,7 @@
 .icon-eye::before { content: "\e23a"; }
 .icon-facebook::before { content: "\e23c"; }
 .icon-favorite-chart::before { content: "\e0cd"; }
+.icon-federation-no::before { content: "\e4fe"; }
 .icon-federation::before { content: "\e4df"; }
 .icon-figma-circle::before { content: "\e23d"; }
 .icon-figma::before { content: "\e23e"; }
@@ -430,6 +424,7 @@
 .icon-filter::before { content: "\e240"; }
 .icon-finger-circle::before { content: "\e246"; }
 .icon-finger-scan::before { content: "\e247"; }
+.icon-fire-extinguisher::before { content: "\e4ff"; }
 .icon-fire::before { content: "\e248"; }
 .icon-fire2::before { content: "\e249"; }
 .icon-fire3::before { content: "\e24a"; }
@@ -437,6 +432,7 @@
 .icon-fireworks2::before { content: "\e24c"; }
 .icon-fireworks3::before { content: "\e24d"; }
 .icon-fireworks4::before { content: "\e24e"; }
+.icon-first-aid-kit::before { content: "\e500"; }
 .icon-firstline::before { content: "\e24f"; }
 .icon-flag-2::before { content: "\e12f"; }
 .icon-flag::before { content: "\e250"; }
@@ -483,8 +479,6 @@
 .icon-gemini::before { content: "\e0cf"; }
 .icon-ghost::before { content: "\e271"; }
 .icon-gift-2::before { content: "\e135"; }
-.icon-gift-bag::before { content: "\e272"; }
-.icon-gift-cupcake::before { content: "\e274"; }
 .icon-gift::before { content: "\e273"; }
 .icon-gift13::before { content: "\e278"; }
 .icon-gift6::before { content: "\e281"; }
@@ -537,6 +531,7 @@
 .icon-heart-tick::before { content: "\e2a8"; }
 .icon-heart::before { content: "\e2a1"; }
 .icon-hedera-hashgraph-hbar::before { content: "\e2a9"; }
+.icon-height-adjust::before { content: "\e501"; }
 .icon-hierarchy-2::before { content: "\e141"; }
 .icon-hierarchy-3::before { content: "\e142"; }
 .icon-hierarchy-square-2::before { content: "\e143"; }
@@ -556,8 +551,6 @@
 .icon-hourglass::before { content: "\e2b2"; }
 .icon-html-2::before { content: "\e149"; }
 .icon-html::before { content: "\e2b3"; }
-.icon-hugeicons-first-aid-kit::before { content: "\e015"; }
-.icon-hugeicons-whistle::before { content: "\e4fb"; }
 .icon-huobi-token-ht::before { content: "\e2b4"; }
 .icon-icons::before { content: "\e00a"; }
 .icon-illustrator::before { content: "\e2b6"; }
@@ -614,14 +607,13 @@
 .icon-login2::before { content: "\e0dc"; }
 .icon-logout::before { content: "\e0dd"; }
 .icon-logout2::before { content: "\e0de"; }
-.icon-lollipop::before { content: "\e2e3"; }
 .icon-lovely::before { content: "\e2e4"; }
 .icon-magic-star::before { content: "\e2e6"; }
 .icon-magic::before { content: "\e2e5"; }
 .icon-magicpen::before { content: "\e2e7"; }
 .icon-main-component::before { content: "\e2e8"; }
 .icon-man::before { content: "\e0df"; }
-.icon-map-2::before { content: "\e498"; }
+.icon-map-1::before { content: "\e502"; }
 .icon-map::before { content: "\e2ea"; }
 .icon-mask-3::before { content: "\e49a"; }
 .icon-math::before { content: "\e2ec"; }
@@ -686,7 +678,6 @@
 .icon-money-time::before { content: "\e31b"; }
 .icon-money::before { content: "\e313"; }
 .icon-moneys::before { content: "\e31c"; }
-.icon-monitor-1::before { content: "\e019"; }
 .icon-monitor-mobile::before { content: "\e31e"; }
 .icon-monitor-recorder::before { content: "\e31f"; }
 .icon-monitor::before { content: "\e31d"; }
@@ -711,7 +702,8 @@
 .icon-music::before { content: "\e327"; }
 .icon-musical-note-ai::before { content: "\e061"; }
 .icon-musicnote::before { content: "\e332"; }
-.icon-mynaui-fire-extinguisher::before { content: "\e00b"; }
+.icon-network-ball::before { content: "\e503"; }
+.icon-network::before { content: "\e504"; }
 .icon-next::before { content: "\e336"; }
 .icon-note-2::before { content: "\e4a9"; }
 .icon-note-3::before { content: "\e4aa"; }
@@ -862,9 +854,9 @@
 .icon-search-zoom-out::before { content: "\e3ab"; }
 .icon-search::before { content: "\e3a6"; }
 .icon-security-card::before { content: "\e3ad"; }
+.icon-security-check::before { content: "\e505"; }
 .icon-security-safe::before { content: "\e3ae"; }
 .icon-security-time::before { content: "\e3af"; }
-.icon-security-user-1::before { content: "\e01c"; }
 .icon-security-user::before { content: "\e3b0"; }
 .icon-security::before { content: "\e3ac"; }
 .icon-send-2::before { content: "\e101"; }
@@ -929,13 +921,13 @@
 .icon-sms-tracking::before { content: "\e3dd"; }
 .icon-sms::before { content: "\e3d8"; }
 .icon-snapchat::before { content: "\e3de"; }
+.icon-snow::before { content: "\e3df"; }
 .icon-solana-sol::before { content: "\e3f9"; }
 .icon-sort::before { content: "\e3fa"; }
 .icon-sound::before { content: "\e3fb"; }
 .icon-sparkler::before { content: "\e3fc"; }
 .icon-speaker::before { content: "\e3fd"; }
 .icon-speedometer::before { content: "\e3fe"; }
-.icon-sports-handball::before { content: "\e4e2"; }
 .icon-spotify::before { content: "\e3ff"; }
 .icon-star-6::before { content: "\e4cc"; }
 .icon-star-garland::before { content: "\e402"; }
@@ -957,12 +949,12 @@
 .icon-stop-circle::before { content: "\e411"; }
 .icon-stop::before { content: "\e410"; }
 .icon-story::before { content: "\e412"; }
-.icon-ultimate-volleyball-net::before { content: "\e4f9"; }
 .icon-strongbox-2::before { content: "\e4cd"; }
 .icon-strongbox::before { content: "\e413"; }
 .icon-subtitle::before { content: "\e414"; }
 .icon-sun-fog::before { content: "\e416"; }
 .icon-sun::before { content: "\e415"; }
+.icon-support::before { content: "\e506"; }
 .icon-swap-horizontal::before { content: "\e0f8"; }
 .icon-swap-horizontal2::before { content: "\e0f9"; }
 .icon-swap-horizontal3::before { content: "\e0fa"; }
@@ -977,7 +969,6 @@
 .icon-telescope::before { content: "\e41e"; }
 .icon-tenx-pay::before { content: "\e41f"; }
 .icon-tether-usdt::before { content: "\e420"; }
-.icon-text-block::before { content: "\e422"; }
 .icon-text-bold::before { content: "\e423"; }
 .icon-text-italic::before { content: "\e424"; }
 .icon-text-underline::before { content: "\e425"; }
@@ -990,7 +981,7 @@
 .icon-textalign-right::before { content: "\e42b"; }
 .icon-the-graph-grt::before { content: "\e42c"; }
 .icon-theta-theta::before { content: "\e42d"; }
-.icon-thorchain-rune::before { content: "\e42e"; }
+.icon-three-dots-more::before { content: "\e507"; }
 .icon-ticket-2::before { content: "\e4cf"; }
 .icon-ticket-discount::before { content: "\e432"; }
 .icon-ticket-expired::before { content: "\e433"; }
@@ -1039,8 +1030,8 @@
 .icon-user-tick::before { content: "\e461"; }
 .icon-user::before { content: "\e457"; }
 .icon-verify::before { content: "\e463"; }
+.icon-vest::before { content: "\e508"; }
 .icon-vibe-vibe::before { content: "\e464"; }
-.icon-video-1::before { content: "\e01f"; }
 .icon-video-add::before { content: "\e466"; }
 .icon-video-circle::before { content: "\e467"; }
 .icon-video-horizontal::before { content: "\e468"; }
@@ -1056,7 +1047,6 @@
 .icon-voice-circle::before { content: "\e471"; }
 .icon-voice-square::before { content: "\e472"; }
 .icon-volume-cross::before { content: "\e473"; }
-.icon-volume-high-1::before { content: "\e020"; }
 .icon-volume-high::before { content: "\e474"; }
 .icon-volume-low-2::before { content: "\e4d2"; }
 .icon-volume-low::before { content: "\e475"; }
@@ -1074,16 +1064,14 @@
 .icon-wallet-remove::before { content: "\e47f"; }
 .icon-wallet-search::before { content: "\e480"; }
 .icon-wallet::before { content: "\e47a"; }
-.icon-wanchain-wan-2::before { content: "\e4d7"; }
 .icon-wanchain-wan::before { content: "\e481"; }
 .icon-warning::before { content: "\e482"; }
 .icon-watch::before { content: "\e483"; }
 .icon-whatsapp::before { content: "\e484"; }
+.icon-whistle::before { content: "\e509"; }
 .icon-wifi-linear::before { content: "\e021"; }
 .icon-wifi-square::before { content: "\e486"; }
 .icon-wifi::before { content: "\e485"; }
-.icon-wind-1::before { content: "\e022"; }
-.icon-wind-2::before { content: "\e4d9"; }
 .icon-wind::before { content: "\e4d8"; }
 .icon-windows::before { content: "\e487"; }
 .icon-woman::before { content: "\e0fe"; }
