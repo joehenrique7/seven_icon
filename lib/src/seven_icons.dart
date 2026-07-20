@@ -1648,9 +1648,6 @@ class SevenIcons {
   /// Ícone `lamp-2` — origem: lamp-2.svg
   static const IconData lamp2 = IconData(0xe493, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `lamp-charge-1` — origem: lamp-charge-1.svg
-  static const IconData lampCharge1 = IconData(0xe016, fontFamily: _family, fontPackage: _familyPackage);
-
   /// Ícone `lamp-charge` — origem: lamp-charge.svg
   static const IconData lampCharge = IconData(0xe2c5, fontFamily: _family, fontPackage: _familyPackage);
 

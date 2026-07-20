@@ -5,7 +5,7 @@
  * Nada de framework, nada de build step: é <script type="module"> puro.
  *
  * Ponto importante: o viewer NÃO sabe nada sobre a fonte. Ele só aplica as
- * classes .icon-<nome> de dist/icons.css. Se um ícone aparecer em branco aqui,
+ * classes .icon-<nome> de dist/seven_icons.css. Se um ícone aparecer em branco aqui,
  * o problema está no .ttf/no build — não neste arquivo.
  */
 
@@ -28,8 +28,10 @@ function load() {
   try {
     // Dados vêm de icons.js (window.__ICONS__), carregado por um <script> antes
     // deste. Assim o viewer abre com file:// puro — sem fetch, sem servidor.
-    // O icons.js é escrito por emitViewer() no build, junto com icons.css e
-    // icons.ttf. Nome de ícone errado/velho aqui = build não rodou.
+    // O icons.js é escrito por emitViewer() no build, junto com o
+    // seven_icons.css e o seven_icons.ttf. Nome errado/velho aqui = build não
+    // rodou. Célula VAZIA com nome certo = o index.html está carregando um CSS
+    // com nome diferente do que o build gera (ver build/lib/paths.js).
     const data = window.__ICONS__;
     if (!data || !Array.isArray(data.icons)) {
       throw new Error('window.__ICONS__ ausente ou inválido');

@@ -571,7 +571,6 @@
 .icon-keyboard-open::before { content: "\e2c2"; }
 .icon-keyboard::before { content: "\e2c1"; }
 .icon-lamp-2::before { content: "\e493"; }
-.icon-lamp-charge-1::before { content: "\e016"; }
 .icon-lamp-charge::before { content: "\e2c5"; }
 .icon-lamp-on::before { content: "\e2c7"; }
 .icon-lamp-slash::before { content: "\e2c8"; }
