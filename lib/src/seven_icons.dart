@@ -7,12 +7,6 @@ class SevenIcons {
   static const String _familyPackage = 'seven_icon';
 
 
-  /// Ícone `i-24-support` — origem: 24-support.svg
-  static const IconData i24Support = IconData(0xe14a, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `i-3-dots-more` — origem: 3-dots-more.svg
-  static const IconData i3DotsMore = IconData(0xe14b, fontFamily: _family, fontPackage: _familyPackage);
-
   /// Ícone `i-3d-cube-scan` — origem: 3d-cube-scan.svg
   static const IconData i3dCubeScan = IconData(0xe14c, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -27,9 +21,6 @@ class SevenIcons {
 
   /// Ícone `i-3square` — origem: 3square.svg
   static const IconData i3square = IconData(0xe150, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `aave-aave` — origem: aave-aave.svg
-  static const IconData aaveAave = IconData(0xe151, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `accessibility` — origem: accessibility.svg
   static const IconData accessibility = IconData(0xe009, fontFamily: _family, fontPackage: _familyPackage);
@@ -78,9 +69,6 @@ class SevenIcons {
 
   /// Ícone `ai-landscape` — origem: ai-landscape.svg
   static const IconData aiLandscape = IconData(0xe4ec, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `ai-loveletter` — origem: ai-loveletter.svg
-  static const IconData aiLoveletter = IconData(0xe4ed, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `ai-record-video` — origem: ai-record-video.svg
   static const IconData aiRecordVideo = IconData(0xe4ee, fontFamily: _family, fontPackage: _familyPackage);
@@ -150,12 +138,6 @@ class SevenIcons {
 
   /// Ícone `android` — origem: android.svg
   static const IconData android = IconData(0xe15f, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `angel` — origem: angel.svg
-  static const IconData angel = IconData(0xe07c, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `angel2` — origem: angel2.svg
-  static const IconData angel2 = IconData(0xe07d, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `ankr-ankr` — origem: ankr-ankr.svg
   static const IconData ankrAnkr = IconData(0xe160, fontFamily: _family, fontPackage: _familyPackage);
@@ -351,6 +333,9 @@ class SevenIcons {
 
   /// Ícone `balance` — origem: balance.svg
   static const IconData balance = IconData(0xe4db, fontFamily: _family, fontPackage: _familyPackage);
+
+  /// Ícone `ball` — origem: ball.svg
+  static const IconData ball = IconData(0xe085, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `ball2` — origem: ball2.svg
   static const IconData ball2 = IconData(0xe08d, fontFamily: _family, fontPackage: _familyPackage);
@@ -585,9 +570,6 @@ class SevenIcons {
 
   /// Ícone `calendar-6` — origem: calendar-6.svg
   static const IconData calendar6 = IconData(0xe06f, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `calendar-8` — origem: calendar-8.svg
-  static const IconData calendar8 = IconData(0xe117, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `calendar-add` — origem: calendar-add.svg
   static const IconData calendarAdd = IconData(0xe1a1, fontFamily: _family, fontPackage: _familyPackage);
@@ -1105,8 +1087,8 @@ class SevenIcons {
   /// Ícone `drop` — origem: drop.svg
   static const IconData drop = IconData(0xe224, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `edit-2` — origem: edit-2.svg
-  static const IconData edit2 = IconData(0xe12d, fontFamily: _family, fontPackage: _familyPackage);
+  /// Ícone `edit-1` — origem: edit-1.svg
+  static const IconData edit1 = IconData(0xe4fd, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `edit` — origem: edit.svg
   static const IconData edit = IconData(0xe226, fontFamily: _family, fontPackage: _familyPackage);
@@ -1156,9 +1138,6 @@ class SevenIcons {
   /// Ícone `eraser` — origem: eraser.svg
   static const IconData eraser = IconData(0xe236, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `ethereum-classic-etc` — origem: ethereum-classic-etc.svg
-  static const IconData ethereumClassicEtc = IconData(0xe237, fontFamily: _family, fontPackage: _familyPackage);
-
   /// Ícone `ethereum-eth` — origem: ethereum-eth.svg
   static const IconData ethereumEth = IconData(0xe238, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -1188,6 +1167,9 @@ class SevenIcons {
 
   /// Ícone `favorite-chart` — origem: favorite-chart.svg
   static const IconData favoriteChart = IconData(0xe0cd, fontFamily: _family, fontPackage: _familyPackage);
+
+  /// Ícone `federation-no` — origem: federation-no.svg
+  static const IconData federationNo = IconData(0xe4fe, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `federation` — origem: federation.svg
   static const IconData federation = IconData(0xe4df, fontFamily: _family, fontPackage: _familyPackage);
@@ -1225,6 +1207,9 @@ class SevenIcons {
   /// Ícone `finger-scan` — origem: finger-scan.svg
   static const IconData fingerScan = IconData(0xe247, fontFamily: _family, fontPackage: _familyPackage);
 
+  /// Ícone `fire-extinguisher` — origem: fire-extinguisher.svg
+  static const IconData fireExtinguisher = IconData(0xe4ff, fontFamily: _family, fontPackage: _familyPackage);
+
   /// Ícone `fire` — origem: fire.svg
   static const IconData fire = IconData(0xe248, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -1245,6 +1230,9 @@ class SevenIcons {
 
   /// Ícone `fireworks4` — origem: fireworks4.svg
   static const IconData fireworks4 = IconData(0xe24e, fontFamily: _family, fontPackage: _familyPackage);
+
+  /// Ícone `first-aid-kit` — origem: first-aid-kit.svg
+  static const IconData firstAidKit = IconData(0xe500, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `firstline` — origem: firstline.svg
   static const IconData firstline = IconData(0xe24f, fontFamily: _family, fontPackage: _familyPackage);
@@ -1383,12 +1371,6 @@ class SevenIcons {
 
   /// Ícone `gift-2` — origem: gift-2.svg
   static const IconData gift2 = IconData(0xe135, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `gift-bag` — origem: gift-bag.svg
-  static const IconData giftBag = IconData(0xe272, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `gift-cupcake` — origem: gift-cupcake.svg
-  static const IconData giftCupcake = IconData(0xe274, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `gift` — origem: gift.svg
   static const IconData gift = IconData(0xe273, fontFamily: _family, fontPackage: _familyPackage);
@@ -1546,6 +1528,9 @@ class SevenIcons {
   /// Ícone `hedera-hashgraph-hbar` — origem: hedera-hashgraph-hbar.svg
   static const IconData hederaHashgraphHbar = IconData(0xe2a9, fontFamily: _family, fontPackage: _familyPackage);
 
+  /// Ícone `height-adjust` — origem: height-adjust.svg
+  static const IconData heightAdjust = IconData(0xe501, fontFamily: _family, fontPackage: _familyPackage);
+
   /// Ícone `hierarchy-2` — origem: hierarchy-2.svg
   static const IconData hierarchy2 = IconData(0xe141, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -1602,12 +1587,6 @@ class SevenIcons {
 
   /// Ícone `html` — origem: html.svg
   static const IconData html = IconData(0xe2b3, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `hugeicons-first-aid-kit` — origem: hugeicons-first-aid-kit.svg
-  static const IconData hugeiconsFirstAidKit = IconData(0xe015, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `hugeicons-whistle` — origem: hugeicons_whistle.svg
-  static const IconData hugeiconsWhistle = IconData(0xe4fb, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `huobi-token-ht` — origem: huobi-token-ht.svg
   static const IconData huobiTokenHt = IconData(0xe2b4, fontFamily: _family, fontPackage: _familyPackage);
@@ -1777,9 +1756,6 @@ class SevenIcons {
   /// Ícone `logout2` — origem: logout2.svg
   static const IconData logout2 = IconData(0xe0de, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `lollipop` — origem: lollipop.svg
-  static const IconData lollipop = IconData(0xe2e3, fontFamily: _family, fontPackage: _familyPackage);
-
   /// Ícone `lovely` — origem: lovely.svg
   static const IconData lovely = IconData(0xe2e4, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -1798,8 +1774,8 @@ class SevenIcons {
   /// Ícone `man` — origem: man.svg
   static const IconData man = IconData(0xe0df, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `map-2` — origem: map-2.svg
-  static const IconData map2 = IconData(0xe498, fontFamily: _family, fontPackage: _familyPackage);
+  /// Ícone `map-1` — origem: map-1.svg
+  static const IconData map1 = IconData(0xe502, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `map` — origem: map.svg
   static const IconData map = IconData(0xe2ea, fontFamily: _family, fontPackage: _familyPackage);
@@ -1993,9 +1969,6 @@ class SevenIcons {
   /// Ícone `moneys` — origem: moneys.svg
   static const IconData moneys = IconData(0xe31c, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `monitor-1` — origem: monitor-1.svg
-  static const IconData monitor1 = IconData(0xe019, fontFamily: _family, fontPackage: _familyPackage);
-
   /// Ícone `monitor-mobile` — origem: monitor-mobile.svg
   static const IconData monitorMobile = IconData(0xe31e, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -2068,8 +2041,11 @@ class SevenIcons {
   /// Ícone `musicnote` — origem: musicnote.svg
   static const IconData musicnote = IconData(0xe332, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `mynaui-fire-extinguisher` — origem: mynaui-fire-extinguisher.svg
-  static const IconData mynauiFireExtinguisher = IconData(0xe00b, fontFamily: _family, fontPackage: _familyPackage);
+  /// Ícone `network-ball` — origem: network-ball.svg
+  static const IconData networkBall = IconData(0xe503, fontFamily: _family, fontPackage: _familyPackage);
+
+  /// Ícone `network` — origem: network.svg
+  static const IconData network = IconData(0xe504, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `next` — origem: next.svg
   static const IconData next = IconData(0xe336, fontFamily: _family, fontPackage: _familyPackage);
@@ -2521,14 +2497,14 @@ class SevenIcons {
   /// Ícone `security-card` — origem: security-card.svg
   static const IconData securityCard = IconData(0xe3ad, fontFamily: _family, fontPackage: _familyPackage);
 
+  /// Ícone `security-check` — origem: security-check.svg
+  static const IconData securityCheck = IconData(0xe505, fontFamily: _family, fontPackage: _familyPackage);
+
   /// Ícone `security-safe` — origem: security-safe.svg
   static const IconData securitySafe = IconData(0xe3ae, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `security-time` — origem: security-time.svg
   static const IconData securityTime = IconData(0xe3af, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `security-user-1` — origem: security-user-1.svg
-  static const IconData securityUser1 = IconData(0xe01c, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `security-user` — origem: security-user.svg
   static const IconData securityUser = IconData(0xe3b0, fontFamily: _family, fontPackage: _familyPackage);
@@ -2722,6 +2698,9 @@ class SevenIcons {
   /// Ícone `snapchat` — origem: snapchat.svg
   static const IconData snapchat = IconData(0xe3de, fontFamily: _family, fontPackage: _familyPackage);
 
+  /// Ícone `snow` — origem: snow.svg
+  static const IconData snow = IconData(0xe3df, fontFamily: _family, fontPackage: _familyPackage);
+
   /// Ícone `solana-sol` — origem: solana-sol.svg
   static const IconData solanaSol = IconData(0xe3f9, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -2739,9 +2718,6 @@ class SevenIcons {
 
   /// Ícone `speedometer` — origem: speedometer.svg
   static const IconData speedometer = IconData(0xe3fe, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `sports-handball` — origem: sports-handball.svg
-  static const IconData sportsHandball = IconData(0xe4e2, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `spotify` — origem: spotify.svg
   static const IconData spotify = IconData(0xe3ff, fontFamily: _family, fontPackage: _familyPackage);
@@ -2806,9 +2782,6 @@ class SevenIcons {
   /// Ícone `story` — origem: story.svg
   static const IconData story = IconData(0xe412, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `ultimate-volleyball-net` — origem: streamline-ultimate-volleyball-net.svg
-  static const IconData ultimateVolleyballNet = IconData(0xe4f9, fontFamily: _family, fontPackage: _familyPackage);
-
   /// Ícone `strongbox-2` — origem: strongbox-2.svg
   static const IconData strongbox2 = IconData(0xe4cd, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -2823,6 +2796,9 @@ class SevenIcons {
 
   /// Ícone `sun` — origem: sun.svg
   static const IconData sun = IconData(0xe415, fontFamily: _family, fontPackage: _familyPackage);
+
+  /// Ícone `support` — origem: support.svg
+  static const IconData support = IconData(0xe506, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `swap-horizontal` — origem: swap-horizontal.svg
   static const IconData swapHorizontal = IconData(0xe0f8, fontFamily: _family, fontPackage: _familyPackage);
@@ -2866,9 +2842,6 @@ class SevenIcons {
   /// Ícone `tether-usdt` — origem: tether-usdt.svg
   static const IconData tetherUsdt = IconData(0xe420, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `text-block` — origem: text-block.svg
-  static const IconData textBlock = IconData(0xe422, fontFamily: _family, fontPackage: _familyPackage);
-
   /// Ícone `text-bold` — origem: text-bold.svg
   static const IconData textBold = IconData(0xe423, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -2905,8 +2878,8 @@ class SevenIcons {
   /// Ícone `theta-theta` — origem: theta-theta.svg
   static const IconData thetaTheta = IconData(0xe42d, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `thorchain-rune` — origem: thorchain-rune.svg
-  static const IconData thorchainRune = IconData(0xe42e, fontFamily: _family, fontPackage: _familyPackage);
+  /// Ícone `three-dots-more` — origem: three-dots-more.svg
+  static const IconData threeDotsMore = IconData(0xe507, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `ticket-2` — origem: ticket-2.svg
   static const IconData ticket2 = IconData(0xe4cf, fontFamily: _family, fontPackage: _familyPackage);
@@ -3052,11 +3025,11 @@ class SevenIcons {
   /// Ícone `verify` — origem: verify.svg
   static const IconData verify = IconData(0xe463, fontFamily: _family, fontPackage: _familyPackage);
 
+  /// Ícone `vest` — origem: vest.svg
+  static const IconData vest = IconData(0xe508, fontFamily: _family, fontPackage: _familyPackage);
+
   /// Ícone `vibe-vibe` — origem: vibe-vibe.svg
   static const IconData vibeVibe = IconData(0xe464, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `video-1` — origem: video-1.svg
-  static const IconData video1 = IconData(0xe01f, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `video-add` — origem: video-add.svg
   static const IconData videoAdd = IconData(0xe466, fontFamily: _family, fontPackage: _familyPackage);
@@ -3102,9 +3075,6 @@ class SevenIcons {
 
   /// Ícone `volume-cross` — origem: volume-cross.svg
   static const IconData volumeCross = IconData(0xe473, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `volume-high-1` — origem: volume-high-1.svg
-  static const IconData volumeHigh1 = IconData(0xe020, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `volume-high` — origem: volume-high.svg
   static const IconData volumeHigh = IconData(0xe474, fontFamily: _family, fontPackage: _familyPackage);
@@ -3157,9 +3127,6 @@ class SevenIcons {
   /// Ícone `wallet` — origem: wallet.svg
   static const IconData wallet = IconData(0xe47a, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `wanchain-wan-2` — origem: wanchain-wan-2.svg
-  static const IconData wanchainWan2 = IconData(0xe4d7, fontFamily: _family, fontPackage: _familyPackage);
-
   /// Ícone `wanchain-wan` — origem: wanchain-wan.svg
   static const IconData wanchainWan = IconData(0xe481, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -3172,6 +3139,9 @@ class SevenIcons {
   /// Ícone `whatsapp` — origem: whatsapp.svg
   static const IconData whatsapp = IconData(0xe484, fontFamily: _family, fontPackage: _familyPackage);
 
+  /// Ícone `whistle` — origem: whistle.svg
+  static const IconData whistle = IconData(0xe509, fontFamily: _family, fontPackage: _familyPackage);
+
   /// Ícone `wifi-linear` — origem: wifi-linear.svg
   static const IconData wifiLinear = IconData(0xe021, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -3180,12 +3150,6 @@ class SevenIcons {
 
   /// Ícone `wifi` — origem: wifi.svg
   static const IconData wifi = IconData(0xe485, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `wind-1` — origem: wind-1.svg
-  static const IconData wind1 = IconData(0xe022, fontFamily: _family, fontPackage: _familyPackage);
-
-  /// Ícone `wind-2` — origem: wind-2.svg
-  static const IconData wind2 = IconData(0xe4d9, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `wind` — origem: wind.svg
   static const IconData wind = IconData(0xe4d8, fontFamily: _family, fontPackage: _familyPackage);
