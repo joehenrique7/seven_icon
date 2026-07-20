@@ -1,6 +1,6 @@
 name: seven_icon
 description: "Seven Icon: pacote de ícones do AtletaDoVolei exportados como icon font."
-version: 0.11.1
+version: 0.12.3
 homepage:
 
 environment:
@@ -16,6 +16,6 @@ dev_dependencies:
 
 flutter:
   fonts:
-    - family: SevenIcon
+    - family: SevenIcons
       fonts:
         - asset: assets/fonts/seven_icons.ttf
