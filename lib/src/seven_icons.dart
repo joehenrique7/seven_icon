@@ -433,6 +433,9 @@ class SevenIcons {
   /// Ícone `blur` — origem: blur.svg
   static const IconData blur = IconData(0xe189, fontFamily: _family, fontPackage: _familyPackage);
 
+  /// Ícone `bodymuscle` — origem: bodymuscle.svg
+  static const IconData bodymuscle = IconData(0xe50d, fontFamily: _family, fontPackage: _familyPackage);
+
   /// Ícone `book-open` — origem: book-open.svg
   static const IconData bookOpen = IconData(0xe18b, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -772,6 +775,9 @@ class SevenIcons {
   /// Ícone `civic-cvc` — origem: civic-cvc.svg
   static const IconData civicCvc = IconData(0xe1c8, fontFamily: _family, fontPackage: _familyPackage);
 
+  /// Ícone `clipboard-text` — origem: clipboard-text.svg
+  static const IconData clipboardText = IconData(0xe50a, fontFamily: _family, fontPackage: _familyPackage);
+
   /// Ícone `clipboard` — origem: clipboard.svg
   static const IconData clipboard = IconData(0xe1c9, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -927,6 +933,9 @@ class SevenIcons {
 
   /// Ícone `crop` — origem: crop.svg
   static const IconData crop = IconData(0xe1f1, fontFamily: _family, fontPackage: _familyPackage);
+
+  /// Ícone `crosshairs` — origem: crosshairs.svg
+  static const IconData crosshairs = IconData(0xe50b, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `crown-2` — origem: crown-2.svg
   static const IconData crown2 = IconData(0xe125, fontFamily: _family, fontPackage: _familyPackage);
@@ -1467,6 +1476,9 @@ class SevenIcons {
 
   /// Ícone `grids` — origem: grids.svg
   static const IconData grids = IconData(0xe295, fontFamily: _family, fontPackage: _familyPackage);
+
+  /// Ícone `hand` — origem: hand.svg
+  static const IconData hand = IconData(0xe50c, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `hanging-ornament` — origem: hanging-ornament.svg
   static const IconData hangingOrnament = IconData(0xe296, fontFamily: _family, fontPackage: _familyPackage);

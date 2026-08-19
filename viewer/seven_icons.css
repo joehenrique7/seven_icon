@@ -166,6 +166,7 @@
 .icon-blend::before { content: "\e184"; }
 .icon-bluetooth::before { content: "\e186"; }
 .icon-blur::before { content: "\e189"; }
+.icon-bodymuscle::before { content: "\e50d"; }
 .icon-book-open::before { content: "\e18b"; }
 .icon-book-saved::before { content: "\e05a"; }
 .icon-book-square::before { content: "\e05b"; }
@@ -279,6 +280,7 @@
 .icon-christmas-wreath::before { content: "\e1c6"; }
 .icon-chrome::before { content: "\e1c7"; }
 .icon-civic-cvc::before { content: "\e1c8"; }
+.icon-clipboard-text::before { content: "\e50a"; }
 .icon-clipboard::before { content: "\e1c9"; }
 .icon-clock-3::before { content: "\e120"; }
 .icon-clock-4::before { content: "\e121"; }
@@ -331,6 +333,7 @@
 .icon-cpu::before { content: "\e1ee"; }
 .icon-creative-commons::before { content: "\e1f0"; }
 .icon-crop::before { content: "\e1f1"; }
+.icon-crosshairs::before { content: "\e50b"; }
 .icon-crown-2::before { content: "\e125"; }
 .icon-crown::before { content: "\e1f2"; }
 .icon-cup::before { content: "\e1f3"; }
@@ -511,6 +514,7 @@
 .icon-grid-lock::before { content: "\e294"; }
 .icon-grid::before { content: "\e28f"; }
 .icon-grids::before { content: "\e295"; }
+.icon-hand::before { content: "\e50c"; }
 .icon-hanging-ornament::before { content: "\e296"; }
 .icon-happy::before { content: "\e297"; }
 .icon-happyemoji::before { content: "\e298"; }
