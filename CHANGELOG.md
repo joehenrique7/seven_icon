@@ -1,3 +1,10 @@
+## 0.13.0
+
+* `SevenIcons` com **1060 ícones** — 3 novos ícones: `mission` (`0xE50E`), `scoreboard` (`0xE50F`) e `target` (`0xE510`). SVGs (stroke) centralizados na grade 24×24, rasterizados + revetorizados (Skia + potrace) para fill `nonzero` e mesclados como glifos na `seven_icons.ttf` existente — demais codepoints/contornos preservados (merge incremental; renderização dos glifos existentes idêntica pixel a pixel).
+* **Removido** `category2` (`category-2`, codepoint `0xE11B`), duplicado de `category` — use `SevenIcons.category`.
+* `hmtx`: lsb de cada glifo alinhado ao `xMin` real do contorno (antes estava zerado com bbox desatualizado); sem efeito visual, evita deslocamento caso a bbox seja recalculada.
+* Viewer (`viewer/`) atualizado com a nova fonte e lista de ícones.
+
 ## 0.10.0
 
 * `SevenIcons` ampliada para **577 ícones** — 2 novos ícones: `clothing` (cabide) no codepoint `0xE240` e `chairLight1` (cadeira, arte preenchida melhor desenhada) no codepoint `0xE241`. O `chairLight` original do Iconsax (codepoint `0xE222`) foi **preservado** — a nova arte entrou como variante `chairLight1`, mantendo as duas versões disponíveis. Os glifos foram **reenquadrados** em um viewBox `0 0 24 24` com o conteúdo centralizado em `(12,12)` e escalado para a extensão mediana do conjunto (~21 un), corrigindo o desalinhamento/tamanho irregular percebido na UI. SVGs preenchidos normalizados (Skia, fill `nonzero`) e mesclados como glifos na `iconsax.ttf` existente — os demais codepoints/contornos foram preservados (merge incremental, sem regenerar a fonte). Novos: clothing, chairLight1.

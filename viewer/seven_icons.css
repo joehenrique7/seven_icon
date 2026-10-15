@@ -250,7 +250,6 @@
 .icon-card-tick::before { content: "\e1b5"; }
 .icon-card::before { content: "\e1ac"; }
 .icon-cards::before { content: "\e1b7"; }
-.icon-category-2::before { content: "\e11b"; }
 .icon-category::before { content: "\e1b8"; }
 .icon-cd::before { content: "\e1b9"; }
 .icon-celo-celo::before { content: "\e1ba"; }
@@ -663,6 +662,7 @@
 .icon-minus::before { content: "\e30a"; }
 .icon-mirror::before { content: "\e30c"; }
 .icon-mirroring-screen::before { content: "\e30d"; }
+.icon-mission::before { content: "\e50e"; }
 .icon-mistletoe::before { content: "\e30e"; }
 .icon-mitten::before { content: "\e30f"; }
 .icon-mobile-programming::before { content: "\e311"; }
@@ -844,6 +844,7 @@
 .icon-scanning::before { content: "\e3a2"; }
 .icon-scissor-2::before { content: "\e4bd"; }
 .icon-scissor::before { content: "\e3a3"; }
+.icon-scoreboard::before { content: "\e50f"; }
 .icon-screenmirroring::before { content: "\e3a4"; }
 .icon-scroll::before { content: "\e3a5"; }
 .icon-search-favorite-2::before { content: "\e4be"; }
@@ -966,6 +967,7 @@
 .icon-tag-right::before { content: "\e419"; }
 .icon-tag-user::before { content: "\e41a"; }
 .icon-tag::before { content: "\e417"; }
+.icon-target::before { content: "\e510"; }
 .icon-task-square::before { content: "\e41c"; }
 .icon-task::before { content: "\e41b"; }
 .icon-teacher::before { content: "\e41d"; }

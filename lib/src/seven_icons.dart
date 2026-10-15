@@ -685,9 +685,6 @@ class SevenIcons {
   /// Ícone `cards` — origem: cards.svg
   static const IconData cards = IconData(0xe1b7, fontFamily: _family, fontPackage: _familyPackage);
 
-  /// Ícone `category-2` — origem: category-2.svg
-  static const IconData category2 = IconData(0xe11b, fontFamily: _family, fontPackage: _familyPackage);
-
   /// Ícone `category` — origem: category.svg
   static const IconData category = IconData(0xe1b8, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -1924,6 +1921,9 @@ class SevenIcons {
   /// Ícone `mirroring-screen` — origem: mirroring-screen.svg
   static const IconData mirroringScreen = IconData(0xe30d, fontFamily: _family, fontPackage: _familyPackage);
 
+  /// Ícone `mission` — origem: mission.svg
+  static const IconData mission = IconData(0xe50e, fontFamily: _family, fontPackage: _familyPackage);
+
   /// Ícone `mistletoe` — origem: mistletoe.svg
   static const IconData mistletoe = IconData(0xe30e, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -2467,6 +2467,9 @@ class SevenIcons {
   /// Ícone `scissor` — origem: scissor.svg
   static const IconData scissor = IconData(0xe3a3, fontFamily: _family, fontPackage: _familyPackage);
 
+  /// Ícone `scoreboard` — origem: scoreboard.svg
+  static const IconData scoreboard = IconData(0xe50f, fontFamily: _family, fontPackage: _familyPackage);
+
   /// Ícone `screenmirroring` — origem: screenmirroring.svg
   static const IconData screenmirroring = IconData(0xe3a4, fontFamily: _family, fontPackage: _familyPackage);
 
@@ -2832,6 +2835,9 @@ class SevenIcons {
 
   /// Ícone `tag` — origem: tag.svg
   static const IconData tag = IconData(0xe417, fontFamily: _family, fontPackage: _familyPackage);
+
+  /// Ícone `target` — origem: target.svg
+  static const IconData target = IconData(0xe510, fontFamily: _family, fontPackage: _familyPackage);
 
   /// Ícone `task-square` — origem: task-square.svg
   static const IconData taskSquare = IconData(0xe41c, fontFamily: _family, fontPackage: _familyPackage);

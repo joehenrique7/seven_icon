@@ -11,7 +11,7 @@ dependencies:
   seven_icon:
     git:
       url: https://github.com/joehenrique7/seven_icon
-      ref: v0.10.0
+      ref: v0.13.0
 ```
 
 ## Uso
@@ -28,7 +28,7 @@ Icon(SevenIcons.search, size: 24, color: Colors.black);
 
 ## Ícones disponíveis
 
-O pacote expõe **1054 ícones** como constantes `IconData` em `SevenIcons`.
+O pacote expõe **1060 ícones** como constantes `IconData` em `SevenIcons`.
 Para navegar/buscar a lista completa, consulte [`lib/src/seven_icons.dart`](lib/src/seven_icons.dart).
 
 ## Como adicionar/atualizar ícones
