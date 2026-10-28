@@ -142,6 +142,9 @@ class SevenIcons {
   /// Ícone `ankr-ankr` — origem: ankr-ankr.svg
   static const IconData ankrAnkr = IconData(0xe160, fontFamily: _family, fontPackage: _familyPackage);
 
+  /// Ícone `announcement` — origem: announcement.svg
+  static const IconData announcement = IconData(0xe511, fontFamily: _family, fontPackage: _familyPackage);
+
   /// Ícone `antenna` — origem: antenna.svg
   static const IconData antenna = IconData(0xe002, fontFamily: _family, fontPackage: _familyPackage);
 

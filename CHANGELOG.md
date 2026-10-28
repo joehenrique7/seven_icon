@@ -1,3 +1,8 @@
+## 0.14.0
+
+* `SevenIcons` com **1061 ícones** — novo `announcement` (`0xE511`), um megafone. O SVG (fill, 20×20) entrou na grade 24×24 com 2 de margem e foi mesclado como glifo na `seven_icons.ttf` existente; demais codepoints e contornos preservados.
+* Viewer (`viewer/`) atualizado com a nova fonte e lista de ícones.
+
 ## 0.13.0
 
 * `SevenIcons` com **1060 ícones** — 3 novos ícones: `mission` (`0xE50E`), `scoreboard` (`0xE50F`) e `target` (`0xE510`). SVGs (stroke) centralizados na grade 24×24, rasterizados + revetorizados (Skia + potrace) para fill `nonzero` e mesclados como glifos na `seven_icons.ttf` existente — demais codepoints/contornos preservados (merge incremental; renderização dos glifos existentes idêntica pixel a pixel).
